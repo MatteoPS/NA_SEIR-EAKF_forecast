@@ -129,24 +129,11 @@ para(betamap) = truth_beta_val;
 
 
 %%%%%%%%%% SEED THRUTH
-
-%random minimal seed everywhere
-%E(:,1)=round(abs(randn(size(Iu(:,1)))).*C(:,1)./10000);
-
-% Iu(:,1)=round(abs(randn(size(Iu(:,1)))).*C(:,1)./10000);
-% for l=1:num_loc
-%     for j=part(l):part(l+1)-1
-%         Ir(j,1)=round(Iu(j,1)*(para(alphamaps(l)))); %multiplying Iu by alpha to seed Ir
-%     end
-% end
-
-% adding more cases in seed location
+% adding cases in seed location
 seed_name = seed_options.name(seed_options.code == seed_code);
 seed_l = statecodes.Var1(statecodes.Var2 == seed_name);
 for j=part(seed_l):part(seed_l+1)-1
     E(j,1)=ceil(C(j,1)./1000);
-    %Iu(j,1)=ceil(C(j,1)./1000); %seeding the undetected in all the subpop of seed_loc
-    %Ir(j,1)=ceil(Iu(j,1)*(para(alphamaps(seed_l)))); %multiplying Iu by alpha to get Ir
 end
 
 
@@ -294,16 +281,6 @@ for t=1:num_times
         if noise == "off"
             noisy_dailyIr(i,t)=dailyIr_post_rec(i,t);
         end
-
-        % if true_cases > 0
-        %     % Negative binomial: mean = true_cases, variance = true_cases + true_cases^2/k
-        %     % This gives variance proportional to mean, but sublinear
-        %     k=truth_disp_par;
-        %     noisy_dailyIr(i,t) = nbinrnd(k, k/(k+true_cases));
-        % else
-        %     noisy_dailyIr(i,t) = 0;
-        % end
-        %
 
     end
 

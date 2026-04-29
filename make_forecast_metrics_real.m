@@ -5,21 +5,6 @@ load Truths/1211_real_stats.mat
 % Define file pattern
 file_pattern = "Model_Runs/*_real_*.mat";
 file_list = dir(file_pattern);
-%{
-%ordering files to match the sims order
-file_order= ["nf_p","f_p","nf_n","f_n"];
-new_list = [];
-% Update patterns to match the exact end of the file (e.g., "_f_p.mat")
-strict_patterns = "_" + file_order + ".mat"; 
-
-for p = strict_patterns
-    % Use endsWith to ensure we don't match substrings (like f_p inside nf_p)
-    match_idx = endsWith({file_list.name}, p);
-    new_list = [new_list; file_list(match_idx)];
-end
-file_list = new_list;
-%}
-
 
 % Define onset thresholds to calculate metrics for
 onset_thresholds = [25, 50, 100, 200, 300];
