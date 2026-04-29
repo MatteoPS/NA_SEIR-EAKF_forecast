@@ -1,0 +1,85 @@
+"state","airport","city","latitude","longitude","ID","CountryCode","Color","Population"
+"Aguascalientes","Lic. Jesús Terán Peredo Airport","Aguascalientes, Mexico",21.880487,-102.2967195,1,"MX","green",1425607
+"Alabama","Birmingham–Shuttlesworth Intl Airport","Birmingham, USA",33.5206824,-86.8024326,2,"US","blue",5024279
+"Alaska","Ted Stevens Anchorage International","Anchorage, USA",61.2163129,-149.894852,3,"US","blue",733391
+"Alberta","Calgary International Airport","Calgary, Canada",51.0456064,-114.057541,4,"CA","red",4443773
+"Arizona","Phoenix Sky Harbor International Airport","Phoenix, USA",33.4484367,-112.074141,5,"US","blue",7151502
+"Arkansas","Bill and Hillary Clinton Natl Airport","Little Rock, USA",34.7465071,-92.2896267,6,"US","blue",3011524
+"Baja California","Tijuana International Airport","Tijuana, Mexico",32.5317397,-117.019529,7,"MX","green",3769020
+"Baja California Sur","Los Cabos International Airport","San José del Cabo, Mexico",23.0598364,-109.7025148,8,"MX","green",798447
+"British Columbia","Vancouver International Airport","Vancouver, Canada",49.2608724,-123.113952,9,"CA","red",5202378
+"California","Los Angeles International Airport","Los Angeles, USA",34.0536909,-118.242766,10,"US","blue",39538223
+"Campeche","Ing. Alberto Acuña Ongay Airport","Campeche, Mexico",19,-90.5,11,"MX","green",928363
+"Chiapas","Ángel Albino Corzo Airport","Tuxtla Gutiérrez, Mexico",16.753801,-93.115959,12,"MX","green",5543828
+"Chihuahua","General Roberto Fierro Airport","Chihuahua, Mexico",28.5000001,-106.0000001,13,"MX","green",3741869
+"Coahuila de Zaragoza","Torreón International Airport","Torreón, Mexico",25.542698,-103.410512,14,"MX","green",3146771
+"Colima","Lic. Miguel de la Madrid Airport","Colima, Mexico",19.166667,-104,15,"MX","green",731391
+"Colorado","Denver International Airport","Denver, USA",39.7392364,-104.984862,16,"US","blue",5773714
+"Connecticut","Bradley International Airport","Hartford, USA",41.764582,-72.6908547,17,"US","blue",3605944
+"District of Columbia","Ronald Reagan Washington National Airport","Washington, D.C., USA",38.8950368,-77.0365427,19,"US","blue",689545
+"Distrito Federal","Benito Juárez International Airport","Mexico City, Mexico",19.3207722,-99.1514678,20,"MX","green",9209944
+"Durango","General Guadalupe Victoria Airport","Durango, Mexico",24.833333,-104.833333,21,"MX","green",1832650
+"Estado de Mexico","Toluca International Airport","Toluca, Mexico",19.292545,-99.6569007,22,"MX","green",16992418
+"Florida","Miami International Airport","Miami, USA",25.7741728,-80.19362,23,"US","blue",21538187
+"Georgia","Hartsfield–Jackson Atlanta Intl Airport","Atlanta, USA",33.7544657,-84.3898151,24,"US","blue",10711908
+"Guanajuato","Del Bajío International Airport","León, Mexico",21.121965,-101.6829766,25,"MX","green",6166934
+"Guerrero","Acapulco International Airport","Acapulco, Mexico",16.8680495,-99.8940182,26,"MX","green",3540685
+"Idaho","Boise Airport","Boise, USA",43.6166163,-116.200886,29,"US","blue",1839106
+"Illinois","O'Hare International Airport","Chicago, USA",41.8755616,-87.6244212,30,"US","blue",12801989
+"Indiana","Indianapolis International Airport","Indianapolis, USA",39.7683331,-86.1583502,31,"US","blue",6785528
+"Iowa","Des Moines International Airport","Des Moines, USA",41.5868654,-93.6249494,32,"US","blue",3271616
+"Jalisco","Guadalajara International Airport","Guadalajara, Mexico",20.6720375,-103.338396,33,"MX","green",8348151
+"Kansas","Wichita Dwight D. Eisenhower Airport","Wichita, USA",37.6922361,-97.3375448,34,"US","blue",2937880
+"Kentucky","Louisville International Airport","Louisville, USA",38.2542376,-85.759407,35,"US","blue",4505836
+"Louisiana","Louis Armstrong New Orleans Intl","New Orleans, USA",29.9559145,-90.0730259,36,"US","blue",4657757
+"Maine","Portland International Jetport","Portland, USA",45.5202471,-122.674194,37,"US","blue",1362359
+"Manitoba","Winnipeg James Armstrong Richardson","Winnipeg, Canada",49.8955367,-97.1384584,38,"CA","red",1391979
+"Maryland","Baltimore–Washington International","Baltimore, USA",39.2908816,-76.610759,39,"US","blue",6177224
+"Massachusetts","Logan International Airport","Boston, USA",42.3554334,-71.060511,40,"US","blue",7029917
+"Michigan","Detroit Metropolitan Airport","Detroit, USA",42.3315509,-83.0466403,41,"US","blue",10077331
+"Michoacan de Ocampo","General Francisco J. Mujica Airport","Morelia, Mexico",19.6546004,-101.2623797,42,"MX","green",4748846
+"Minnesota","Minneapolis–Saint Paul Intl Airport","Minneapolis, USA",44.9772995,-93.2654692,43,"US","blue",5706494
+"Mississippi","Jackson–Medgar Wiley Evers Intl Airport","Jackson, USA",32.2998686,-90.1830408,44,"US","blue",2961279
+"Missouri","St. Louis Lambert International Airport","St. Louis, USA",38.6280278,-90.1910154,45,"US","blue",6154913
+"Montana","Billings Logan International Airport","Billings, USA",45.7874957,-108.49607,46,"US","blue",1084225
+"Morelos","General Mariano Matamoros Airport","Cuernavaca, Mexico",18.9331321,-99.2599579,47,"MX","green",1971520
+"Nayarit","Tepic International Airport","Tepic, Mexico",21.5119156,-104.8915889,48,"MX","green",1235456
+"Nebraska","Eppley Airfield","Omaha, USA",41.2587459,-95.9383758,49,"US","blue",1961504
+"Nevada","McCarran International Airport","Las Vegas, USA",36.1674263,-115.1484131,50,"US","blue",3104614
+"New Brunswick","Greater Moncton International","Moncton, Canada",46.0985679,-64.8004265,51,"CA","red",790398
+"New Hampshire","Manchester–Boston Regional Airport","Manchester, USA",42.9956397,-71.4547891,52,"US","blue",1377529
+"New Jersey","Newark Liberty International Airport","Newark, USA",40.735657,-74.1723667,53,"US","blue",9288994
+"New Mexico","Albuquerque International Sunport","Albuquerque, USA",35.0841034,-106.650985,54,"US","blue",2117522
+"New York","John F. Kennedy International Airport","New York, USA",40.7127281,-74.0060152,55,"US","blue",20201249
+"Newfoundland and Labrador","St. John's International Airport","St. John's, Canada",47.5646794,-52.7066964,56,"CA","red",520452
+"North Carolina","Charlotte Douglas International Airport","Charlotte, USA",35.2272086,-80.8430827,57,"US","blue",10439388
+"North Dakota","Hector International Airport","Fargo, USA",46.877229,-96.789821,58,"US","blue",779094
+"Nova Scotia","Halifax Stanfield International Airport","Halifax, Canada",44.648618,-63.5859487,60,"CA","red",991117
+"Nuevo Leon","Monterrey International Airport","Monterrey, Mexico",25.6802019,-100.315258,61,"MX","green",5784442
+"Oaxaca","Xoxocotlán International Airport","Oaxaca, Mexico",17,-96.5,63,"MX","green",4132148
+"Ohio","Cleveland Hopkins International Airport","Cleveland, USA",41.4996574,-81.6936772,64,"US","blue",11799448
+"Oklahoma","Will Rogers World Airport","Oklahoma City, USA",35.4729886,-97.5170536,65,"US","blue",3959353
+"Ontario","Toronto Pearson International Airport","Toronto, Canada",43.6534817,-79.3839347,66,"CA","red",14809257
+"Oregon","Portland International Airport","Portland, USA",45.5202471,-122.674194,67,"US","blue",4237256
+"Pennsylvania","Philadelphia International Airport","Philadelphia, USA",39.9527237,-75.1635262,68,"US","blue",13002700
+"Prince Edward Island","Charlottetown Airport","Charlottetown, Canada",46.234953,-63.132935,69,"CA","red",164758
+"Puebla","Hermanos Serdán International Airport","Puebla, Mexico",18.833333,-98,70,"MX","green",6583278
+"Quebec","Montréal–Trudeau International Airport","Montreal, Canada",45.5031824,-73.5698065,71,"CA","red",8602335
+"Queretaro","Querétaro International Airport","Querétaro, Mexico",20.8052225,-99.8837376,72,"MX","green",2368467
+"Quintana Roo","Cancún International Airport","Cancún, Mexico",21.1527467,-86.8425761,73,"MX","green",1857985
+"Rhode Island","T. F. Green Airport","Providence, USA",41.8239891,-71.4128343,74,"US","blue",1097379
+"San Luis Potosi","Ponciano Arriaga International Airport","San Luis Potosí, Mexico",22.5000001,-100.4949145,75,"MX","green",2822255
+"Saskatchewan","Saskatoon International Airport","Saskatoon, Canada",52.131802,-106.660767,76,"CA","red",1181493
+"Sinaloa","Culiacán International Airport","Culiacán, Mexico",24.7978965,-107.393395,77,"MX","green",3026943
+"South Carolina","Charleston International Airport","Charleston, USA",32.7884363,-79.9399309,79,"US","blue",5118425
+"South Dakota","Sioux Falls Regional Airport","Sioux Falls, USA",43.5476008,-96.7293629,80,"US","blue",886667
+"Tabasco","Carlos Rovirosa Pérez International","Villahermosa, Mexico",17.9884657,-92.9366326,81,"MX","green",2402598
+"Tamaulipas","General Lucio Blanco International","Reynosa, Mexico",26.0907673,-98.2788191,82,"MX","green",3527735
+"Tennessee","Nashville International Airport","Nashville, USA",36.1622767,-86.7742984,83,"US","blue",6910840
+"Texas","Dallas/Fort Worth International Airport","Dallas, USA",32.7762719,-96.7968559,84,"US","blue",29145505
+"Utah","Salt Lake City International Airport","Salt Lake City, USA",40.7596198,-111.886797,86,"US","blue",3205958
+"Veracruz de Ignacio de la Llave","General Heriberto Jara International","Veracruz, Mexico",19.333333,-96.666667,87,"MX","green",8062579
+"Vermont","Burlington International Airport","Burlington, USA",44.4761601,-73.212906,88,"US","blue",643077
+"Virginia","Richmond International Airport","Richmond, USA",37.5385087,-77.43428,89,"US","blue",8631393
+"Washington","Seattle–Tacoma International Airport","Seattle, USA",47.6038321,-122.330062,90,"US","blue",7705281
+"Wisconsin","Milwaukee Mitchell International Airport","Milwaukee, USA",43.0386475,-87.9090751,92,"US","blue",5893718

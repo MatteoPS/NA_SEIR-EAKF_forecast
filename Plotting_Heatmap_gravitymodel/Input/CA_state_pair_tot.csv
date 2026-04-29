@@ -1,0 +1,238 @@
+State_Pair,State1,State2,Total_Passengers,Country1,Country2
+Alabama-Ontario,Alabama,Ontario,14010,United States,Canada
+Alaska-Alberta,Alaska,Alberta,7370,United States,Canada
+Alaska-British Columbia,Alaska,British Columbia,29930,United States,Canada
+Alaska-Ontario,Alaska,Ontario,11030,United States,Canada
+Alberta-Arizona,Alberta,Arizona,319863,Canada,United States
+Alberta-California,Alberta,California,793589,Canada,United States
+Alberta-Colorado,Alberta,Colorado,55770,Canada,United States
+Alberta-Connecticut,Alberta,Connecticut,6500,Canada,United States
+Alberta-District of Columbia,Alberta,District of Columbia,50040,Canada,United States
+Alberta-Florida,Alberta,Florida,220569,Canada,United States
+Alberta-Hawaii,Alberta,Hawaii,236334,Canada,United States
+Alberta-Illinois,Alberta,Illinois,75917,Canada,United States
+Alberta-Indiana,Alberta,Indiana,6960,Canada,United States
+Alberta-Louisiana,Alberta,Louisiana,21160,Canada,United States
+Alberta-Michigan,Alberta,Michigan,11640,Canada,United States
+Alberta-Minnesota,Alberta,Minnesota,45100,Canada,United States
+Alberta-Missouri,Alberta,Missouri,27120,Canada,United States
+Alberta-Nebraska,Alberta,Nebraska,4270,Canada,United States
+Alberta-Nevada,Alberta,Nevada,434096,Canada,United States
+Alberta-New York,Alberta,New York,190972,Canada,United States
+Alberta-North Carolina,Alberta,North Carolina,22530,Canada,United States
+Alberta-Ohio,Alberta,Ohio,19090,Canada,United States
+Alberta-Oklahoma,Alberta,Oklahoma,10350,Canada,United States
+Alberta-Oregon,Alberta,Oregon,48780,Canada,United States
+Alberta-Pennsylvania,Alberta,Pennsylvania,39460,Canada,United States
+Alberta-Tennessee,Alberta,Tennessee,21852,Canada,United States
+Alberta-Texas,Alberta,Texas,285438,Canada,United States
+Alberta-Utah,Alberta,Utah,27140,Canada,United States
+Alberta-Washington,Alberta,Washington,127940,Canada,United States
+Alberta-Wisconsin,Alberta,Wisconsin,4360,Canada,United States
+Arizona-British Columbia,Arizona,British Columbia,162384,United States,Canada
+Arizona-Manitoba,Arizona,Manitoba,45616,United States,Canada
+Arizona-Ontario,Arizona,Ontario,162816,United States,Canada
+Arizona-Quebec,Arizona,Quebec,4716,United States,Canada
+Arizona-Saskatchewan,Arizona,Saskatchewan,58208,United States,Canada
+Arkansas-Ontario,Arkansas,Ontario,13440,United States,Canada
+British Columbia-Arizona,British Columbia,Arizona,19674,Canada,United States
+British Columbia-California,British Columbia,California,50607,Canada,United States
+British Columbia-District of Columbia,British Columbia,District of Columbia,79110,Canada,United States
+British Columbia-Florida,British Columbia,Florida,11368,Canada,United States
+British Columbia-Nevada,British Columbia,Nevada,44258,Canada,United States
+British Columbia-New York,British Columbia,New York,8043,Canada,United States
+British Columbia-Oregon,British Columbia,Oregon,4180,Canada,United States
+British Columbia-Washington,British Columbia,Washington,12550,Canada,United States
+California-British Columbia,California,British Columbia,1557701,United States,Canada
+California-Manitoba,California,Manitoba,82928,United States,Canada
+California-Newfoundland and Labrador,California,Newfoundland and Labrador,4396,United States,Canada
+California-Ontario,California,Ontario,1205258,United States,Canada
+California-Quebec,California,Quebec,204093,United States,Canada
+California-Saskatchewan,California,Saskatchewan,63704,United States,Canada
+Colorado-Alberta,Colorado,Alberta,20270,United States,Canada
+Colorado-British Columbia,Colorado,British Columbia,76380,United States,Canada
+Colorado-Manitoba,Colorado,Manitoba,11270,United States,Canada
+Colorado-Nova Scotia,Colorado,Nova Scotia,6220,United States,Canada
+Colorado-Ontario,Colorado,Ontario,104190,United States,Canada
+Colorado-Quebec,Colorado,Quebec,42500,United States,Canada
+Colorado-Saskatchewan,Colorado,Saskatchewan,3890,United States,Canada
+Connecticut-British Columbia,Connecticut,British Columbia,10060,United States,Canada
+Connecticut-Ontario,Connecticut,Ontario,18570,United States,Canada
+District of Columbia-Manitoba,District of Columbia,Manitoba,13270,United States,Canada
+Florida-British Columbia,Florida,British Columbia,216043,United States,Canada
+Florida-Manitoba,Florida,Manitoba,76426,United States,Canada
+Florida-New Brunswick,Florida,New Brunswick,10145,United States,Canada
+Florida-Newfoundland and Labrador,Florida,Newfoundland and Labrador,58213,United States,Canada
+Florida-Nova Scotia,Florida,Nova Scotia,26683,United States,Canada
+Florida-Ontario,Florida,Ontario,1836870,United States,Canada
+Florida-Quebec,Florida,Quebec,662058,United States,Canada
+Florida-Saskatchewan,Florida,Saskatchewan,25226,United States,Canada
+Georgia-Alberta,Georgia,Alberta,28030,United States,Canada
+Georgia-British Columbia,Georgia,British Columbia,44000,United States,Canada
+Georgia-Manitoba,Georgia,Manitoba,8160,United States,Canada
+Georgia-Nova Scotia,Georgia,Nova Scotia,7250,United States,Canada
+Georgia-Ontario,Georgia,Ontario,226260,United States,Canada
+Georgia-Quebec,Georgia,Quebec,82900,United States,Canada
+Hawaii-British Columbia,Hawaii,British Columbia,432013,United States,Canada
+Hawaii-Manitoba,Hawaii,Manitoba,25113,United States,Canada
+Hawaii-Ontario,Hawaii,Ontario,146693,United States,Canada
+Hawaii-Quebec,Hawaii,Quebec,46956,United States,Canada
+Hawaii-Saskatchewan,Hawaii,Saskatchewan,33558,United States,Canada
+Idaho-British Columbia,Idaho,British Columbia,5970,United States,Canada
+Idaho-Ontario,Idaho,Ontario,4650,United States,Canada
+Illinois-Alberta,Illinois,Alberta,22004,United States,Canada
+Illinois-British Columbia,Illinois,British Columbia,122533,United States,Canada
+Illinois-Manitoba,Illinois,Manitoba,23530,United States,Canada
+Illinois-Nova Scotia,Illinois,Nova Scotia,11220,United States,Canada
+Illinois-Ontario,Illinois,Ontario,412410,United States,Canada
+Illinois-Quebec,Illinois,Quebec,153063,United States,Canada
+Illinois-Saskatchewan,Illinois,Saskatchewan,7273,United States,Canada
+Indiana-British Columbia,Indiana,British Columbia,14290,United States,Canada
+Indiana-Ontario,Indiana,Ontario,10630,United States,Canada
+Indiana-Quebec,Indiana,Quebec,15570,United States,Canada
+Iowa-British Columbia,Iowa,British Columbia,4700,United States,Canada
+Iowa-Ontario,Iowa,Ontario,12640,United States,Canada
+Kentucky-British Columbia,Kentucky,British Columbia,4710,United States,Canada
+Kentucky-Ontario,Kentucky,Ontario,14540,United States,Canada
+Kentucky-Quebec,Kentucky,Quebec,5090,United States,Canada
+Louisiana-British Columbia,Louisiana,British Columbia,20380,United States,Canada
+Louisiana-Manitoba,Louisiana,Manitoba,4140,United States,Canada
+Louisiana-Ontario,Louisiana,Ontario,58780,United States,Canada
+Massachusetts-Alberta,Massachusetts,Alberta,53742,United States,Canada
+Massachusetts-British Columbia,Massachusetts,British Columbia,84558,United States,Canada
+Massachusetts-Manitoba,Massachusetts,Manitoba,12702,United States,Canada
+Massachusetts-Newfoundland and Labrador,Massachusetts,Newfoundland and Labrador,8346,United States,Canada
+Massachusetts-Nova Scotia,Massachusetts,Nova Scotia,52005,United States,Canada
+Massachusetts-Ontario,Massachusetts,Ontario,317533,United States,Canada
+Massachusetts-Quebec,Massachusetts,Quebec,63920,United States,Canada
+Massachusetts-Saskatchewan,Massachusetts,Saskatchewan,4074,United States,Canada
+Michigan-Alberta,Michigan,Alberta,6210,United States,Canada
+Michigan-British Columbia,Michigan,British Columbia,34240,United States,Canada
+Michigan-Manitoba,Michigan,Manitoba,4860,United States,Canada
+Michigan-Nova Scotia,Michigan,Nova Scotia,4400,United States,Canada
+Michigan-Ontario,Michigan,Ontario,30990,United States,Canada
+Michigan-Quebec,Michigan,Quebec,35460,United States,Canada
+Minnesota-British Columbia,Minnesota,British Columbia,42330,United States,Canada
+Minnesota-Manitoba,Minnesota,Manitoba,13330,United States,Canada
+Minnesota-Ontario,Minnesota,Ontario,86360,United States,Canada
+Minnesota-Quebec,Minnesota,Quebec,40890,United States,Canada
+Minnesota-Saskatchewan,Minnesota,Saskatchewan,11980,United States,Canada
+Missouri-British Columbia,Missouri,British Columbia,31050,United States,Canada
+Missouri-Manitoba,Missouri,Manitoba,4480,United States,Canada
+Missouri-Ontario,Missouri,Ontario,39910,United States,Canada
+Missouri-Quebec,Missouri,Quebec,11750,United States,Canada
+Nebraska-British Columbia,Nebraska,British Columbia,6290,United States,Canada
+Nebraska-Ontario,Nebraska,Ontario,11100,United States,Canada
+Nevada-British Columbia,Nevada,British Columbia,352557,United States,Canada
+Nevada-Manitoba,Nevada,Manitoba,66526,United States,Canada
+Nevada-New Brunswick,Nevada,New Brunswick,7180,United States,Canada
+Nevada-Newfoundland and Labrador,Nevada,Newfoundland and Labrador,10264,United States,Canada
+Nevada-Ontario,Nevada,Ontario,507760,United States,Canada
+Nevada-Quebec,Nevada,Quebec,175643,United States,Canada
+Nevada-Saskatchewan,Nevada,Saskatchewan,89227,United States,Canada
+New Brunswick-Florida,New Brunswick,Florida,25882,Canada,United States
+New Brunswick-New York,New Brunswick,New York,5265,Canada,United States
+New Mexico-British Columbia,New Mexico,British Columbia,6680,United States,Canada
+New Mexico-Ontario,New Mexico,Ontario,8460,United States,Canada
+New Mexico-Quebec,New Mexico,Quebec,4130,United States,Canada
+New York-British Columbia,New York,British Columbia,235205,United States,Canada
+New York-Manitoba,New York,Manitoba,36758,United States,Canada
+New York-Newfoundland and Labrador,New York,Newfoundland and Labrador,12775,United States,Canada
+New York-Ontario,New York,Ontario,1475898,United States,Canada
+New York-Quebec,New York,Quebec,46091,United States,Canada
+New York-Saskatchewan,New York,Saskatchewan,22725,United States,Canada
+Newfoundland and Labrador-Florida,Newfoundland and Labrador,Florida,27266,Canada,United States
+North Carolina-Alberta,North Carolina,Alberta,3980,United States,Canada
+North Carolina-British Columbia,North Carolina,British Columbia,34560,United States,Canada
+North Carolina-Nova Scotia,North Carolina,Nova Scotia,4320,United States,Canada
+North Carolina-Ontario,North Carolina,Ontario,78910,United States,Canada
+North Carolina-Quebec,North Carolina,Quebec,35920,United States,Canada
+Nova Scotia-Arizona,Nova Scotia,Arizona,7306,Canada,United States
+Nova Scotia-California,Nova Scotia,California,32420,Canada,United States
+Nova Scotia-District of Columbia,Nova Scotia,District of Columbia,14910,Canada,United States
+Nova Scotia-Florida,Nova Scotia,Florida,95688,Canada,United States
+Nova Scotia-Hawaii,Nova Scotia,Hawaii,4992,Canada,United States
+Nova Scotia-Louisiana,Nova Scotia,Louisiana,4080,Canada,United States
+Nova Scotia-Minnesota,Nova Scotia,Minnesota,3860,Canada,United States
+Nova Scotia-Nevada,Nova Scotia,Nevada,17314,Canada,United States
+Nova Scotia-New York,Nova Scotia,New York,55351,Canada,United States
+Nova Scotia-North Carolina,Nova Scotia,North Carolina,4360,Canada,United States
+Nova Scotia-Pennsylvania,Nova Scotia,Pennsylvania,8230,Canada,United States
+Nova Scotia-Tennessee,Nova Scotia,Tennessee,5028,Canada,United States
+Nova Scotia-Texas,Nova Scotia,Texas,10559,Canada,United States
+Nova Scotia-Washington,Nova Scotia,Washington,4310,Canada,United States
+Ohio-British Columbia,Ohio,British Columbia,33250,United States,Canada
+Ohio-Ontario,Ohio,Ontario,41100,United States,Canada
+Ohio-Quebec,Ohio,Quebec,39850,United States,Canada
+Oklahoma-British Columbia,Oklahoma,British Columbia,10060,United States,Canada
+Oklahoma-Ontario,Oklahoma,Ontario,8450,United States,Canada
+Ontario-Arizona,Ontario,Arizona,27697,Canada,United States
+Ontario-California,Ontario,California,65821,Canada,United States
+Ontario-District of Columbia,Ontario,District of Columbia,245960,Canada,United States
+Ontario-Florida,Ontario,Florida,131701,Canada,United States
+Ontario-Kansas,Ontario,Kansas,6140,Canada,United States
+Ontario-Missouri,Ontario,Missouri,4770,Canada,United States
+Ontario-New York,Ontario,New York,7134,Canada,United States
+Ontario-North Carolina,Ontario,North Carolina,8760,Canada,United States
+Ontario-Oklahoma,Ontario,Oklahoma,6590,Canada,United States
+Ontario-Oregon,Ontario,Oregon,4800,Canada,United States
+Ontario-Pennsylvania,Ontario,Pennsylvania,12640,Canada,United States
+Ontario-Washington,Ontario,Washington,10870,Canada,United States
+Oregon-British Columbia,Oregon,British Columbia,74010,United States,Canada
+Oregon-Manitoba,Oregon,Manitoba,5230,United States,Canada
+Oregon-Ontario,Oregon,Ontario,41710,United States,Canada
+Pennsylvania-British Columbia,Pennsylvania,British Columbia,49160,United States,Canada
+Pennsylvania-Manitoba,Pennsylvania,Manitoba,5780,United States,Canada
+Pennsylvania-Ontario,Pennsylvania,Ontario,117100,United States,Canada
+Pennsylvania-Quebec,Pennsylvania,Quebec,6220,United States,Canada
+Prince Edward Island-Florida,Prince Edward Island,Florida,8346,Canada,United States
+Prince Edward Island-New York,Prince Edward Island,New York,5012,Canada,United States
+Puerto Rico-British Columbia,Puerto Rico,British Columbia,6617,United States,Canada
+Puerto Rico-Ontario,Puerto Rico,Ontario,43928,United States,Canada
+Quebec-Arizona,Quebec,Arizona,43221,Canada,United States
+Quebec-California,Quebec,California,222184,Canada,United States
+Quebec-District of Columbia,Quebec,District of Columbia,101820,Canada,United States
+Quebec-Florida,Quebec,Florida,259001,Canada,United States
+Quebec-Georgia,Quebec,Georgia,6260,Canada,United States
+Quebec-Kansas,Quebec,Kansas,4810,Canada,United States
+Quebec-Louisiana,Quebec,Louisiana,23050,Canada,United States
+Quebec-Missouri,Quebec,Missouri,16100,Canada,United States
+Quebec-Nebraska,Quebec,Nebraska,4770,Canada,United States
+Quebec-New York,Quebec,New York,390581,Canada,United States
+Quebec-North Carolina,Quebec,North Carolina,25990,Canada,United States
+Quebec-Oregon,Quebec,Oregon,16840,Canada,United States
+Quebec-Pennsylvania,Quebec,Pennsylvania,65170,Canada,United States
+Quebec-Puerto Rico,Quebec,Puerto Rico,19436,Canada,United States
+Quebec-Tennessee,Quebec,Tennessee,18735,Canada,United States
+Quebec-Texas,Quebec,Texas,10010,Canada,United States
+Quebec-Utah,Quebec,Utah,14790,Canada,United States
+Quebec-Virginia,Quebec,Virginia,10040,Canada,United States
+Quebec-Washington,Quebec,Washington,37530,Canada,United States
+Rhode Island-Ontario,Rhode Island,Ontario,4720,United States,Canada
+Saskatchewan-California,Saskatchewan,California,5443,Canada,United States
+Saskatchewan-District of Columbia,Saskatchewan,District of Columbia,4190,Canada,United States
+South Carolina-Ontario,South Carolina,Ontario,41769,United States,Canada
+South Carolina-Quebec,South Carolina,Quebec,10990,United States,Canada
+Tennessee-British Columbia,Tennessee,British Columbia,25585,United States,Canada
+Tennessee-Manitoba,Tennessee,Manitoba,6170,United States,Canada
+Tennessee-Ontario,Tennessee,Ontario,70648,United States,Canada
+Tennessee-Quebec,Tennessee,Quebec,8240,United States,Canada
+Tennessee-Saskatchewan,Tennessee,Saskatchewan,4277,United States,Canada
+Texas-Alberta,Texas,Alberta,28858,United States,Canada
+Texas-British Columbia,Texas,British Columbia,175638,United States,Canada
+Texas-Manitoba,Texas,Manitoba,16579,United States,Canada
+Texas-Newfoundland and Labrador,Texas,Newfoundland and Labrador,9674,United States,Canada
+Texas-Nova Scotia,Texas,Nova Scotia,5844,United States,Canada
+Texas-Ontario,Texas,Ontario,396924,United States,Canada
+Texas-Quebec,Texas,Quebec,133060,United States,Canada
+Texas-Saskatchewan,Texas,Saskatchewan,11421,United States,Canada
+Utah-British Columbia,Utah,British Columbia,38470,United States,Canada
+Utah-Ontario,Utah,Ontario,42970,United States,Canada
+Virginia-British Columbia,Virginia,British Columbia,6070,United States,Canada
+Virginia-Ontario,Virginia,Ontario,14830,United States,Canada
+Washington-British Columbia,Washington,British Columbia,83960,United States,Canada
+Washington-Manitoba,Washington,Manitoba,5480,United States,Canada
+Washington-Ontario,Washington,Ontario,101730,United States,Canada
+Wisconsin-British Columbia,Wisconsin,British Columbia,13180,United States,Canada
+Wisconsin-Ontario,Wisconsin,Ontario,16370,United States,Canada
+Wisconsin-Quebec,Wisconsin,Quebec,14730,United States,Canada
