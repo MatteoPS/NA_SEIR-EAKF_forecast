@@ -1,0 +1,65 @@
+nickname,model_label,slice,target,metric,time_window,baseline_window,rel_val,n_samples,flights,commuting,country,wave,stochastic,capped
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_mae,all,all,1,116.9,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_mae,all,all,0.976372,116.9,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_mae,all,all,0.96776,116.9,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_mae,all,all,0.950147,116.9,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_wis,all,all,1,116.9,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_wis,all,all,0.985524,116.9,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_wis,all,all,0.9668,116.9,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_wis,all,all,0.946289,116.9,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_mae,all,all,1,93.9,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_mae,all,all,0.969843,93.9,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_mae,all,all,0.964384,93.9,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_mae,all,all,0.943081,93.9,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_wis,all,all,1,93.9,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_wis,all,all,0.966056,93.9,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_wis,all,all,0.978057,93.9,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_wis,all,all,0.918618,93.9,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_mae,m8m6,m8m6,1,116.3,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_mae,m8m6,m8m6,0.963581,116.3,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_mae,m8m6,m8m6,0.952027,116.3,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_mae,m8m6,m8m6,0.933472,116.3,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_mae,m5m3,m8m6,0.724503,117,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_mae,m5m3,m8m6,0.704752,117,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_mae,m5m3,m8m6,0.713592,117,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_mae,m5m3,m8m6,0.689057,117,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_mae,m2p0,m8m6,0.374965,117,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_mae,m2p0,m8m6,0.381707,117,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_mae,m2p0,m8m6,0.362973,117,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_mae,m2p0,m8m6,0.365954,117,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_wis,m8m6,m8m6,1,116.3,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_wis,m8m6,m8m6,0.972181,116.3,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_wis,m8m6,m8m6,0.942412,116.3,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_wis,m8m6,m8m6,0.926686,116.3,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_wis,m5m3,m8m6,0.591788,117,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_wis,m5m3,m8m6,0.573523,117,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_wis,m5m3,m8m6,0.585923,117,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_wis,m5m3,m8m6,0.551295,117,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_wis,m2p0,m8m6,0.282462,117,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_wis,m2p0,m8m6,0.300936,117,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_wis,m2p0,m8m6,0.277904,117,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_wis,m2p0,m8m6,0.286381,117,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_mae,m8m6,m8m6,1,93.7,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_mae,m8m6,m8m6,0.999048,93.7,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_mae,m8m6,m8m6,0.985649,93.7,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_mae,m8m6,m8m6,0.947787,93.7,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_mae,m5m3,m8m6,0.790246,94,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_mae,m5m3,m8m6,0.731892,94,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_mae,m5m3,m8m6,0.747347,94,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_mae,m5m3,m8m6,0.715971,94,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_mae,m2p0,m8m6,0.360938,94,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_mae,m2p0,m8m6,0.349544,94,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_mae,m2p0,m8m6,0.331092,94,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_mae,m2p0,m8m6,0.346333,94,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_wis,m8m6,m8m6,1,93.7,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_wis,m8m6,m8m6,0.985955,93.7,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_wis,m8m6,m8m6,0.985359,93.7,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_wis,m8m6,m8m6,0.916218,93.7,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_wis,m5m3,m8m6,0.683345,94,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_wis,m5m3,m8m6,0.62795,94,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_wis,m5m3,m8m6,0.668564,94,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_wis,m5m3,m8m6,0.599572,94,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_wis,m2p0,m8m6,0.304826,94,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_wis,m2p0,m8m6,0.296612,94,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_wis,m2p0,m8m6,0.281147,94,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_wis,m2p0,m8m6,0.283142,94,f,n,ALL,ALL,pois,0

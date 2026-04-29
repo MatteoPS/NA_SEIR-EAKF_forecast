@@ -1,0 +1,17 @@
+nickname,model_label,slice,target,metric,time_window,baseline_window,rel_val,n_samples,flights,commuting,country,wave,stochastic,capped
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_mae,all,all,1.000000,116.9,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_mae,all,all,0.976372,116.9,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_mae,all,all,0.967760,116.9,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_mae,all,all,0.950147,116.9,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset50,mean_wis,all,all,1.000000,116.9,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset50,mean_wis,all,all,0.985524,116.9,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset50,mean_wis,all,all,0.966800,116.9,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset50,mean_wis,all,all,0.946289,116.9,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_mae,all,all,1.000000,93.9,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_mae,all,all,0.969843,93.9,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_mae,all,all,0.964384,93.9,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_mae,all,all,0.943081,93.9,f,n,ALL,ALL,pois,0
+nf_p_pois,No Flight - Patch - All,all_data,onset100,mean_wis,all,all,1.000000,93.9,nf,p,ALL,ALL,pois,0
+f_p_pois,Flight - Patch - All,all_data,onset100,mean_wis,all,all,0.966056,93.9,f,p,ALL,ALL,pois,0
+nf_n_pois,No Flight - Network - All,all_data,onset100,mean_wis,all,all,0.978057,93.9,nf,n,ALL,ALL,pois,0
+f_n_pois,Flight - Network - All,all_data,onset100,mean_wis,all,all,0.918618,93.9,f,n,ALL,ALL,pois,0
