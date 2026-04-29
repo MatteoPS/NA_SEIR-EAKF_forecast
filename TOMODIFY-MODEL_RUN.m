@@ -18,7 +18,7 @@ strain    = runs_description.Strain{idx};
 seed_loc  = runs_description.Seed_loc{idx};
 flights   = runs_description.Flights{idx};
 Commuting = runs_description.Commuting{idx};
-Stochastic = runs_description.Stochastic{idx};
+
 
 truth_nick = truths_description.Truth_nickname{strcmp(truths_description.TruthID, truth_id)};
 
@@ -68,25 +68,11 @@ all_file_name=strjoin([ "Model_Runs/" mmdd "_" nickname ".mat"],'');
 %inflation in EAKF
 %%%%% OEV settings, OEV_case(l,t)=max(OEV_base,obs_ave^OEV_exp);
 
-
-if Stochastic == "y"
-    lambda=1.003;
-    lambda_beta=lambda;
-    lambda_obs=lambda;
-    OEV_denom=200;
-    OEV_base=5;
-
-
-elseif Stochastic == "n"
-    lambda=1.003;
-    lambda_beta=lambda;
-    lambda_obs=lambda;
-    OEV_denom=100;
-    OEV_base=5;
-
-else
-    error("Stochastic needs to be either 'y' or 'n' for deterministic");
-end
+lambda=1.003;
+lambda_beta=lambda;
+lambda_obs=lambda;
+OEV_denom=200;
+OEV_base=5;
 
 
 
@@ -102,12 +88,6 @@ doreprobe= "yes";   % yes/no if you're reprobinge -- I reinitialize alpha and be
 reprobe_percent=2;  % what percent of the ensemble to reprobe
 reprobe_t=7;        % how often to reprobe (days)
 reprobeS= "no";     % yes/no if you're reprobing State Variables
-
-% create the fix random matrix for deterninistic - do redo if
-% change reprobe parameters abovea
-%fix_randi_lenght=ceil(num_times/reprobe_t)
-%fix_randi_heigh=round(num_ens*reprobe_percent/100)
-%fix_randi_reprobe=randi([1 num_ens],fix_randi_heigh,fix_randi_lenght);
 
 
 num_loc=size(part,1)-1;
@@ -161,13 +141,8 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %initialize model state variable
 % Determine random matrix source
-if Stochastic == "y"
-    rand_vals = rand(num_mp, num_ens);
-elseif Stochastic == "n"
-    rand_vals = fix_rand_matrix(1:num_mp, 1:num_ens);
-else
-    error("Stochastic needs to be either 'y' or 'n' for deterministic");
-end
+
+rand_vals = rand(num_mp, num_ens);
 
 % Determine base value based on strain
 switch strain
@@ -189,38 +164,25 @@ E=zeros(size(S));
 Iu = zeros(size(S)); %each loacation will get one Iu/100K per day
 
 
-if Stochastic == "y"
-    [S,E,Ir,Iu]=checkbound(S,E,Ir,Iu,C);
-    %initialize parameter
-    [para]=initialize_para(num_loc,num_ens,parafit,alphamaps,betamap);
-    %out-of-bound Z,D,mu and theta are resampled across their ranges
-    for i=1:size(para,1)-length(alphamaps)-length(betamap)
-        para(i,para(i,:)<paramin(i))=random('uniform', paramin(i), paramax(i), size(para(i,para(i,:)<paramin(i)))); % selecting random values between the bound for each ensamble out
-        para(i,para(i,:)>paramax(i))=random('uniform', paramin(i), paramax(i), size(para(i,para(i,:)>paramax(i))));
-    end
 
-elseif Stochastic == "n"
-    para=fix_para;
-    t_reprobe=0; %initialize counter for reprobing after EAKF
-else
-    error("Stochastic needs to be either 'y' or 'n' for deterministic")
+[S,E,Ir,Iu]=checkbound(S,E,Ir,Iu,C);
+%initialize parameter
+[para]=initialize_para(num_loc,num_ens,parafit,alphamaps,betamap);
+%out-of-bound Z,D,mu and theta are resampled across their ranges
+for i=1:size(para,1)-length(alphamaps)-length(betamap)
+    para(i,para(i,:)<paramin(i))=random('uniform', paramin(i), paramax(i), size(para(i,para(i,:)<paramin(i)))); % selecting random values between the bound for each ensamble out
+    para(i,para(i,:)>paramax(i))=random('uniform', paramin(i), paramax(i), size(para(i,para(i,:)>paramax(i))));
 end
 
 
 
+% seeding exposed everywhere - additional seeding Iu daily before integration
+E= max(9,round(abs(rand(size(S))).*C./50000));
 
-
-% if contains(nickname, "synthOLD")
-%     seed max of 9 exposed or a 1/50000 of the pop exposed in each location
-     E= max(9,round(abs(rand(size(S))).*C./50000));
-%     [S,E,Ir,Iu]=checkbound(S,E,Ir,Iu,C);
-% end
-% 
-
-
-para_ori=para; %used to re-initialize alpha and beta
 
 %%%%%%%%%%%%%%%%%%%%% reprobe parameters
+
+para_ori=para; %used to re-initialize alpha and beta
 
 reprobe_whichpara=cat(1,alphamaps,betamap);  % reprobe only the pars I am estimating
 parastd=std(para,0,2);%get ensemble spread of parameters
@@ -242,24 +204,10 @@ alpha_rec=zeros(num_loc,num_times);
 dy_rec=zeros(num_loc,num_ens,num_times); %Kalman gain dy
 dx_alpha_rec=zeros(num_loc,num_ens,num_times); %Kalman gain dx alpha
 dx_beta_rec=zeros(num_loc,num_ens,num_times); %Kalman gain dx beta
-%dx_E_rec=zeros(num_loc,num_ens,num_times);
-%dx_Ir_rec=zeros(num_loc,num_ens,num_times);
-%dx_Iu_rec=zeros(num_loc,num_ens,num_times);
-%dx_dailyIr_prior_rec=zeros(num_loc,num_ens,num_times);
-%dx_dailyIu_prior_rec=zeros(num_loc,num_ens,num_times);
-
-
 
 
 %initialize poseteriors (ends with rec=counts, ends with post=perc)
 S_post=zeros(num_loc,num_times,num_ens);
-%S_rec=zeros(num_loc,num_times,num_ens);
-%E_post=zeros(num_loc,num_times,num_ens);
-%E_rec=zeros(num_loc,num_times,num_ens);
-%Ir_post=zeros(num_loc,num_times,num_ens);
-%Ir_rec=zeros(num_loc,num_times,num_ens);
-%Iu_post=zeros(num_loc,num_times,num_ens);
-%Iu_rec=zeros(num_loc,num_times,num_ens);
 dailyIr_post_rec=zeros(num_loc,num_ens,num_times);
 cumu_dailyIr_post_rec=zeros(num_loc,num_times,num_ens);
 dailyIu_post_rec=zeros(num_loc,num_ens,num_times);
@@ -281,10 +229,6 @@ cumu_dailyIu_post=zeros(num_mp,num_ens);
 num_para=size(para,1);
 para_post=zeros(num_para,num_ens,num_times);%posterior parameters
 
-
-%%%%%%%%%%%%%%%%%%%%%%%
-% variables for flight flow correcctopn
-%delta_all_rec=zeros(num_times,num_ens,length(P));
 
 % Pre-compute location partitioning indices
 loc_ranges = cell(length(part)-1, 1);
@@ -322,22 +266,15 @@ loc_first_idx = part(1:end-1);
 
 
 for t=1:num_times
-    % if ~contains(nickname, "synthOLD")
-    %     Iu=Iu+C/100000;    %SEEDING 1Iu/100k/day per location per day
-    % end
+
     Iu=Iu+C/100000;    %SEEDING 1Iu/100k/day per location per day
     dailyIr_prior = zeros(num_mp, num_ens);
     dailyIu_prior = zeros(num_mp, num_ens);
-    %delta_all_rec(t,:,:) = 0; % Pre-allocate
 
     for k=1:num_ens
-        if Stochastic == "y"
-            [S(:,k), E(:,k), Ir(:,k), Iu(:,k), dailyIr_temp, dailyIu_temp] = integrate_model(nl, part, C, Cave, S(:,k), E(:,k), Ir(:,k), Iu(:,k), para(:,k), betamap, alphamaps);
-        elseif Stochastic == "n"
-            [S(:,k), E(:,k), Ir(:,k), Iu(:,k), dailyIr_temp, dailyIu_temp] = integrate_model_nopois(nl, part, C, Cave, S(:,k), E(:,k), Ir(:,k), Iu(:,k), para(:,k), betamap, alphamaps);
-        else
-            error("Stochastic needs to be either 'y' or 'n' for deterministic")
-        end
+
+        [S(:,k), E(:,k), Ir(:,k), Iu(:,k), dailyIr_temp, dailyIu_temp] = integrate_model(nl, part, C, Cave, S(:,k), E(:,k), Ir(:,k), Iu(:,k), para(:,k), betamap, alphamaps);
+
         dailyIr_prior(:,k) = dailyIr_temp;
         dailyIu_prior(:,k) = dailyIu_temp;
 
@@ -369,16 +306,13 @@ for t=1:num_times
                 rates_i_to_j(neg_mask_ij) = 0;
                 rates_j_to_i(neg_mask_ji) = 0;
             end
-            if Stochastic == "y"
-                % Generate all Poisson samples (vectorized)
-                rates_i_to_j = poissrnd(rates_i_to_j);
-                rates_j_to_i = poissrnd(rates_j_to_i);
-            end
+
+            % Generate all Poisson samples (vectorized)
+            rates_i_to_j = poissrnd(rates_i_to_j);
+            rates_j_to_i = poissrnd(rates_j_to_i);
+
             % Compute net flows
             net_deltas = rates_i_to_j - rates_j_to_i;
-
-            % Store for recording
-            %delta_all_rec(t, k, :) = net_deltas;
 
             % Apply updates using accumarray:
             %B = accumarray(ind,data) sums groups of data by accumulating
@@ -475,35 +409,30 @@ for t=1:num_times
                 rr=A(2,1)/prior_var;
                 dx=rr*dy;
                 E(j,:)=E(j,:)+dx;
-                %dx_E_rec(l,:,t)=dx_E_rec(l,:,t)+dx;
                 %Ir
                 temp=Ir(j,:);
                 A=cov(temp,obs_ens(l,:));
                 rr=A(2,1)/prior_var;
                 dx=rr*dy;
                 Ir(j,:)=Ir(j,:)+dx;
-                %dx_Ir_rec(l,:,t)=dx_Ir_rec(l,:,t)+dx;
                 %Iu
                 temp=Iu(j,:);
                 A=cov(temp,obs_ens(l,:));
                 rr=A(2,1)/prior_var;
                 dx=rr*dy;
                 Iu(j,:)=Iu(j,:)+dx;
-                %dx_Iu_rec(l,:,t)=dx_Iu_rec(l,:,t)+dx;
                 %dailyIr
                 temp=dailyIr_prior(j,:);
                 A=cov(temp,obs_ens(l,:));
                 rr=A(2,1)/prior_var;
                 dx=rr*dy;
                 dailyIr_prior(j,:)=round(max(dailyIr_prior(j,:)+dx,0));
-                %dx_dailyIr_prior_rec(l,:,t)=dx_dailyIr_prior_rec(l,:,t)+dx;
                 %dailyIu
                 temp=dailyIu_prior(j,:);
                 A=cov(temp,obs_ens(l,:));
                 rr=A(2,1)/prior_var;
                 dx=rr*dy;
                 dailyIu_prior(j,:)=round(max(dailyIu_prior(j,:)+dx,0));
-                %dx_dailyIu_prior_rec(l,:,t)=dx_dailyIu_prior_rec(l,:,t)+dx;
             end
             %adjust alpha
             temp=para(alphamaps(l),:);
@@ -537,33 +466,17 @@ for t=1:num_times
     end
 
 
-    if Stochastic == "y"
-        para = checkbound_para(para,paramax,paramin,para_ori,alphamaps,betamap,flact_checkpara);
-    else
-        % IF DETERMINISTIC OUT OF BOUND PARA GETS THE INITIAL VALUE
-        for i = 1:size(para, 1)
-            % Create a mask for values outside the allowed range
-            out_of_bounds = para(i, :) < paramin(i) | para(i, :) > paramax(i);
-            % Replace ONLY the out-of-bound entries with the corresponding values from Day 1
-            para(i, out_of_bounds) = para_ori(i, out_of_bounds);
-        end
-    end
+
+    para = checkbound_para(para,paramax,paramin,para_ori,alphamaps,betamap,flact_checkpara);
+
     %%% reprobing of select parameters and state variables
     if doreprobe=="yes"
         if mod(t,reprobe_t)==0 % for every reprobe_t timesteps
 
+            % randomly pick reprobe_percent ensemble members to resample
+            num_reprobe=round(num_ens*reprobe_percent/100);
+            reprobeind=randi([1 num_ens],num_reprobe,1);
 
-
-            if Stochastic == "y"
-                % randomly pick reprobe_percent ensemble members to resample
-                num_reprobe=round(num_ens*reprobe_percent/100);
-                reprobeind=randi([1 num_ens],num_reprobe,1);
-            else
-                t_reprobe=t_reprobe+1;
-                reprobeind=fix_randi_reprobe(:,1);
-            end
-
-            % for r=reprobe_whichpara % loop through the parameters
             for nn=reprobeind' % loop through the sampled members
                 para(reprobe_whichpara,nn)= para_ori(reprobe_whichpara,nn);
                 if reprobeS=="yes"
@@ -573,19 +486,10 @@ for t=1:num_times
                     Iu(:,nn)= ceil(randi([0 20],num_mp,1) /100.*C);
 
                 end
-                [S,E,Ir,Iu]=checkbound_yesterday(S,E,Ir,Iu,C,S_yesterday,E_yesterday,Ir_yesterday,Iu_yesterday,t,Stochastic);
-                    
-                if Stochastic == "y"
-                    para = checkbound_para(para,paramax,paramin,para_ori,alphamaps,betamap,flact_checkpara);
-                else
-                   % IF DETERMINISTIC OUT OF BOUND PARA GETS THE INITIAL VALUE
-                    for i = 1:size(para, 1)
-                        % Create a mask for values outside the allowed range
-                        out_of_bounds = para(i, :) < paramin(i) | para(i, :) > paramax(i);
-                        % Replace ONLY the out-of-bound entries with the corresponding values from Day 1
-                        para(i, out_of_bounds) = para_ori(i, out_of_bounds);
-                    end
-                end
+                [S,E,Ir,Iu]=checkbound_yesterday(S,E,Ir,Iu,C,S_yesterday,E_yesterday,Ir_yesterday,Iu_yesterday,t);
+
+                para = checkbound_para(para,paramax,paramin,para_ori,alphamaps,betamap,flact_checkpara);
+
             end
         end
     end
@@ -598,7 +502,7 @@ for t=1:num_times
     cumu_dailyIu_post=cumu_dailyIu_post+dailyIu_post;
 
     %%%%%%%%%%%%%%%%
-    [S,E,Ir,Iu]=checkbound_yesterday(S,E,Ir,Iu,C,S_yesterday,E_yesterday,Ir_yesterday,Iu_yesterday,t,Stochastic);
+    [S,E,Ir,Iu]=checkbound_yesterday(S,E,Ir,Iu,C,S_yesterday,E_yesterday,Ir_yesterday,Iu_yesterday,t);
 
     %%%%%%% save stavariables for yesterday checkbound
     S_yesterday=S;
@@ -612,13 +516,6 @@ for t=1:num_times
     for i=1:num_loc
         for j=1:num_ens
             S_post(i,t,j)=sum(S(part(i):part(i+1)-1,j))./population(i);
-            %S_rec(i,t,j)=sum(S(part(i):part(i+1)-1,j)); %real numbers, not percentage
-            %E_post(i,t,j)=sum(E(part(i):part(i+1)-1,j))./population(i);
-            %E_rec(i,t,j)=sum(E(part(i):part(i+1)-1,j));   %real numbers, not percentage
-            %Ir_post(i,t,j)=sum(Ir(part(i):part(i+1)-1,j))./population(i);
-            %Ir_rec(i,t,j)=sum(Ir(part(i):part(i+1)-1,j));   %real numbers, not percentage
-            %Iu_post(i,t,j)= sum(Iu(part(i):part(i+1)-1,j))./population(i);
-            %Iu_rec(i,t,j)= sum(Iu(part(i):part(i+1)-1,j));   %real numbers, not percentage
             dailyIr_post_rec(i,j,t)=sum(dailyIr_post(part(i):part(i+1)-1,j)); %real numbers, not percentage
             dailyIu_post_rec(i,j,t)=sum(dailyIu_post(part(i):part(i+1)-1,j));  %real numbers, not percentage
             cumu_dailyIr_post_rec(i,t,j)=sum(cumu_dailyIr_post(part(i):part(i+1)-1,j)); %real numbers, not percentage
@@ -640,15 +537,7 @@ for t=1:num_times
         fprintf('%s FORECASTING %d/%d at t = %d in: ...\n', nickname, forecast_num,length(week_starts_days),t);
         week = forecast_weeks(forecast_num);
 
-        %fore_tstart = week_starts_days(week);
-
         fore_dailyIr = zeros(num_loc,num_times,num_ens);
-        %fore_dailyIu = zeros(num_loc,num_times,num_ens);
-        %fore_S  = zeros(num_loc,num_times,num_ens);
-        %fore_E = zeros(num_loc,num_times,num_ens);
-        %fore_Ir = zeros(num_loc,num_times,num_ens);
-        %fore_Iu = zeros(num_loc,num_times,num_ens);
-
 
         fdailyIr = zeros(num_mp, num_ens);
         fdailyIu = zeros(num_mp, num_ens);
@@ -666,13 +555,9 @@ for t=1:num_times
         for tt=(t+1):num_times % start the forcast from the day after t
 
             for k=1:num_ens
-                if Stochastic == "y"
-                    [fS(:,k), fE(:,k), fIr(:,k), fIu(:,k), fdailyIr(:,k), fdailyIu(:,k)] = integrate_model(nl, part, C, Cave, fS(:,k), fE(:,k), fIr(:,k), fIu(:,k), para(:,k), betamap, alphamaps);
-                elseif Stochastic == "n"
-                    [fS(:,k), fE(:,k), fIr(:,k), fIu(:,k), fdailyIr(:,k), fdailyIu(:,k)] = integrate_model_nopois(nl, part, C, Cave, fS(:,k), fE(:,k), fIr(:,k), fIu(:,k), para(:,k), betamap, alphamaps);
-                else
-                    error("Stochastic needs to be either 'y' or 'n' for deterministic")
-                end
+
+                [fS(:,k), fE(:,k), fIr(:,k), fIu(:,k), fdailyIr(:,k), fdailyIu(:,k)] = integrate_model(nl, part, C, Cave, fS(:,k), fE(:,k), fIr(:,k), fIu(:,k), para(:,k), betamap, alphamaps);
+
                 if flights == "f"
                     % VECTORIZED PASSENGER FLOW CALCULATION
 
@@ -702,16 +587,13 @@ for t=1:num_times
                         rates_j_to_i(neg_mask_ji) = 0;
                     end
 
-                    if Stochastic == "y"
-                        % Generate all Poisson samples (vectorized)
-                        rates_i_to_j = poissrnd(rates_i_to_j);
-                        rates_j_to_i = poissrnd(rates_j_to_i);
-                    end
+
+                    % Generate all Poisson samples (vectorized)
+                    rates_i_to_j = poissrnd(rates_i_to_j);
+                    rates_j_to_i = poissrnd(rates_j_to_i);
+
                     % Compute net flows
                     net_deltas = rates_i_to_j - rates_j_to_i;
-
-                    % Store for recording
-                    %fore_delta_all_rec(t, k, :) = net_deltas;
 
                     % Apply updates using accumarray:
                     %B = accumarray(ind,data) sums groups of data by accumulating
@@ -740,8 +622,6 @@ for t=1:num_times
             for i = 1:num_loc
                 idx_range = part(i):part(i+1)-1;
                 fore_dailyIr(i,tt,:) = sum(fdailyIr(idx_range,:), 1);
-                %fore_dailyIu(i,tt,:) = sum(fdailyIu(idx_range,:), 1);
-                %fore_S(i,tt,:) = sum(S(idx_range,:), 1);
             end
         end
         % Finalize the forecast structure for the current week
@@ -750,8 +630,6 @@ for t=1:num_times
         forecast_struct(forecast_num).start_day = t;
         forecast_struct(forecast_num).truth_id = truth_id;
         forecast_struct(forecast_num).dailyIr = uint32(fore_dailyIr);
-        %forecast_struct(forecast_num).dailyIu = uint32(fore_dailyIu);
-        %forecast_struct(forecast_num).fore_S = uint32(fore_S);
 
 
         elapsed_sec=toc;
@@ -772,7 +650,7 @@ cumu_dailyIu_post_rec_mean=squeeze(mean(cumu_dailyIu_post_rec,3));
 cumu_dailyIr_post_mean=cumu_dailyIr_post_rec_mean./population;
 cumu_dailyIu_post_mean=cumu_dailyIu_post_rec_mean./population;
 
-% saving the big boys as int16, unit32 or single to save space
+% saving big vars as int16, unit32 or single to save space
 %delta_all_rec = int16(delta_all_rec);
 cumu_dailyIu_post_rec=uint32(cumu_dailyIu_post_rec);
 cumu_dailyIr_post_rec=uint32(cumu_dailyIr_post_rec);
@@ -797,5 +675,3 @@ clear Iu Iu_yesterday cumu_dailyIr_post Ir_yesterday dailyIu_prior cumu_dailyIu_
     fS fE fIu fIr fdailyIr fdailyIu fore_dailyIr fore_dailyIu fore_S
 %saving all remaning vars
 save(all_file_name, '-v7.3')
-
-%Plotting_testing_real(all_file_name)

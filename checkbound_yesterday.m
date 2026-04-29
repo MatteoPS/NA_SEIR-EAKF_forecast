@@ -1,8 +1,8 @@
-function [S,E,Ir,Iu]=checkbound_yesterday(S,E,Ir,Iu,C,S_yesterday,E_yesterday,Ir_yesterday,Iu_yesterday,t,Stochastic)
+function [S,E,Ir,Iu]=checkbound_yesterday(S,E,Ir,Iu,C,S_yesterday,E_yesterday,Ir_yesterday,Iu_yesterday,t)
 %check variable bound, when negative it assigned the value of the previous day.
 num_ens=size(S,2);
 
-if t==1 & Stochastic=="y"
+if t==1
     for k=1:num_ens
         if min(S(:,k))<0
             S(S(:,k)<0,k)=    randi([5 20],size(S(S(:,k)<0,k))) /100 .*C(S(:,k)<0);
@@ -17,12 +17,6 @@ if t==1 & Stochastic=="y"
             Iu(Iu(:,k)<0,k)=  randi([0 10],size(Iu(Iu(:,k)<0,k)) )/100 .*C(Iu(:,k)<0);
         end
     end
-elseif t==1 & Stochastic=="n"
-
-        S(S < 0)   = 20;
-        E(E < 0)   = 1;
-        Ir(Ir < 0) = 0;
-        Iu(Iu < 0) = 0;
 else
     for k=1:num_ens
         S(S(:,k)<0,k)=    S_yesterday(find(S(:,k)<0),k); %#ok<*FNDSB> 
