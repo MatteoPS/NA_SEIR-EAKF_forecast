@@ -1,7 +1,3 @@
-# Pois-only synthetic data. 2×2 grid (targets × metrics).
-# x = strain group, bars dodged by group_id within each strain — exactly
-# mirroring the real-data script where x = time_window, dodge by nickname.
-
 library(ggplot2)
 library(ggpattern)
 library(dplyr)
