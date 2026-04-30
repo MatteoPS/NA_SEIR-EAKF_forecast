@@ -2,12 +2,8 @@
 *.DS_Store
 *.asv
 
-/Model_Runs
-/Forecasts
-/Forecasts_groups
+Model_Runs/*.mat
+Forecasts/*.mat
+Forecasts_groups/*.mat
 Truths/*struct.mat
-Truths/*/*struct.mat
-
-Forecasts_real_agg/real_data_aggregated.mat
-Forecasts_real_agg/real_data_aggregated_country.mat
-/Forecasts_real_agg
+Forecasts_real_agg/*.mat
