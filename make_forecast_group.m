@@ -251,14 +251,6 @@ else
     strain_idx = strcmp(runs_description.Strain, group_props.Strain(1));
 end
 
-% Stochastic
-%if ismissing(group_props.Stochastic(1))
-%    stochastic_idx = true(height(runs_description), 1);
-%else
-%    stochastic_idx = strcmp(runs_description.Stochastic, group_props.Stochastic(1));
-%end
-
-%run_indices = flights_idx & commuting_idx & strain_idx & stochastic_idx;
 run_indices = flights_idx & commuting_idx & strain_idx;
 end
 

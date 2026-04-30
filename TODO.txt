@@ -1,0 +1,4 @@
+- remove pois from make csv
+- modify make csv to create all directly
+- chechk that Rscript for plotting will work
+- check readmes
