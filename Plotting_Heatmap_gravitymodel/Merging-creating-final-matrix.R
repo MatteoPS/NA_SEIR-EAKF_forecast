@@ -447,7 +447,7 @@ heat_plot_tri2 <- ggplot(air_melted_tri2, aes(x = Destination, y = Origin, fill 
 
 #ggsave("Matrix-air-flow.png", heat_plot,width = 22, height = 20, units = "cm", bg = "white")
 #ggsave("Matrix-air-flow-tri.png", heat_plot_tri,width = 22, height = 20, units = "cm", bg = "white")
-#ggsave("Matrix-air-flow-tri2.png", heat_plot_tri2,width = 22, height = 20, units = "cm", bg = "white")
+ggsave("Matrix-air-flow-tri2.png", heat_plot_tri2,width = 22, height = 20, units = "cm", bg = "white")
 #ggsave("Gravitymodel-fit.png", plot_fit,width = 17, height = 20, units = "cm", bg = "white")
 
 
