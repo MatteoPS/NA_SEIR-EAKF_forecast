@@ -1,0 +1,1468 @@
+"State_Pair","State1","State2","Country1","Country2","Total_Passengers"
+"Mexico City-Quintana Roo","Distrito Federal","Quintana Roo","Mexico","Mexico",4570151
+"Jalisco-Mexico City","Jalisco","Distrito Federal","Mexico","Mexico",3543209
+"Mexico City-Nuevo León","Distrito Federal","Nuevo Leon","Mexico","Mexico",3175320
+"California-Jalisco","California","Jalisco","United States","Mexico",10497252
+"Baja California-Mexico City","Baja California","Distrito Federal","Mexico","Mexico",2214383
+"Quintana Roo-Texas","Quintana Roo","Texas","Mexico","United States",7369328
+"Mexico City-Texas","Distrito Federal","Texas","Mexico","United States",7319736
+"Baja California-Jalisco","Baja California","Jalisco","Mexico","Mexico",1778488
+"California-Mexico City","California","Distrito Federal","United States","Mexico",6353556
+"Mexico City-Yucatán","Distrito Federal","Yucatan","Mexico","Mexico",1414069
+"Florida-Mexico City","Florida","Distrito Federal","United States","Mexico",5263228
+"Chihuahua-Mexico City","Chihuahua","Distrito Federal","Mexico","Mexico",1289295
+"Mexico City-Oaxaca","Distrito Federal","Oaxaca","Mexico","Mexico",1266775
+"Chiapas-Mexico City","Chiapas","Distrito Federal","Mexico","Mexico",1235985
+"Mexico City-Sinaloa","Distrito Federal","Sinaloa","Mexico","Mexico",1075928
+"Florida-Quintana Roo","Florida","Quintana Roo","United States","Mexico",4014020
+"Jalisco-Texas","Jalisco","Texas","Mexico","United States",3855136
+"Nuevo León-Quintana Roo","Nuevo Leon","Quintana Roo","Mexico","Mexico",956063
+"Mexico City-Tamaulipas","Distrito Federal","Tamaulipas","Mexico","Mexico",950733
+"Jalisco-Nuevo León","Jalisco","Nuevo Leon","Mexico","Mexico",826422
+"Mexico City-Sonora","Distrito Federal","Sonora","Mexico","Mexico",817240
+"Baja California-Sinaloa","Baja California","Sinaloa","Mexico","Mexico",810750
+"Mexico City-Veracruz","Distrito Federal","Veracruz de Ignacio de la Llave","Mexico","Mexico",809645
+"Guerrero-Mexico City","Guerrero","Distrito Federal","Mexico","Mexico",807161
+"Mexico City-Tabasco","Distrito Federal","Tabasco","Mexico","Mexico",804267
+"Georgia-Quintana Roo","Georgia","Quintana Roo","United States","Mexico",3172444
+"Ontario-Quintana Roo","Ontario","Quintana Roo","Canada","Mexico",3135104
+"California-Quintana Roo","California","Quintana Roo","United States","Mexico",2905768
+"Illinois-Quintana Roo","Illinois","Quintana Roo","United States","Mexico",2851280
+"Mexico City-New York","Distrito Federal","New York","Mexico","United States",2708572
+"Jalisco-Quintana Roo","Jalisco","Quintana Roo","Mexico","Mexico",649131
+"New York-Quintana Roo","New York","Quintana Roo","United States","Mexico",2524416
+"Nuevo León-Texas","Nuevo Leon","Texas","Mexico","United States",2509992
+"Coahuila-Mexico City","Coahuila de Zaragoza","Distrito Federal","Mexico","Mexico",581481
+"Quebec-Quintana Roo","Quebec","Quintana Roo","Canada","Mexico",1997652
+"Illinois-Mexico City","Illinois","Distrito Federal","United States","Mexico",1972588
+"Campeche-Mexico City","Campeche","Distrito Federal","Mexico","Mexico",462433
+"Colorado-Quintana Roo","Colorado","Quintana Roo","United States","Mexico",1818996
+"Georgia-Mexico City","Georgia","Distrito Federal","United States","Mexico",1761364
+"New Jersey-Quintana Roo","New Jersey","Quintana Roo","United States","Mexico",1626444
+"North Carolina-Quintana Roo","North Carolina","Quintana Roo","United States","Mexico",1577648
+"Illinois-Jalisco","Illinois","Jalisco","United States","Mexico",1575732
+"Guanajuato-Mexico City","Guanajuato","Distrito Federal","Mexico","Mexico",386447
+"Mexico City-Nevada","Distrito Federal","Nevada","Mexico","United States",1536120
+"Chihuahua-Nuevo León","Chihuahua","Nuevo Leon","Mexico","Mexico",379219
+"Pennsylvania-Quintana Roo","Pennsylvania","Quintana Roo","United States","Mexico",1401716
+"Baja California-Guanajuato","Baja California","Guanajuato","Mexico","Mexico",322818
+"Alberta-Quintana Roo","Alberta","Quintana Roo","Canada","Mexico",1291044
+"Aguascalientes-Mexico City","Aguascalientes","Distrito Federal","Mexico","Mexico",317514
+"Jalisco-Sonora","Jalisco","Sonora","Mexico","Mexico",315631
+"Minnesota-Quintana Roo","Minnesota","Quintana Roo","United States","Mexico",1259732
+"Baja California Sur-Mexico City","Baja California Sur","Distrito Federal","Mexico","Mexico",309065
+"Chihuahua-Jalisco","Chihuahua","Jalisco","Mexico","Mexico",299423
+"Baja California-Michoacán","Baja California","Michoacan de Ocampo","Mexico","Mexico",276823
+"Guanajuato-Texas","Guanajuato","Texas","Mexico","United States",1099960
+"Mexico City-San Luis Potosí","Distrito Federal","San Luis Potosi","Mexico","Mexico",264747
+"Arizona-Jalisco","Arizona","Jalisco","United States","Mexico",1022736
+"Guanajuato-Nuevo León","Guanajuato","Nuevo Leon","Mexico","Mexico",255593
+"Nuevo León-Sinaloa","Nuevo Leon","Sinaloa","Mexico","Mexico",248936
+"Baja California-Nuevo León","Baja California","Nuevo Leon","Mexico","Mexico",246541
+"Durango-Mexico City","Durango","Distrito Federal","Mexico","Mexico",236920
+"Mexico City-Ontario","Distrito Federal","Ontario","Mexico","Canada",913836
+"Jalisco-Sinaloa","Jalisco","Sinaloa","Mexico","Mexico",227726
+"New Hampshire-Quintana Roo","New Hampshire","Quintana Roo","United States","Mexico",906784
+"Alberta-Jalisco","Alberta","Jalisco","Canada","Mexico",892024
+"Michigan-Quintana Roo","Michigan","Quintana Roo","United States","Mexico",891584
+"Nuevo León-Sonora","Nuevo Leon","Sonora","Mexico","Mexico",220963
+"Quintana Roo-Veracruz","Quintana Roo","Veracruz de Ignacio de la Llave","Mexico","Mexico",209079
+"District of Columbia-Quintana Roo","District of Columbia","Quintana Roo","United States","Mexico",831332
+"Colorado-Jalisco","Colorado","Jalisco","United States","Mexico",826996
+"Nuevo León-Querétaro","Nuevo Leon","Queretaro","Mexico","Mexico",205397
+"Jalisco-Nevada","Jalisco","Nevada","Mexico","United States",812108
+"Nuevo León-State of Mexico","Nuevo Leon","Estado de Mexico","Mexico","Mexico",199921
+"Nuevo León-Veracruz","Nuevo Leon","Veracruz de Ignacio de la Llave","Mexico","Mexico",198660
+"Baja California-Sonora","Baja California","Sonora","Mexico","Mexico",194872
+"Maryland-Quintana Roo","Maryland","Quintana Roo","United States","Mexico",752948
+"Baja California Sur-Jalisco","Baja California Sur","Jalisco","Mexico","Mexico",186540
+"Querétaro-Texas","Queretaro","Texas","Mexico","United States",739904
+"Georgia-Jalisco","Georgia","Jalisco","United States","Mexico",738992
+"Nuevo León-Yucatán","Nuevo Leon","Yucatan","Mexico","Mexico",183561
+"California-Guanajuato","California","Guanajuato","United States","Mexico",727688
+"British Columbia-Quintana Roo","British Columbia","Quintana Roo","Canada","Mexico",701424
+"Colima-Mexico City","Colima","Distrito Federal","Mexico","Mexico",166504
+"British Columbia-Mexico City","British Columbia","Distrito Federal","Canada","Mexico",663544
+"British Columbia-Jalisco","British Columbia","Jalisco","Canada","Mexico",642364
+"Mexico City-Zacatecas","Distrito Federal","Zacatecas","Mexico","Mexico",155394
+"Missouri-Quintana Roo","Missouri","Quintana Roo","United States","Mexico",616392
+"District of Columbia-Mexico City","District of Columbia","Distrito Federal","United States","Mexico",613192
+"Nuevo León-Tamaulipas","Nuevo Leon","Tamaulipas","Mexico","Mexico",152292
+"Aguascalientes-Baja California","Aguascalientes","Baja California","Mexico","Mexico",150504
+"Mexico City-New Jersey","Distrito Federal","New Jersey","Mexico","United States",597720
+"Arizona-Quintana Roo","Arizona","Quintana Roo","United States","Mexico",589060
+"Nuevo León-Tabasco","Nuevo Leon","Tabasco","Mexico","Mexico",129400
+"Georgia-Nuevo León","Georgia","Nuevo Leon","United States","Mexico",514608
+"Jalisco-State of Mexico","Jalisco","Estado de Mexico","Mexico","Mexico",127380
+"Jalisco-Veracruz","Jalisco","Veracruz de Ignacio de la Llave","Mexico","Mexico",124617
+"California-Michoacán","California","Michoacan de Ocampo","United States","Mexico",496744
+"Jalisco-Yucatán","Jalisco","Yucatan","Mexico","Mexico",120697
+"Baja California-Baja California Sur","Baja California","Baja California Sur","Mexico","Mexico",120207
+"Baja California Sur-Sinaloa","Baja California Sur","Sinaloa","Mexico","Mexico",119900
+"Quintana Roo-State of Mexico","Quintana Roo","Estado de Mexico","Mexico","Mexico",118911
+"Mexico City-Michoacán","Distrito Federal","Michoacan de Ocampo","Mexico","Mexico",115066
+"Mexico City-Quebec","Distrito Federal","Quebec","Mexico","Canada",458208
+"Nuevo León-Puebla","Nuevo Leon","Puebla","Mexico","Mexico",114488
+"Quintana Roo-Tamaulipas","Quintana Roo","Tamaulipas","Mexico","Mexico",114409
+"Guanajuato-Quintana Roo","Guanajuato","Quintana Roo","Mexico","Mexico",113118
+"San Luis Potosí-Texas","San Luis Potosi","Texas","Mexico","United States",446748
+"Puebla-Quintana Roo","Puebla","Quintana Roo","Mexico","Mexico",109967
+"Jalisco-Ontario","Jalisco","Ontario","Mexico","Canada",433696
+"Arizona-Mexico City","Arizona","Distrito Federal","United States","Mexico",419208
+"Chiapas-Nuevo León","Chiapas","Nuevo Leon","Mexico","Mexico",103338
+"Chiapas-Quintana Roo","Chiapas","Quintana Roo","Mexico","Mexico",101768
+"Massachusetts-Quintana Roo","Massachusetts","Quintana Roo","United States","Mexico",403772
+"Baja California-Chihuahua","Baja California","Chihuahua","Mexico","Mexico",99978
+"Ohio-Quintana Roo","Ohio","Quintana Roo","United States","Mexico",392040
+"Jalisco-Washington","Jalisco","Washington","Mexico","United States",378664
+"Chiapas-Jalisco","Chiapas","Jalisco","Mexico","Mexico",94433
+"Jalisco-Tabasco","Jalisco","Tabasco","Mexico","Mexico",93284
+"Illinois-Nuevo León","Illinois","Nuevo Leon","United States","Mexico",372168
+"Illinois-Michoacán","Illinois","Michoacan de Ocampo","United States","Mexico",355796
+"Mexico City-Michigan","Distrito Federal","Michigan","Mexico","United States",351044
+"Jalisco-Tamaulipas","Jalisco","Tamaulipas","Mexico","Mexico",87365
+"Quintana Roo-Utah","Quintana Roo","Utah","Mexico","United States",343040
+"Nevada-Nuevo León","Nevada","Nuevo Leon","United States","Mexico",342960
+"Tamaulipas-Veracruz","Tamaulipas","Veracruz de Ignacio de la Llave","Mexico","Mexico",85159
+"Mexico City-Querétaro","Distrito Federal","Queretaro","Mexico","Mexico",83253
+"Aguascalientes-Texas","Aguascalientes","Texas","Mexico","United States",328952
+"Jalisco-Minnesota","Jalisco","Minnesota","Mexico","United States",322436
+"Baja California-Oaxaca","Baja California","Oaxaca","Mexico","Mexico",79861
+"Quintana Roo-Tabasco","Quintana Roo","Tabasco","Mexico","Mexico",76617
+"Mexico City-Utah","Distrito Federal","Utah","Mexico","United States",302648
+"Baja California-Nayarit","Baja California","Nayarit","Mexico","Mexico",74869
+"Baja California-Durango","Baja California","Durango","Mexico","Mexico",74501
+"Arizona-Sinaloa","Arizona","Sinaloa","United States","Mexico",294048
+"California-Guerrero","California","Guerrero","United States","Mexico",292504
+"Chihuahua-Texas","Chihuahua","Texas","Mexico","United States",288388
+"Texas-Yucatán","Texas","Yucatan","United States","Mexico",282896
+"Querétaro-Quintana Roo","Queretaro","Quintana Roo","Mexico","Mexico",69803
+"Baja California-Puebla","Baja California","Puebla","Mexico","Mexico",68909
+"Baja California-Zacatecas","Baja California","Zacatecas","Mexico","Mexico",68696
+"Jalisco-Oregon","Jalisco","Oregon","Mexico","United States",268728
+"Baja California-Colima","Baja California","Colima","Mexico","Mexico",66780
+"Florida-Jalisco","Florida","Jalisco","United States","Mexico",262476
+"Baja California-Guerrero","Baja California","Guerrero","Mexico","Mexico",65362
+"Massachusetts-Mexico City","Massachusetts","Distrito Federal","United States","Mexico",246760
+"Colorado-Mexico City","Colorado","Distrito Federal","United States","Mexico",244428
+"Nuevo León-Oaxaca","Nuevo Leon","Oaxaca","Mexico","Mexico",59810
+"California-Sinaloa","California","Sinaloa","United States","Mexico",237704
+"Guerrero-Nuevo León","Guerrero","Nuevo Leon","Mexico","Mexico",59344
+"Mexico City-North Carolina","Distrito Federal","North Carolina","Mexico","United States",235056
+"Chihuahua-Sonora","Chihuahua","Sonora","Mexico","Mexico",56589
+"Manitoba-Quintana Roo","Manitoba","Quintana Roo","Canada","Mexico",223128
+"Baja California Sur-Sonora","Baja California Sur","Sonora","Mexico","Mexico",55701
+"Jalisco-Utah","Jalisco","Utah","Mexico","United States",217616
+"Jalisco-New York","Jalisco","New York","Mexico","United States",215880
+"New York-Nuevo León","New York","Nuevo Leon","United States","Mexico",215320
+"California-Zacatecas","California","Zacatecas","United States","Mexico",213824
+"Quintana Roo-Washington","Quintana Roo","Washington","Mexico","United States",212604
+"Michoacán-Texas","Michoacan de Ocampo","Texas","Mexico","United States",211516
+"Quintana Roo-Saskatchewan","Quintana Roo","Saskatchewan","Mexico","Canada",209472
+"Coahuila-Jalisco","Coahuila de Zaragoza","Jalisco","Mexico","Mexico",49976
+"Puebla-Texas","Puebla","Texas","Mexico","United States",196672
+"Quintana Roo-Wisconsin","Quintana Roo","Wisconsin","Mexico","United States",192880
+"Tabasco-Yucatán","Tabasco","Yucatan","Mexico","Mexico",47963
+"Aguascalientes-California","Aguascalientes","California","Mexico","United States",191576
+"Georgia-Guanajuato","Georgia","Guanajuato","United States","Mexico",187172
+"Aguascalientes-Quintana Roo","Aguascalientes","Quintana Roo","Mexico","Mexico",44571
+"Jalisco-Quebec","Jalisco","Quebec","Mexico","Canada",177332
+"Mexico City-Nayarit","Distrito Federal","Nayarit","Mexico","Mexico",44232
+"Quintana Roo-San Luis Potosí","Quintana Roo","San Luis Potosi","Mexico","Mexico",44198
+"Baja California Sur-California","Baja California Sur","California","Mexico","United States",174196
+"Sinaloa-Sonora","Sinaloa","Sonora","Mexico","Mexico",43446
+"Baja California-Querétaro","Baja California","Queretaro","Mexico","Mexico",42553
+"Illinois-Zacatecas","Illinois","Zacatecas","United States","Mexico",169132
+"Texas-Veracruz","Texas","Veracruz de Ignacio de la Llave","United States","Mexico",162556
+"Jalisco-Saskatchewan","Jalisco","Saskatchewan","Mexico","Canada",154544
+"Guerrero-Texas","Guerrero","Texas","Mexico","United States",152116
+"Jalisco-Manitoba","Jalisco","Manitoba","Mexico","Canada",149984
+"Coahuila-Texas","Coahuila de Zaragoza","Texas","Mexico","United States",147680
+"Alberta-Sinaloa","Alberta","Sinaloa","Canada","Mexico",145276
+"Florida-Yucatán","Florida","Yucatan","United States","Mexico",144280
+"Tabasco-Veracruz","Tabasco","Veracruz de Ignacio de la Llave","Mexico","Mexico",35419
+"Jalisco-New Jersey","Jalisco","New Jersey","Mexico","United States",139456
+"Nuevo León-San Luis Potosí","Nuevo Leon","San Luis Potosi","Mexico","Mexico",33561
+"Chihuahua-Sinaloa","Chihuahua","Sinaloa","Mexico","Mexico",33208
+"California-Colima","California","Colima","United States","Mexico",132320
+"Guerrero-State of Mexico","Guerrero","Estado de Mexico","Mexico","Mexico",32874
+"Guanajuato-Illinois","Guanajuato","Illinois","Mexico","United States",128924
+"Chihuahua-Guanajuato","Chihuahua","Guanajuato","Mexico","Mexico",32228
+"Nova Scotia-Quintana Roo","Nova Scotia","Quintana Roo","Canada","Mexico",127788
+"Kentucky-Quintana Roo","Kentucky","Quintana Roo","United States","Mexico",127332
+"Chihuahua-Coahuila","Chihuahua","Coahuila de Zaragoza","Mexico","Mexico",30987
+"Arizona-Sonora","Arizona","Sonora","United States","Mexico",122880
+"Oaxaca-Ontario","Oaxaca","Ontario","Mexico","Canada",122868
+"Jalisco-New Hampshire","Jalisco","New Hampshire","Mexico","United States",120760
+"Tabasco-Tamaulipas","Tabasco","Tamaulipas","Mexico","Mexico",30143
+"Alberta-Guerrero","Alberta","Guerrero","Canada","Mexico",116668
+"Minnesota-Sinaloa","Minnesota","Sinaloa","United States","Mexico",114480
+"Oaxaca-Texas","Oaxaca","Texas","Mexico","United States",111356
+"Tamaulipas-Texas","Tamaulipas","Texas","Mexico","United States",107480
+"Guanajuato-Jalisco","Guanajuato","Jalisco","Mexico","Mexico",26716
+"Durango-Illinois","Durango","Illinois","Mexico","United States",104368
+"Jalisco-Michigan","Jalisco","Michigan","Mexico","United States",100196
+"Alberta-Oaxaca","Alberta","Oaxaca","Canada","Mexico",100080
+"Durango-Nuevo León","Durango","Nuevo Leon","Mexico","Mexico",24943
+"Chihuahua-Quintana Roo","Chihuahua","Quintana Roo","Mexico","Mexico",24503
+"Jalisco-Querétaro","Jalisco","Queretaro","Mexico","Mexico",24342
+"Quintana Roo-Tennessee","Quintana Roo","Tennessee","Mexico","United States",95088
+"Sinaloa-Texas","Sinaloa","Texas","Mexico","United States",94760
+"Baja California-Coahuila","Baja California","Coahuila de Zaragoza","Mexico","Mexico",23409
+"Baja California-Veracruz","Baja California","Veracruz de Ignacio de la Llave","Mexico","Mexico",22443
+"California-Sonora","California","Sonora","United States","Mexico",89748
+"Jalisco-Oaxaca","Jalisco","Oaxaca","Mexico","Mexico",22342
+"Campeche-Veracruz","Campeche","Veracruz de Ignacio de la Llave","Mexico","Mexico",21709
+"Durango-Jalisco","Durango","Jalisco","Mexico","Mexico",21467
+"Tabasco-Texas","Tabasco","Texas","Mexico","United States",85172
+"Veracruz-Yucatán","Veracruz de Ignacio de la Llave","Yucatan","Mexico","Mexico",20885
+"Baja California-Quintana Roo","Baja California","Quintana Roo","Mexico","Mexico",20829
+"Guerrero-Minnesota","Guerrero","Minnesota","Mexico","United States",82588
+"New Brunswick-Quintana Roo","New Brunswick","Quintana Roo","Canada","Mexico",80392
+"Nayarit-State of Mexico","Nayarit","Estado de Mexico","Mexico","Mexico",19478
+"Baja California-California","Baja California","California","Mexico","United States",75640
+"Jalisco-Puebla","Jalisco","Puebla","Mexico","Mexico",18846
+"Aguascalientes-Nuevo León","Aguascalientes","Nuevo Leon","Mexico","Mexico",18803
+"Chiapas-Yucatán","Chiapas","Yucatan","Mexico","Mexico",18075
+"Alberta-Colima","Alberta","Colima","Canada","Mexico",64364
+"Indiana-Quintana Roo","Indiana","Quintana Roo","United States","Mexico",63228
+"British Columbia-Sinaloa","British Columbia","Sinaloa","Canada","Mexico",61352
+"Louisiana-Quintana Roo","Louisiana","Quintana Roo","United States","Mexico",59556
+"Baja California-San Luis Potosí","Baja California","San Luis Potosi","Mexico","Mexico",14364
+"Guerrero-Ontario","Guerrero","Ontario","Mexico","Canada",56632
+"Chihuahua-Colorado","Chihuahua","Colorado","Mexico","United States",55796
+"Aguascalientes-Jalisco","Aguascalientes","Jalisco","Mexico","Mexico",13678
+"Campeche-Tamaulipas","Campeche","Tamaulipas","Mexico","Mexico",13532
+"Florida-Nuevo León","Florida","Nuevo Leon","United States","Mexico",53108
+"Colima-State of Mexico","Colima","Estado de Mexico","Mexico","Mexico",12580
+"Arizona-Guerrero","Arizona","Guerrero","United States","Mexico",49372
+"Guerrero-Quebec","Guerrero","Quebec","Mexico","Canada",48992
+"Morelos-Nuevo León","Morelos","Nuevo Leon","Mexico","Mexico",11893
+"Chiapas-State of Mexico","Chiapas","Estado de Mexico","Mexico","Mexico",11594
+"Texas-Zacatecas","Texas","Zacatecas","United States","Mexico",46188
+"British Columbia-Oaxaca","British Columbia","Oaxaca","Canada","Mexico",43700
+"Jalisco-Morelos","Jalisco","Morelos","Mexico","Mexico",10772
+"California-Durango","California","Durango","United States","Mexico",41976
+"Campeche-Texas","Campeche","Texas","Mexico","United States",41824
+"Michigan-Nuevo León","Michigan","Nuevo Leon","United States","Mexico",39672
+"Oaxaca-State of Mexico","Oaxaca","Estado de Mexico","Mexico","Mexico",9420
+"Connecticut-Quintana Roo","Connecticut","Quintana Roo","United States","Mexico",36156
+"Oaxaca-Saskatchewan","Oaxaca","Saskatchewan","Mexico","Canada",35912
+"Alberta-Baja California Sur","Alberta","Baja California Sur","Canada","Mexico",33704
+"State of Mexico-Veracruz","Estado de Mexico","Veracruz de Ignacio de la Llave","Mexico","Mexico",7759
+"Ontario-Sinaloa","Ontario","Sinaloa","Canada","Mexico",30872
+"Guerrero-Jalisco","Guerrero","Jalisco","Mexico","Mexico",7660
+"Guerrero-Saskatchewan","Guerrero","Saskatchewan","Mexico","Canada",30588
+"Jalisco-Wisconsin","Jalisco","Wisconsin","Mexico","United States",30452
+"Jalisco-San Luis Potosí","Jalisco","San Luis Potosi","Mexico","Mexico",7557
+"Guerrero-Illinois","Guerrero","Illinois","Mexico","United States",29052
+"Guerrero-Querétaro","Guerrero","Queretaro","Mexico","Mexico",7213
+"Coahuila-Nuevo León","Coahuila de Zaragoza","Nuevo Leon","Mexico","Mexico",6735
+"Ontario-Yucatán","Ontario","Yucatan","Canada","Mexico",24252
+"Baja California Sur-Nuevo León","Baja California Sur","Nuevo Leon","Mexico","Mexico",5858
+"Colima-Texas","Colima","Texas","Mexico","United States",21884
+"Coahuila-Guanajuato","Coahuila de Zaragoza","Guanajuato","Mexico","Mexico",5424
+"Guerrero-Manitoba","Guerrero","Manitoba","Mexico","Canada",21604
+"Nevada-State of Mexico","Nevada","Estado de Mexico","United States","Mexico",21604
+"Manitoba-Oaxaca","Manitoba","Oaxaca","Canada","Mexico",20624
+"Colima-Ontario","Colima","Ontario","Mexico","Canada",20100
+"Illinois-Oaxaca","Illinois","Oaxaca","United States","Mexico",19504
+"British Columbia-Colima","British Columbia","Colima","Canada","Mexico",17472
+"British Columbia-Guerrero","British Columbia","Guerrero","Canada","Mexico",17380
+"Colima-Minnesota","Colima","Minnesota","Mexico","United States",16072
+"Florida-New York","Florida","New York","United States","United States",6150390
+"California-Texas","California","Texas","United States","United States",5006640
+"California-Nevada","California","Nevada","United States","United States",4150910
+"California-Washington","California","Washington","United States","United States",3736450
+"California-New York","California","New York","United States","United States",3237100
+"Florida-Texas","Florida","Texas","United States","United States",3139880
+"California-Illinois","California","Illinois","United States","United States",3083380
+"Florida-Illinois","Florida","Illinois","United States","United States",3042840
+"Florida-Georgia","Florida","Georgia","United States","United States",2984170
+"Arizona-California","Arizona","California","United States","United States",2980650
+"California-Colorado","California","Colorado","United States","United States",2808550
+"Florida-Pennsylvania","Florida","Pennsylvania","United States","United States",2778940
+"California-Florida","California","Florida","United States","United States",2607230
+"California-Oregon","California","Oregon","United States","United States",2248540
+"Florida-New Jersey","Florida","New Jersey","United States","United States",2222280
+"Florida-North Carolina","Florida","North Carolina","United States","United States",1962450
+"Illinois-New York","Illinois","New York","United States","United States",1875970
+"Illinois-Texas","Illinois","Texas","United States","United States",1764390
+"Colorado-Texas","Colorado","Texas","United States","United States",1757430
+"Florida-Ohio","Florida","Ohio","United States","United States",1622660
+"Florida-Massachusetts","Florida","Massachusetts","United States","United States",1556640
+"New York-Texas","New York","Texas","United States","United States",1552280
+"California-New Jersey","California","New Jersey","United States","United States",1529250
+"Nevada-Texas","Nevada","Texas","United States","United States",1509900
+"California-Massachusetts","California","Massachusetts","United States","United States",1487420
+"Georgia-Texas","Georgia","Texas","United States","United States",1483470
+"Florida-Michigan","Florida","Michigan","United States","United States",1477360
+"Florida-Maryland","Florida","Maryland","United States","United States",1384200
+"California-Georgia","California","Georgia","United States","United States",1322070
+"California-Utah","California","Utah","United States","United States",1280370
+"District of Columbia-Florida","District of Columbia","Florida","United States","United States",1235320
+"Florida-Tennessee","Florida","Tennessee","United States","United States",1219950
+"Arizona-Texas","Arizona","Texas","United States","United States",1215830
+"Georgia-New York","Georgia","New York","United States","United States",1204600
+"California-Virginia","California","Virginia","United States","United States",1151110
+"Colorado-Florida","Colorado","Florida","United States","United States",1149620
+"New York-North Carolina","New York","North Carolina","United States","United States",1123720
+"Florida-Kentucky","Florida","Kentucky","United States","United States",1105880
+"Florida-Indiana","Florida","Indiana","United States","United States",1055150
+"Florida-Missouri","Florida","Missouri","United States","United States",1031080
+"California-Pennsylvania","California","Pennsylvania","United States","United States",990030
+"Missouri-Texas","Missouri","Texas","United States","United States",961310
+"California-Missouri","California","Missouri","United States","United States",934820
+"Louisiana-Texas","Louisiana","Texas","United States","United States",926430
+"North Carolina-Texas","North Carolina","Texas","United States","United States",901310
+"Arizona-Illinois","Arizona","Illinois","United States","United States",891860
+"Illinois-Nevada","Illinois","Nevada","United States","United States",891010
+"Florida-Virginia","Florida","Virginia","United States","United States",874510
+"Colorado-Illinois","Colorado","Illinois","United States","United States",869800
+"California-Minnesota","California","Minnesota","United States","United States",867350
+"Illinois-Pennsylvania","Illinois","Pennsylvania","United States","United States",865500
+"Georgia-Illinois","Georgia","Illinois","United States","United States",861540
+"California-North Carolina","California","North Carolina","United States","United States",852140
+"Arizona-Colorado","Arizona","Colorado","United States","United States",848090
+"Pennsylvania-Texas","Pennsylvania","Texas","United States","United States",826890
+"Nevada-Washington","Nevada","Washington","United States","United States",795830
+"Tennessee-Texas","Tennessee","Texas","United States","United States",795130
+"Georgia-North Carolina","Georgia","North Carolina","United States","United States",793480
+"Massachusetts-New York","Massachusetts","New York","United States","United States",789720
+"Florida-Nevada","Florida","Nevada","United States","United States",782000
+"Georgia-Pennsylvania","Georgia","Pennsylvania","United States","United States",743320
+"Illinois-Massachusetts","Illinois","Massachusetts","United States","United States",739190
+"Texas-Washington","Texas","Washington","United States","United States",732270
+"Illinois-Minnesota","Illinois","Minnesota","United States","United States",723570
+"Nevada-New York","Nevada","New York","United States","United States",689560
+"Massachusetts-Texas","Massachusetts","Texas","United States","United States",687770
+"California-Michigan","California","Michigan","United States","United States",681630
+"California-Maryland","California","Maryland","United States","United States",676840
+"Colorado-Nevada","Colorado","Nevada","United States","United States",675940
+"District of Columbia-Texas","District of Columbia","Texas","United States","United States",667960
+"Illinois-Ohio","Illinois","Ohio","United States","United States",660470
+"Alaska-Washington","Alaska","Washington","United States","United States",657990
+"Arizona-Washington","Arizona","Washington","United States","United States",657040
+"Florida-Minnesota","Florida","Minnesota","United States","United States",655670
+"New Jersey-Texas","New Jersey","Texas","United States","United States",643840
+"Illinois-North Carolina","Illinois","North Carolina","United States","United States",636500
+"Illinois-Missouri","Illinois","Missouri","United States","United States",630770
+"Colorado-New York","Colorado","New York","United States","United States",630180
+"California-Tennessee","California","Tennessee","United States","United States",626220
+"Georgia-Virginia","Georgia","Virginia","United States","United States",623970
+"Connecticut-Florida","Connecticut","Florida","United States","United States",620520
+"North Carolina-Pennsylvania","North Carolina","Pennsylvania","United States","United States",613030
+"Maryland-Texas","Maryland","Texas","United States","United States",612600
+"Oklahoma-Texas","Oklahoma","Texas","United States","United States",609880
+"California-Ohio","California","Ohio","United States","United States",608710
+"Illinois-Michigan","Illinois","Michigan","United States","United States",608170
+"Michigan-Texas","Michigan","Texas","United States","United States",587100
+"California-District of Columbia","California","District of Columbia","United States","United States",584230
+"Georgia-Ohio","Georgia","Ohio","United States","United States",580650
+"Colorado-Washington","Colorado","Washington","United States","United States",557550
+"District of Columbia-Illinois","District of Columbia","Illinois","United States","United States",550670
+"Illinois-New Jersey","Illinois","New Jersey","United States","United States",546230
+"Texas-Virginia","Texas","Virginia","United States","United States",530140
+"Michigan-New York","Michigan","New York","United States","United States",529320
+"Illinois-Washington","Illinois","Washington","United States","United States",517740
+"Oregon-Washington","Oregon","Washington","United States","United States",509260
+"Ohio-Texas","Ohio","Texas","United States","United States",506800
+"Arizona-Florida","Arizona","Florida","United States","United States",501960
+"Florida-Louisiana","Florida","Louisiana","United States","United States",501650
+"Florida-Wisconsin","Florida","Wisconsin","United States","United States",497700
+"California-Louisiana","California","Louisiana","United States","United States",493210
+"District of Columbia-New York","District of Columbia","New York","United States","United States",493020
+"Colorado-Missouri","Colorado","Missouri","United States","United States",492750
+"District of Columbia-Massachusetts","District of Columbia","Massachusetts","United States","United States",488430
+"Arizona-Nevada","Arizona","Nevada","United States","United States",485350
+"Minnesota-Texas","Minnesota","Texas","United States","United States",475900
+"Massachusetts-Pennsylvania","Massachusetts","Pennsylvania","United States","United States",466570
+"Georgia-Michigan","Georgia","Michigan","United States","United States",463300
+"Florida-Rhode Island","Florida","Rhode Island","United States","United States",461440
+"Georgia-Missouri","Georgia","Missouri","United States","United States",460570
+"Colorado-Georgia","Colorado","Georgia","United States","United States",459070
+"Illinois-Tennessee","Illinois","Tennessee","United States","United States",457080
+"Georgia-Tennessee","Georgia","Tennessee","United States","United States",452080
+"Massachusetts-North Carolina","Massachusetts","North Carolina","United States","United States",447880
+"New Jersey-North Carolina","New Jersey","North Carolina","United States","United States",443560
+"Florida-Washington","Florida","Washington","United States","United States",437340
+"Colorado-Minnesota","Colorado","Minnesota","United States","United States",432020
+"Colorado-Pennsylvania","Colorado","Pennsylvania","United States","United States",430120
+"North Carolina-Virginia","North Carolina","Virginia","United States","United States",423260
+"Arizona-Minnesota","Arizona","Minnesota","United States","United States",412870
+"Texas-Utah","Texas","Utah","United States","United States",404340
+"Georgia-Maryland","Georgia","Maryland","United States","United States",402940
+"Arizona-Utah","Arizona","Utah","United States","United States",401160
+"Arizona-New York","Arizona","New York","United States","United States",400730
+"Illinois-Maryland","Illinois","Maryland","United States","United States",393250
+"Oregon-Texas","Oregon","Texas","United States","United States",392320
+"Georgia-Massachusetts","Georgia","Massachusetts","United States","United States",387100
+"District of Columbia-Georgia","District of Columbia","Georgia","United States","United States",384550
+"Nevada-Oregon","Nevada","Oregon","United States","United States",384150
+"New York-Washington","New York","Washington","United States","United States",375590
+"Maryland-Massachusetts","Maryland","Massachusetts","United States","United States",375210
+"Georgia-Louisiana","Georgia","Louisiana","United States","United States",373800
+"Georgia-Nevada","Georgia","Nevada","United States","United States",371010
+"Arizona-Oregon","Arizona","Oregon","United States","United States",367640
+"Maryland-New York","Maryland","New York","United States","United States",364110
+"North Carolina-Tennessee","North Carolina","Tennessee","United States","United States",363540
+"Colorado-North Carolina","Colorado","North Carolina","United States","United States",362310
+"California-Idaho","California","Idaho","United States","United States",355040
+"Missouri-Nevada","Missouri","Nevada","United States","United States",350250
+"Colorado-Utah","Colorado","Utah","United States","United States",348330
+"Georgia-Kentucky","Georgia","Kentucky","United States","United States",347260
+"Minnesota-New York","Minnesota","New York","United States","United States",346200
+"New York-Tennessee","New York","Tennessee","United States","United States",342560
+"Arizona-Missouri","Arizona","Missouri","United States","United States",340350
+"Nevada-Pennsylvania","Nevada","Pennsylvania","United States","United States",338780
+"New York-South Carolina","New York","South Carolina","United States","United States",337080
+"New Mexico-Texas","New Mexico","Texas","United States","United States",336850
+"Georgia-South Carolina","Georgia","South Carolina","United States","United States",336210
+"Colorado-Oregon","Colorado","Oregon","United States","United States",335790
+"Missouri-New York","Missouri","New York","United States","United States",334630
+"California-Indiana","California","Indiana","United States","United States",334170
+"Kentucky-Texas","Kentucky","Texas","United States","United States",333020
+"California-New Mexico","California","New Mexico","United States","United States",332220
+"New York-Pennsylvania","New York","Pennsylvania","United States","United States",331320
+"Maryland-North Carolina","Maryland","North Carolina","United States","United States",330070
+"Illinois-Virginia","Illinois","Virginia","United States","United States",327430
+"Georgia-New Jersey","Georgia","New Jersey","United States","United States",325840
+"Arizona-Michigan","Arizona","Michigan","United States","United States",325020
+"Colorado-Michigan","Colorado","Michigan","United States","United States",324020
+"Florida-South Carolina","Florida","South Carolina","United States","United States",318750
+"Colorado-Virginia","Colorado","Virginia","United States","United States",314280
+"Colorado-Massachusetts","Colorado","Massachusetts","United States","United States",312700
+"California-Wisconsin","California","Wisconsin","United States","United States",311090
+"Arizona-Georgia","Arizona","Georgia","United States","United States",308650
+"New York-Virginia","New York","Virginia","United States","United States",307850
+"Illinois-Oregon","Illinois","Oregon","United States","United States",303000
+"North Carolina-Ohio","North Carolina","Ohio","United States","United States",295610
+"California-Kentucky","California","Kentucky","United States","United States",294670
+"Michigan-Nevada","Michigan","Nevada","United States","United States",294660
+"Georgia-Minnesota","Georgia","Minnesota","United States","United States",294150
+"New York-Ohio","New York","Ohio","United States","United States",290740
+"Alabama-Texas","Alabama","Texas","United States","United States",290040
+"Colorado-Tennessee","Colorado","Tennessee","United States","United States",289670
+"Nevada-Ohio","Nevada","Ohio","United States","United States",288770
+"Alabama-Georgia","Alabama","Georgia","United States","United States",286840
+"Georgia-Indiana","Georgia","Indiana","United States","United States",286260
+"Colorado-Ohio","Colorado","Ohio","United States","United States",284220
+"Arizona-Pennsylvania","Arizona","Pennsylvania","United States","United States",284190
+"Indiana-Texas","Indiana","Texas","United States","United States",283570
+"Louisiana-New York","Louisiana","New York","United States","United States",280990
+"Florida-Iowa","Florida","Iowa","United States","United States",280020
+"Massachusetts-Virginia","Massachusetts","Virginia","United States","United States",277500
+"Arkansas-Texas","Arkansas","Texas","United States","United States",277200
+"Minnesota-Washington","Minnesota","Washington","United States","United States",275470
+"Utah-Washington","Utah","Washington","United States","United States",274430
+"Michigan-Pennsylvania","Michigan","Pennsylvania","United States","United States",271080
+"Arizona-North Carolina","Arizona","North Carolina","United States","United States",269380
+"Michigan-Minnesota","Michigan","Minnesota","United States","United States",269160
+"Nevada-Utah","Nevada","Utah","United States","United States",269090
+"Georgia-Wisconsin","Georgia","Wisconsin","United States","United States",266610
+"Massachusetts-New Jersey","Massachusetts","New Jersey","United States","United States",265450
+"Michigan-North Carolina","Michigan","North Carolina","United States","United States",261880
+"Florida-Utah","Florida","Utah","United States","United States",260170
+"Colorado-New Jersey","Colorado","New Jersey","United States","United States",258860
+"Illinois-Louisiana","Illinois","Louisiana","United States","United States",252320
+"Illinois-Kentucky","Illinois","Kentucky","United States","United States",251930
+"South Carolina-Texas","South Carolina","Texas","United States","United States",245180
+"Arizona-New Jersey","Arizona","New Jersey","United States","United States",244860
+"Florida-New Hampshire","Florida","New Hampshire","United States","United States",244250
+"Nevada-New Jersey","Nevada","New Jersey","United States","United States",242530
+"Minnesota-Wisconsin","Minnesota","Wisconsin","United States","United States",242250
+"Texas-Wisconsin","Texas","Wisconsin","United States","United States",242080
+"Missouri-North Carolina","Missouri","North Carolina","United States","United States",242060
+"New Jersey-New York","New Jersey","New York","United States","United States",241440
+"Pennsylvania-Tennessee","Pennsylvania","Tennessee","United States","United States",240870
+"Georgia-Washington","Georgia","Washington","United States","United States",238140
+"Maryland-Nevada","Maryland","Nevada","United States","United States",237910
+"Illinois-Utah","Illinois","Utah","United States","United States",232120
+"District of Columbia-North Carolina","District of Columbia","North Carolina","United States","United States",231770
+"Massachusetts-Washington","Massachusetts","Washington","United States","United States",231120
+"Colorado-Wisconsin","Colorado","Wisconsin","United States","United States",230020
+"California-Oklahoma","California","Oklahoma","United States","United States",229730
+"Minnesota-Nevada","Minnesota","Nevada","United States","United States",228070
+"Colorado-District of Columbia","Colorado","District of Columbia","United States","United States",226860
+"District of Columbia-Missouri","District of Columbia","Missouri","United States","United States",221250
+"Missouri-Pennsylvania","Missouri","Pennsylvania","United States","United States",220820
+"Massachusetts-Michigan","Massachusetts","Michigan","United States","United States",219900
+"Massachusetts-Nevada","Massachusetts","Nevada","United States","United States",216940
+"Alaska-California","Alaska","California","United States","United States",216900
+"Massachusetts-Ohio","Massachusetts","Ohio","United States","United States",216240
+"New York-Utah","New York","Utah","United States","United States",214650
+"California-Montana","California","Montana","United States","United States",213250
+"Maryland-Michigan","Maryland","Michigan","United States","United States",212570
+"Arizona-Ohio","Arizona","Ohio","United States","United States",209070
+"Illinois-Indiana","Illinois","Indiana","United States","United States",207710
+"Minnesota-Missouri","Minnesota","Missouri","United States","United States",207080
+"Idaho-Washington","Idaho","Washington","United States","United States",205920
+"Florida-Oklahoma","Florida","Oklahoma","United States","United States",205650
+"Pennsylvania-South Carolina","Pennsylvania","South Carolina","United States","United States",205290
+"Arizona-Massachusetts","Arizona","Massachusetts","United States","United States",204280
+"North Carolina-South Carolina","North Carolina","South Carolina","United States","United States",201710
+"Illinois-Wisconsin","Illinois","Wisconsin","United States","United States",201360
+"Nevada-Tennessee","Nevada","Tennessee","United States","United States",200610
+"Illinois-Nebraska","Illinois","Nebraska","United States","United States",200300
+"Colorado-Oklahoma","Colorado","Oklahoma","United States","United States",197100
+"Nevada-North Carolina","Nevada","North Carolina","United States","United States",196660
+"Kentucky-Nevada","Kentucky","Nevada","United States","United States",195240
+"Florida-Maine","Florida","Maine","United States","United States",194380
+"Oregon-Utah","Oregon","Utah","United States","United States",193000
+"Florida-Oregon","Florida","Oregon","United States","United States",192490
+"Minnesota-Pennsylvania","Minnesota","Pennsylvania","United States","United States",192080
+"Colorado-Indiana","Colorado","Indiana","United States","United States",191600
+"Colorado-Maryland","Colorado","Maryland","United States","United States",191450
+"California-Nebraska","California","Nebraska","United States","United States",190760
+"Michigan-Missouri","Michigan","Missouri","United States","United States",189660
+"Missouri-Washington","Missouri","Washington","United States","United States",189050
+"Arizona-Wisconsin","Arizona","Wisconsin","United States","United States",186430
+"Michigan-New Jersey","Michigan","New Jersey","United States","United States",186360
+"New York-Wisconsin","New York","Wisconsin","United States","United States",185520
+"Arizona-North Dakota","Arizona","North Dakota","United States","United States",185520
+"Massachusetts-Tennessee","Massachusetts","Tennessee","United States","United States",184430
+"New Jersey-Washington","New Jersey","Washington","United States","United States",184230
+"Montana-Nevada","Montana","Nevada","United States","United States",182630
+"Michigan-Tennessee","Michigan","Tennessee","United States","United States",182460
+"Indiana-New York","Indiana","New York","United States","United States",179730
+"Massachusetts-Minnesota","Massachusetts","Minnesota","United States","United States",179490
+"Georgia-Utah","Georgia","Utah","United States","United States",178790
+"Nevada-Wisconsin","Nevada","Wisconsin","United States","United States",178730
+"Colorado-Louisiana","Colorado","Louisiana","United States","United States",175350
+"Illinois-Iowa","Illinois","Iowa","United States","United States",173980
+"Indiana-Nevada","Indiana","Nevada","United States","United States",173830
+"Nebraska-Texas","Nebraska","Texas","United States","United States",172850
+"Minnesota-North Carolina","Minnesota","North Carolina","United States","United States",172670
+"Florida-Nebraska","Florida","Nebraska","United States","United States",171700
+"Colorado-Nebraska","Colorado","Nebraska","United States","United States",171460
+"Kentucky-North Carolina","Kentucky","North Carolina","United States","United States",171000
+"Michigan-Wisconsin","Michigan","Wisconsin","United States","United States",170140
+"Pennsylvania-Washington","Pennsylvania","Washington","United States","United States",169610
+"Connecticut-Illinois","Connecticut","Illinois","United States","United States",169200
+"California-Connecticut","California","Connecticut","United States","United States",169060
+"District of Columbia-Tennessee","District of Columbia","Tennessee","United States","United States",168720
+"Nevada-Virginia","Nevada","Virginia","United States","United States",168620
+"Arizona-Maryland","Arizona","Maryland","United States","United States",168490
+"Alabama-Florida","Alabama","Florida","United States","United States",168300
+"New York-Oregon","New York","Oregon","United States","United States",168180
+"Arizona-New Mexico","Arizona","New Mexico","United States","United States",168080
+"Michigan-Washington","Michigan","Washington","United States","United States",166650
+"Nevada-North Dakota","Nevada","North Dakota","United States","United States",166110
+"Pennsylvania-Virginia","Pennsylvania","Virginia","United States","United States",165850
+"Arizona-Indiana","Arizona","Indiana","United States","United States",165000
+"Ohio-Pennsylvania","Ohio","Pennsylvania","United States","United States",163580
+"Illinois-South Carolina","Illinois","South Carolina","United States","United States",163180
+"California-South Carolina","California","South Carolina","United States","United States",162590
+"Kentucky-New York","Kentucky","New York","United States","United States",162520
+"North Carolina-Washington","North Carolina","Washington","United States","United States",161560
+"Maryland-Tennessee","Maryland","Tennessee","United States","United States",160680
+"District of Columbia-Ohio","District of Columbia","Ohio","United States","United States",160440
+"District of Columbia-Minnesota","District of Columbia","Minnesota","United States","United States",159720
+"Virginia-Washington","Virginia","Washington","United States","United States",159590
+"Arizona-Montana","Arizona","Montana","United States","United States",159030
+"Montana-Washington","Montana","Washington","United States","United States",157450
+"Maryland-Rhode Island","Maryland","Rhode Island","United States","United States",155600
+"Florida-West Virginia","Florida","West Virginia","United States","United States",155150
+"Minnesota-North Dakota","Minnesota","North Dakota","United States","United States",154770
+"Maryland-Missouri","Maryland","Missouri","United States","United States",150300
+"Arizona-Tennessee","Arizona","Tennessee","United States","United States",148580
+"Colorado-Kentucky","Colorado","Kentucky","United States","United States",148450
+"Missouri-Tennessee","Missouri","Tennessee","United States","United States",147410
+"Indiana-North Carolina","Indiana","North Carolina","United States","United States",146800
+"Louisiana-Nevada","Louisiana","Nevada","United States","United States",145980
+"Louisiana-Pennsylvania","Louisiana","Pennsylvania","United States","United States",145210
+"Maryland-Ohio","Maryland","Ohio","United States","United States",143250
+"Nevada-Oklahoma","Nevada","Oklahoma","United States","United States",142710
+"Massachusetts-Missouri","Massachusetts","Missouri","United States","United States",141840
+"Connecticut-North Carolina","Connecticut","North Carolina","United States","United States",141490
+"Colorado-Montana","Colorado","Montana","United States","United States",140410
+"Arizona-Iowa","Arizona","Iowa","United States","United States",140130
+"Maryland-New Hampshire","Maryland","New Hampshire","United States","United States",139310
+"New Jersey-Ohio","New Jersey","Ohio","United States","United States",139080
+"District of Columbia-Michigan","District of Columbia","Michigan","United States","United States",138720
+"Ohio-Tennessee","Ohio","Tennessee","United States","United States",137640
+"Missouri-New Jersey","Missouri","New Jersey","United States","United States",137480
+"Georgia-Oklahoma","Georgia","Oklahoma","United States","United States",137330
+"Idaho-Utah","Idaho","Utah","United States","United States",137150
+"District of Columbia-South Carolina","District of Columbia","South Carolina","United States","United States",136630
+"Arizona-District of Columbia","Arizona","District of Columbia","United States","United States",135230
+"Arizona-Nebraska","Arizona","Nebraska","United States","United States",134420
+"Louisiana-North Carolina","Louisiana","North Carolina","United States","United States",134230
+"Minnesota-Oregon","Minnesota","Oregon","United States","United States",133800
+"Iowa-Nevada","Iowa","Nevada","United States","United States",132910
+"Arkansas-Georgia","Arkansas","Georgia","United States","United States",132230
+"Montana-Utah","Montana","Utah","United States","United States",131980
+"Connecticut-Georgia","Connecticut","Georgia","United States","United States",131880
+"Missouri-Ohio","Missouri","Ohio","United States","United States",130000
+"Michigan-Virginia","Michigan","Virginia","United States","United States",129020
+"Arkansas-Florida","Arkansas","Florida","United States","United States",128940
+"District of Columbia-Louisiana","District of Columbia","Louisiana","United States","United States",128890
+"Connecticut-Maryland","Connecticut","Maryland","United States","United States",127240
+"Iowa-Texas","Iowa","Texas","United States","United States",126760
+"Ohio-South Carolina","Ohio","South Carolina","United States","United States",125980
+"Georgia-Mississippi","Georgia","Mississippi","United States","United States",125760
+"California-Iowa","California","Iowa","United States","United States",125320
+"Maryland-Minnesota","Maryland","Minnesota","United States","United States",124410
+"Alaska-Oregon","Alaska","Oregon","United States","United States",123790
+"Mississippi-Texas","Mississippi","Texas","United States","United States",122040
+"Illinois-Oklahoma","Illinois","Oklahoma","United States","United States",121800
+"Arizona-Kentucky","Arizona","Kentucky","United States","United States",121710
+"Kansas-Texas","Kansas","Texas","United States","United States",120250
+"New Jersey-Tennessee","New Jersey","Tennessee","United States","United States",119960
+"Alabama-California","Alabama","California","United States","United States",119310
+"Minnesota-Ohio","Minnesota","Ohio","United States","United States",118270
+"Colorado-Iowa","Colorado","Iowa","United States","United States",118160
+"Idaho-Nevada","Idaho","Nevada","United States","United States",117560
+"Alabama-North Carolina","Alabama","North Carolina","United States","United States",115400
+"New Jersey-South Carolina","New Jersey","South Carolina","United States","United States",115160
+"Arkansas-California","Arkansas","California","United States","United States",115030
+"Connecticut-District of Columbia","Connecticut","District of Columbia","United States","United States",114680
+"Kentucky-Pennsylvania","Kentucky","Pennsylvania","United States","United States",113960
+"Maryland-Washington","Maryland","Washington","United States","United States",113930
+"Arizona-South Dakota","Arizona","South Dakota","United States","United States",113750
+"District of Columbia-Washington","District of Columbia","Washington","United States","United States",113080
+"Colorado-Idaho","Colorado","Idaho","United States","United States",112980
+"Ohio-Virginia","Ohio","Virginia","United States","United States",111510
+"Tennessee-Washington","Tennessee","Washington","United States","United States",111320
+"Illinois-Rhode Island","Illinois","Rhode Island","United States","United States",111240
+"Massachusetts-South Carolina","Massachusetts","South Carolina","United States","United States",111110
+"Arizona-Virginia","Arizona","Virginia","United States","United States",111100
+"Maine-New York","Maine","New York","United States","United States",110540
+"Arizona-Idaho","Arizona","Idaho","United States","United States",110030
+"Georgia-Oregon","Georgia","Oregon","United States","United States",109970
+"Connecticut-Texas","Connecticut","Texas","United States","United States",108990
+"Missouri-Oregon","Missouri","Oregon","United States","United States",108550
+"Colorado-New Mexico","Colorado","New Mexico","United States","United States",108140
+"District of Columbia-Indiana","District of Columbia","Indiana","United States","United States",105830
+"Minnesota-Utah","Minnesota","Utah","United States","United States",105450
+"Minnesota-Tennessee","Minnesota","Tennessee","United States","United States",105370
+"Nebraska-Nevada","Nebraska","Nevada","United States","United States",104420
+"District of Columbia-Nevada","District of Columbia","Nevada","United States","United States",103930
+"Massachusetts-Oregon","Massachusetts","Oregon","United States","United States",103430
+"Kentucky-Maryland","Kentucky","Maryland","United States","United States",102980
+"Arizona-Oklahoma","Arizona","Oklahoma","United States","United States",101730
+"North Carolina-Utah","North Carolina","Utah","United States","United States",100970
+"Florida-North Dakota","Florida","North Dakota","United States","United States",100510
+"Missouri-Utah","Missouri","Utah","United States","United States",100410
+"Minnesota-New Jersey","Minnesota","New Jersey","United States","United States",99590
+"Nevada-New Mexico","Nevada","New Mexico","United States","United States",99380
+"Maryland-South Carolina","Maryland","South Carolina","United States","United States",98810
+"Massachusetts-Utah","Massachusetts","Utah","United States","United States",98720
+"Louisiana-Massachusetts","Louisiana","Massachusetts","United States","United States",97490
+"Louisiana-Tennessee","Louisiana","Tennessee","United States","United States",97410
+"Louisiana-New Jersey","Louisiana","New Jersey","United States","United States",96650
+"Nevada-South Dakota","Nevada","South Dakota","United States","United States",96290
+"Ohio-Washington","Ohio","Washington","United States","United States",96010
+"Minnesota-Montana","Minnesota","Montana","United States","United States",95420
+"Michigan-Ohio","Michigan","Ohio","United States","United States",94780
+"Michigan-Utah","Michigan","Utah","United States","United States",94190
+"New Jersey-Virginia","New Jersey","Virginia","United States","United States",93370
+"Indiana-Pennsylvania","Indiana","Pennsylvania","United States","United States",92840
+"Louisiana-Missouri","Louisiana","Missouri","United States","United States",92700
+"Indiana-Michigan","Indiana","Michigan","United States","United States",92590
+"Michigan-South Carolina","Michigan","South Carolina","United States","United States",92370
+"Missouri-Wisconsin","Missouri","Wisconsin","United States","United States",92090
+"Tennessee-Virginia","Tennessee","Virginia","United States","United States",91860
+"Indiana-Minnesota","Indiana","Minnesota","United States","United States",91380
+"Minnesota-Virginia","Minnesota","Virginia","United States","United States",90980
+"Missouri-Virginia","Missouri","Virginia","United States","United States",90720
+"Arkansas-Illinois","Arkansas","Illinois","United States","United States",90360
+"North Carolina-Wisconsin","North Carolina","Wisconsin","United States","United States",89830
+"Kentucky-Michigan","Kentucky","Michigan","United States","United States",88460
+"Pennsylvania-Wisconsin","Pennsylvania","Wisconsin","United States","United States",88250
+"District of Columbia-Kentucky","District of Columbia","Kentucky","United States","United States",87980
+"Maryland-Utah","Maryland","Utah","United States","United States",87650
+"District of Columbia-Wisconsin","District of Columbia","Wisconsin","United States","United States",87630
+"New Jersey-Pennsylvania","New Jersey","Pennsylvania","United States","United States",87420
+"Alabama-Illinois","Alabama","Illinois","United States","United States",86570
+"Colorado-North Dakota","Colorado","North Dakota","United States","United States",85790
+"Louisiana-Maryland","Louisiana","Maryland","United States","United States",85440
+"Indiana-Massachusetts","Indiana","Massachusetts","United States","United States",85350
+"Idaho-Oregon","Idaho","Oregon","United States","United States",85280
+"Massachusetts-Wisconsin","Massachusetts","Wisconsin","United States","United States",85220
+"Kentucky-New Jersey","Kentucky","New Jersey","United States","United States",85000
+"Louisiana-Michigan","Louisiana","Michigan","United States","United States",84680
+"North Carolina-Rhode Island","North Carolina","Rhode Island","United States","United States",83190
+"Illinois-New Mexico","Illinois","New Mexico","United States","United States",81000
+"Florida-New Mexico","Florida","New Mexico","United States","United States",80990
+"Kentucky-Minnesota","Kentucky","Minnesota","United States","United States",80100
+"Alaska-Texas","Alaska","Texas","United States","United States",80060
+"Indiana-New Jersey","Indiana","New Jersey","United States","United States",80000
+"Georgia-Nebraska","Georgia","Nebraska","United States","United States",79620
+"Pennsylvania-Utah","Pennsylvania","Utah","United States","United States",79320
+"North Carolina-Oregon","North Carolina","Oregon","United States","United States",78760
+"Louisiana-Washington","Louisiana","Washington","United States","United States",78330
+"Illinois-New Hampshire","Illinois","New Hampshire","United States","United States",77210
+"New Jersey-Oregon","New Jersey","Oregon","United States","United States",76440
+"Washington-Wisconsin","Washington","Wisconsin","United States","United States",75910
+"New Mexico-New York","New Mexico","New York","United States","United States",75790
+"Colorado-Connecticut","Colorado","Connecticut","United States","United States",75020
+"Maryland-Virginia","Maryland","Virginia","United States","United States",75000
+"Oregon-Pennsylvania","Oregon","Pennsylvania","United States","United States",74830
+"Florida-South Dakota","Florida","South Dakota","United States","United States",74620
+"Maryland-Pennsylvania","Maryland","Pennsylvania","United States","United States",74360
+"Missouri-Oklahoma","Missouri","Oklahoma","United States","United States",74180
+"Idaho-Texas","Idaho","Texas","United States","United States",74120
+"Louisiana-Virginia","Louisiana","Virginia","United States","United States",73250
+"New York-Vermont","New York","Vermont","United States","United States",72210
+"South Carolina-Virginia","South Carolina","Virginia","United States","United States",71610
+"Florida-Vermont","Florida","Vermont","United States","United States",71490
+"Arizona-Louisiana","Arizona","Louisiana","United States","United States",70870
+"District of Columbia-Utah","District of Columbia","Utah","United States","United States",70790
+"California-Rhode Island","California","Rhode Island","United States","United States",70430
+"District of Columbia-Oregon","District of Columbia","Oregon","United States","United States",69950
+"Colorado-South Dakota","Colorado","South Dakota","United States","United States",68990
+"Connecticut-Michigan","Connecticut","Michigan","United States","United States",68920
+"District of Columbia-Virginia","District of Columbia","Virginia","United States","United States",67350
+"Connecticut-Pennsylvania","Connecticut","Pennsylvania","United States","United States",67200
+"Alaska-Arizona","Alaska","Arizona","United States","United States",67120
+"Kentucky-Massachusetts","Kentucky","Massachusetts","United States","United States",66420
+"Minnesota-South Dakota","Minnesota","South Dakota","United States","United States",66380
+"Maryland-Wisconsin","Maryland","Wisconsin","United States","United States",65430
+"North Carolina-Oklahoma","North Carolina","Oklahoma","United States","United States",65180
+"Illinois-Kansas","Illinois","Kansas","United States","United States",65160
+"Michigan-Oregon","Michigan","Oregon","United States","United States",63860
+"Arkansas-Nevada","Arkansas","Nevada","United States","United States",63400
+"Kansas-Nevada","Kansas","Nevada","United States","United States",62870
+"District of Columbia-Pennsylvania","District of Columbia","Pennsylvania","United States","United States",62720
+"Maine-Pennsylvania","Maine","Pennsylvania","United States","United States",62530
+"Georgia-Iowa","Georgia","Iowa","United States","United States",62430
+"Arkansas-North Carolina","Arkansas","North Carolina","United States","United States",62270
+"Arizona-Kansas","Arizona","Kansas","United States","United States",61820
+"Alaska-Colorado","Alaska","Colorado","United States","United States",61740
+"District of Columbia-Rhode Island","District of Columbia","Rhode Island","United States","United States",61610
+"California-Kansas","California","Kansas","United States","United States",61510
+"Alabama-New York","Alabama","New York","United States","United States",61450
+"Connecticut-Virginia","Connecticut","Virginia","United States","United States",61400
+"Tennessee-Utah","Tennessee","Utah","United States","United States",60880
+"Minnesota-Nebraska","Minnesota","Nebraska","United States","United States",60720
+"Montana-Oregon","Montana","Oregon","United States","United States",60610
+"New York-Oklahoma","New York","Oklahoma","United States","United States",60570
+"Indiana-Maryland","Indiana","Maryland","United States","United States",59680
+"Alabama-District of Columbia","Alabama","District of Columbia","United States","United States",59240
+"Oregon-Virginia","Oregon","Virginia","United States","United States",58970
+"District of Columbia-Maine","District of Columbia","Maine","United States","United States",58700
+"Louisiana-Ohio","Louisiana","Ohio","United States","United States",58660
+"Alaska-Nevada","Alaska","Nevada","United States","United States",58580
+"Indiana-Virginia","Indiana","Virginia","United States","United States",58530
+"Missouri-Nebraska","Missouri","Nebraska","United States","United States",58290
+"South Carolina-Tennessee","South Carolina","Tennessee","United States","United States",58190
+"Alaska-Minnesota","Alaska","Minnesota","United States","United States",57930
+"New Mexico-Washington","New Mexico","Washington","United States","United States",57200
+"Colorado-South Carolina","Colorado","South Carolina","United States","United States",57160
+"Montana-Texas","Montana","Texas","United States","United States",56580
+"Missouri-South Carolina","Missouri","South Carolina","United States","United States",56070
+"North Dakota-Texas","North Dakota","Texas","United States","United States",55970
+"Alaska-Illinois","Alaska","Illinois","United States","United States",55450
+"Georgia-Rhode Island","Georgia","Rhode Island","United States","United States",55220
+"Maine-Maryland","Maine","Maryland","United States","United States",55040
+"New Jersey-Wisconsin","New Jersey","Wisconsin","United States","United States",54850
+"Kentucky-Utah","Kentucky","Utah","United States","United States",54210
+"Georgia-New Mexico","Georgia","New Mexico","United States","United States",53670
+"Pennsylvania-Rhode Island","Pennsylvania","Rhode Island","United States","United States",53270
+"Colorado-Wyoming","Colorado","Wyoming","United States","United States",52780
+"District of Columbia-New Jersey","District of Columbia","New Jersey","United States","United States",52650
+"Kentucky-Louisiana","Kentucky","Louisiana","United States","United States",52640
+"Oklahoma-Washington","Oklahoma","Washington","United States","United States",52570
+"Ohio-Oregon","Ohio","Oregon","United States","United States",52500
+"Kentucky-South Carolina","Kentucky","South Carolina","United States","United States",52130
+"Arkansas-New York","Arkansas","New York","United States","United States",51890
+"Indiana-Washington","Indiana","Washington","United States","United States",51570
+"Indiana-Missouri","Indiana","Missouri","United States","United States",51400
+"District of Columbia-Nebraska","District of Columbia","Nebraska","United States","United States",51130
+"Florida-Kansas","Florida","Kansas","United States","United States",50990
+"Oregon-Tennessee","Oregon","Tennessee","United States","United States",50800
+"Kentucky-Washington","Kentucky","Washington","United States","United States",50470
+"Connecticut-Minnesota","Connecticut","Minnesota","United States","United States",49650
+"Utah-Virginia","Utah","Virginia","United States","United States",49600
+"Louisiana-Minnesota","Louisiana","Minnesota","United States","United States",48420
+"Connecticut-Nevada","Connecticut","Nevada","United States","United States",48190
+"Maryland-New Mexico","Maryland","New Mexico","United States","United States",47800
+"California-South Dakota","California","South Dakota","United States","United States",47520
+"Ohio-Wisconsin","Ohio","Wisconsin","United States","United States",47330
+"Alaska-Florida","Alaska","Florida","United States","United States",46730
+"Georgia-Kansas","Georgia","Kansas","United States","United States",46530
+"New Jersey-Utah","New Jersey","Utah","United States","United States",46140
+"Iowa-Minnesota","Iowa","Minnesota","United States","United States",45720
+"Maine-North Carolina","Maine","North Carolina","United States","United States",45650
+"Alabama-Colorado","Alabama","Colorado","United States","United States",45620
+"Ohio-Utah","Ohio","Utah","United States","United States",45600
+"South Carolina-Washington","South Carolina","Washington","United States","United States",45600
+"Kentucky-Virginia","Kentucky","Virginia","United States","United States",45470
+"Nebraska-Washington","Nebraska","Washington","United States","United States",45320
+"California-Wyoming","California","Wyoming","United States","United States",45310
+"Alabama-Pennsylvania","Alabama","Pennsylvania","United States","United States",44440
+"South Dakota-Texas","South Dakota","Texas","United States","United States",44160
+"Kentucky-Missouri","Kentucky","Missouri","United States","United States",43840
+"Illinois-South Dakota","Illinois","South Dakota","United States","United States",43840
+"Georgia-Maine","Georgia","Maine","United States","United States",43660
+"California-North Dakota","California","North Dakota","United States","United States",43660
+"Arizona-South Carolina","Arizona","South Carolina","United States","United States",43640
+"Rhode Island-Texas","Rhode Island","Texas","United States","United States",43320
+"Colorado-Kansas","Colorado","Kansas","United States","United States",43300
+"Maryland-Oregon","Maryland","Oregon","United States","United States",43220
+"Iowa-North Carolina","Iowa","North Carolina","United States","United States",43050
+"Indiana-South Carolina","Indiana","South Carolina","United States","United States",42950
+"California-Maine","California","Maine","United States","United States",42570
+"Maine-New Jersey","Maine","New Jersey","United States","United States",42480
+"New Hampshire-Pennsylvania","New Hampshire","Pennsylvania","United States","United States",42470
+"Alabama-Nevada","Alabama","Nevada","United States","United States",42020
+"Maryland-Oklahoma","Maryland","Oklahoma","United States","United States",41700
+"Arkansas-Colorado","Arkansas","Colorado","United States","United States",41110
+"Oklahoma-Pennsylvania","Oklahoma","Pennsylvania","United States","United States",40980
+"Tennessee-Wisconsin","Tennessee","Wisconsin","United States","United States",40960
+"Iowa-New York","Iowa","New York","United States","United States",40430
+"Arizona-Connecticut","Arizona","Connecticut","United States","United States",40400
+"Alabama-Maryland","Alabama","Maryland","United States","United States",40240
+"Mississippi-North Carolina","Mississippi","North Carolina","United States","United States",40220
+"Illinois-North Dakota","Illinois","North Dakota","United States","United States",40160
+"Nebraska-North Carolina","Nebraska","North Carolina","United States","United States",40130
+"Idaho-Minnesota","Idaho","Minnesota","United States","United States",39720
+"Iowa-Michigan","Iowa","Michigan","United States","United States",39590
+"Florida-Montana","Florida","Montana","United States","United States",39140
+"Nebraska-New York","Nebraska","New York","United States","United States",38480
+"Nevada-South Carolina","Nevada","South Carolina","United States","United States",38460
+"Michigan-Oklahoma","Michigan","Oklahoma","United States","United States",38180
+"Louisiana-Oklahoma","Louisiana","Oklahoma","United States","United States",37750
+"New Mexico-Oregon","New Mexico","Oregon","United States","United States",37720
+"Oregon-Wisconsin","Oregon","Wisconsin","United States","United States",37530
+"Idaho-Illinois","Idaho","Illinois","United States","United States",37510
+"Alabama-Michigan","Alabama","Michigan","United States","United States",37350
+"Louisiana-Oregon","Louisiana","Oregon","United States","United States",37090
+"Virginia-Wisconsin","Virginia","Wisconsin","United States","United States",36830
+"Oklahoma-Virginia","Oklahoma","Virginia","United States","United States",36830
+"Connecticut-Ohio","Connecticut","Ohio","United States","United States",36580
+"Missouri-New Mexico","Missouri","New Mexico","United States","United States",36430
+"California-Mississippi","California","Mississippi","United States","United States",36150
+"Illinois-Vermont","Illinois","Vermont","United States","United States",35800
+"Utah-Wyoming","Utah","Wyoming","United States","United States",35550
+"Oklahoma-Utah","Oklahoma","Utah","United States","United States",35230
+"Rhode Island-Virginia","Rhode Island","Virginia","United States","United States",35160
+"Illinois-Montana","Illinois","Montana","United States","United States",35060
+"Alabama-Virginia","Alabama","Virginia","United States","United States",35050
+"Illinois-Maine","Illinois","Maine","United States","United States",35000
+"Louisiana-Utah","Louisiana","Utah","United States","United States",34820
+"Arkansas-Missouri","Arkansas","Missouri","United States","United States",34610
+"Michigan-Nebraska","Michigan","Nebraska","United States","United States",34590
+"New Mexico-Utah","New Mexico","Utah","United States","United States",34590
+"Florida-Mississippi","Florida","Mississippi","United States","United States",34570
+"Arizona-Arkansas","Arizona","Arkansas","United States","United States",34440
+"New Hampshire-North Carolina","New Hampshire","North Carolina","United States","United States",34320
+"Michigan-Rhode Island","Michigan","Rhode Island","United States","United States",34280
+"California-New Hampshire","California","New Hampshire","United States","United States",33930
+"Oklahoma-Tennessee","Oklahoma","Tennessee","United States","United States",33890
+"Florida-Idaho","Florida","Idaho","United States","United States",33590
+"Alabama-Arizona","Alabama","Arizona","United States","United States",33530
+"District of Columbia-Oklahoma","District of Columbia","Oklahoma","United States","United States",33370
+"Minnesota-Oklahoma","Minnesota","Oklahoma","United States","United States",33210
+"Maine-Texas","Maine","Texas","United States","United States",33130
+"District of Columbia-Iowa","District of Columbia","Iowa","United States","United States",33010
+"Ohio-Oklahoma","Ohio","Oklahoma","United States","United States",32920
+"Connecticut-Tennessee","Connecticut","Tennessee","United States","United States",32540
+"North Carolina-West Virginia","North Carolina","West Virginia","United States","United States",32410
+"Indiana-Louisiana","Indiana","Louisiana","United States","United States",32360
+"Nevada-Wyoming","Nevada","Wyoming","United States","United States",32360
+"Alaska-Georgia","Alaska","Georgia","United States","United States",32290
+"Indiana-Utah","Indiana","Utah","United States","United States",32130
+"Minnesota-South Carolina","Minnesota","South Carolina","United States","United States",31960
+"Alaska-Utah","Alaska","Utah","United States","United States",31950
+"Maine-Michigan","Maine","Michigan","United States","United States",31860
+"District of Columbia-Vermont","District of Columbia","Vermont","United States","United States",31600
+"Texas-Wyoming","Texas","Wyoming","United States","United States",31410
+"California-Vermont","California","Vermont","United States","United States",31300
+"District of Columbia-New Mexico","District of Columbia","New Mexico","United States","United States",30860
+"District of Columbia-New Hampshire","District of Columbia","New Hampshire","United States","United States",30530
+"New Jersey-Vermont","New Jersey","Vermont","United States","United States",30490
+"Nebraska-Oregon","Nebraska","Oregon","United States","United States",30260
+"Louisiana-South Carolina","Louisiana","South Carolina","United States","United States",30200
+"Indiana-Oregon","Indiana","Oregon","United States","United States",30180
+"Kentucky-Wisconsin","Kentucky","Wisconsin","United States","United States",30050
+"Utah-Wisconsin","Utah","Wisconsin","United States","United States",29570
+"Connecticut-South Carolina","Connecticut","South Carolina","United States","United States",29550
+"South Carolina-West Virginia","South Carolina","West Virginia","United States","United States",29350
+"Louisiana-Wisconsin","Louisiana","Wisconsin","United States","United States",28950
+"Iowa-Missouri","Iowa","Missouri","United States","United States",28750
+"Connecticut-Missouri","Connecticut","Missouri","United States","United States",28420
+"Alabama-Missouri","Alabama","Missouri","United States","United States",28280
+"Alaska-New York","Alaska","New York","United States","United States",28050
+"Georgia-Montana","Georgia","Montana","United States","United States",27620
+"New Jersey-Oklahoma","New Jersey","Oklahoma","United States","United States",27360
+"Georgia-West Virginia","Georgia","West Virginia","United States","United States",27040
+"Georgia-New Hampshire","Georgia","New Hampshire","United States","United States",26920
+"Montana-New York","Montana","New York","United States","United States",26540
+"Kansas-Missouri","Kansas","Missouri","United States","United States",26450
+"Pennsylvania-Vermont","Pennsylvania","Vermont","United States","United States",26390
+"North Carolina-Vermont","North Carolina","Vermont","United States","United States",26350
+"Nebraska-Utah","Nebraska","Utah","United States","United States",26230
+"Kentucky-Oregon","Kentucky","Oregon","United States","United States",26130
+"Indiana-Tennessee","Indiana","Tennessee","United States","United States",25710
+"Iowa-Pennsylvania","Iowa","Pennsylvania","United States","United States",25580
+"Nebraska-Pennsylvania","Nebraska","Pennsylvania","United States","United States",25520
+"Oklahoma-Oregon","Oklahoma","Oregon","United States","United States",25440
+"Kentucky-Tennessee","Kentucky","Tennessee","United States","United States",25120
+"District of Columbia-Maryland","District of Columbia","Maryland","United States","United States",24970
+"Alabama-Ohio","Alabama","Ohio","United States","United States",24680
+"Maine-Virginia","Maine","Virginia","United States","United States",24640
+"New Hampshire-Texas","New Hampshire","Texas","United States","United States",24490
+"Nebraska-New Jersey","Nebraska","New Jersey","United States","United States",24290
+"New Mexico-Pennsylvania","New Mexico","Pennsylvania","United States","United States",24250
+"Michigan-New Hampshire","Michigan","New Hampshire","United States","United States",24240
+"Arkansas-Pennsylvania","Arkansas","Pennsylvania","United States","United States",24200
+"Iowa-Washington","Iowa","Washington","United States","United States",24100
+"Massachusetts-New Mexico","Massachusetts","New Mexico","United States","United States",23900
+"New Mexico-North Carolina","New Mexico","North Carolina","United States","United States",23820
+"Minnesota-New Mexico","Minnesota","New Mexico","United States","United States",23300
+"Alaska-Massachusetts","Alaska","Massachusetts","United States","United States",23100
+"Alaska-Missouri","Alaska","Missouri","United States","United States",23090
+"Arkansas-District of Columbia","Arkansas","District of Columbia","United States","United States",23040
+"Alabama-Washington","Alabama","Washington","United States","United States",23030
+"Connecticut-Washington","Connecticut","Washington","United States","United States",22840
+"South Carolina-Wisconsin","South Carolina","Wisconsin","United States","United States",22780
+"Alaska-Michigan","Alaska","Michigan","United States","United States",22730
+"Massachusetts-Oklahoma","Massachusetts","Oklahoma","United States","United States",22390
+"New Mexico-Virginia","New Mexico","Virginia","United States","United States",22040
+"Nebraska-Tennessee","Nebraska","Tennessee","United States","United States",21990
+"Alaska-Montana","Alaska","Montana","United States","United States",21660
+"District of Columbia-Mississippi","District of Columbia","Mississippi","United States","United States",21570
+"Arizona-Rhode Island","Arizona","Rhode Island","United States","United States",21460
+"Arkansas-Michigan","Arkansas","Michigan","United States","United States",21370
+"Alabama-Massachusetts","Alabama","Massachusetts","United States","United States",21100
+"Alabama-New Jersey","Alabama","New Jersey","United States","United States",21010
+"Georgia-Idaho","Georgia","Idaho","United States","United States",20920
+"Massachusetts-Montana","Massachusetts","Montana","United States","United States",20770
+"New Mexico-Tennessee","New Mexico","Tennessee","United States","United States",20540
+"Nebraska-Ohio","Nebraska","Ohio","United States","United States",20360
+"Connecticut-Kentucky","Connecticut","Kentucky","United States","United States",20330
+"Illinois-Mississippi","Illinois","Mississippi","United States","United States",20180
+"Idaho-New York","Idaho","New York","United States","United States",19430
+"Arkansas-Washington","Arkansas","Washington","United States","United States",19100
+"Alaska-Pennsylvania","Alaska","Pennsylvania","United States","United States",19030
+"Nebraska-Virginia","Nebraska","Virginia","United States","United States",18960
+"Alaska-Idaho","Alaska","Idaho","United States","United States",18890
+"Missouri-Montana","Missouri","Montana","United States","United States",18880
+"Nevada-Rhode Island","Nevada","Rhode Island","United States","United States",18760
+"Rhode Island-Tennessee","Rhode Island","Tennessee","United States","United States",18700
+"Iowa-New Jersey","Iowa","New Jersey","United States","United States",18690
+"Texas-West Virginia","Texas","West Virginia","United States","United States",18610
+"Georgia-South Dakota","Georgia","South Dakota","United States","United States",18570
+"South Carolina-Utah","South Carolina","Utah","United States","United States",18340
+"Arkansas-New Jersey","Arkansas","New Jersey","United States","United States",18020
+"Iowa-Tennessee","Iowa","Tennessee","United States","United States",17880
+"Vermont-Virginia","Vermont","Virginia","United States","United States",17870
+"Iowa-Ohio","Iowa","Ohio","United States","United States",17770
+"Idaho-Missouri","Idaho","Missouri","United States","United States",17700
+"Oregon-South Carolina","Oregon","South Carolina","United States","United States",17600
+"Arkansas-Virginia","Arkansas","Virginia","United States","United States",17560
+"Arkansas-Minnesota","Arkansas","Minnesota","United States","United States",17530
+"New Mexico-Ohio","New Mexico","Ohio","United States","United States",17480
+"Georgia-Vermont","Georgia","Vermont","United States","United States",17310
+"Illinois-Wyoming","Illinois","Wyoming","United States","United States",17290
+"Montana-Pennsylvania","Montana","Pennsylvania","United States","United States",17110
+"Colorado-Rhode Island","Colorado","Rhode Island","United States","United States",17040
+"Connecticut-Indiana","Connecticut","Indiana","United States","United States",16930
+"New Jersey-New Mexico","New Jersey","New Mexico","United States","United States",16850
+"Arkansas-Ohio","Arkansas","Ohio","United States","United States",16760
+"Connecticut-Louisiana","Connecticut","Louisiana","United States","United States",16730
+"Colorado-Maine","Colorado","Maine","United States","United States",16710
+"Alabama-Utah","Alabama","Utah","United States","United States",16660
+"Massachusetts-Nebraska","Massachusetts","Nebraska","United States","United States",16660
+"Michigan-Montana","Michigan","Montana","United States","United States",16650
+"Iowa-Oregon","Iowa","Oregon","United States","United States",16620
+"Iowa-Massachusetts","Iowa","Massachusetts","United States","United States",16610
+"Indiana-Oklahoma","Indiana","Oklahoma","United States","United States",16600
+"Mississippi-New York","Mississippi","New York","United States","United States",16390
+"Alabama-Minnesota","Alabama","Minnesota","United States","United States",16380
+"Oklahoma-South Carolina","Oklahoma","South Carolina","United States","United States",16200
+"Montana-North Carolina","Montana","North Carolina","United States","United States",16140
+"Michigan-New Mexico","Michigan","New Mexico","United States","United States",16090
+"Ohio-Rhode Island","Ohio","Rhode Island","United States","United States",15940
+"Kansas-Minnesota","Kansas","Minnesota","United States","United States",15860
+"Rhode Island-South Carolina","Rhode Island","South Carolina","United States","United States",15840
+"New Hampshire-New York","New Hampshire","New York","United States","United States",15810
+"Missouri-Rhode Island","Missouri","Rhode Island","United States","United States",15680
+"Alaska-North Carolina","Alaska","North Carolina","United States","United States",15610
+"Kansas-New York","Kansas","New York","United States","United States",15610
+"Arizona-New Hampshire","Arizona","New Hampshire","United States","United States",15550
+"Texas-Vermont","Texas","Vermont","United States","United States",15490
+"Connecticut-Wisconsin","Connecticut","Wisconsin","United States","United States",15150
+"Colorado-New Hampshire","Colorado","New Hampshire","United States","United States",15050
+"Connecticut-New Jersey","Connecticut","New Jersey","United States","United States",15010
+"Iowa-Utah","Iowa","Utah","United States","United States",14990
+"Michigan-Vermont","Michigan","Vermont","United States","United States",14750
+"Indiana-Wisconsin","Indiana","Wisconsin","United States","United States",14650
+"Oklahoma-Wisconsin","Oklahoma","Wisconsin","United States","United States",14570
+"Louisiana-New Mexico","Louisiana","New Mexico","United States","United States",14370
+"New York-Wyoming","New York","Wyoming","United States","United States",14310
+"Iowa-Virginia","Iowa","Virginia","United States","United States",14220
+"Montana-New Jersey","Montana","New Jersey","United States","United States",14190
+"Louisiana-Nebraska","Louisiana","Nebraska","United States","United States",14140
+"Mississippi-Virginia","Mississippi","Virginia","United States","United States",14040
+"Arkansas-Maryland","Arkansas","Maryland","United States","United States",14000
+"Florida-Wyoming","Florida","Wyoming","United States","United States",13990
+"Kansas-Washington","Kansas","Washington","United States","United States",13980
+"North Dakota-Washington","North Dakota","Washington","United States","United States",13900
+"Arkansas-Massachusetts","Arkansas","Massachusetts","United States","United States",13890
+"New Jersey-Rhode Island","New Jersey","Rhode Island","United States","United States",13860
+"Maine-Tennessee","Maine","Tennessee","United States","United States",13850
+"Kansas-North Carolina","Kansas","North Carolina","United States","United States",13810
+"Kentucky-Oklahoma","Kentucky","Oklahoma","United States","United States",13770
+"Colorado-Vermont","Colorado","Vermont","United States","United States",13750
+"Nevada-New Hampshire","Nevada","New Hampshire","United States","United States",13670
+"Maine-Ohio","Maine","Ohio","United States","United States",13460
+"Arkansas-Tennessee","Arkansas","Tennessee","United States","United States",13440
+"Idaho-Pennsylvania","Idaho","Pennsylvania","United States","United States",13420
+"New Hampshire-New Jersey","New Hampshire","New Jersey","United States","United States",13420
+"Connecticut-Utah","Connecticut","Utah","United States","United States",13390
+"Georgia-North Dakota","Georgia","North Dakota","United States","United States",13280
+"Montana-Tennessee","Montana","Tennessee","United States","United States",13190
+"Missouri-New Hampshire","Missouri","New Hampshire","United States","United States",13090
+"Alabama-South Carolina","Alabama","South Carolina","United States","United States",13000
+"Mississippi-Pennsylvania","Mississippi","Pennsylvania","United States","United States",12960
+"Indiana-Nebraska","Indiana","Nebraska","United States","United States",12950
+"Alabama-Oklahoma","Alabama","Oklahoma","United States","United States",12930
+"Maine-Missouri","Maine","Missouri","United States","United States",12910
+"District of Columbia-Montana","District of Columbia","Montana","United States","United States",12900
+"Arizona-Maine","Arizona","Maine","United States","United States",12900
+"Colorado-Mississippi","Colorado","Mississippi","United States","United States",12790
+"Alaska-District of Columbia","Alaska","District of Columbia","United States","United States",12750
+"Arkansas-Louisiana","Arkansas","Louisiana","United States","United States",12690
+"Alaska-New Jersey","Alaska","New Jersey","United States","United States",12550
+"Kansas-Pennsylvania","Kansas","Pennsylvania","United States","United States",12480
+"Idaho-North Carolina","Idaho","North Carolina","United States","United States",12460
+"New Hampshire-Tennessee","New Hampshire","Tennessee","United States","United States",12260
+"South Dakota-Washington","South Dakota","Washington","United States","United States",12210
+"New Hampshire-Ohio","New Hampshire","Ohio","United States","United States",12170
+"Idaho-Massachusetts","Idaho","Massachusetts","United States","United States",12120
+"Connecticut-Oregon","Connecticut","Oregon","United States","United States",12030
+"Idaho-Michigan","Idaho","Michigan","United States","United States",11980
+"Iowa-Maryland","Iowa","Maryland","United States","United States",11960
+"Nebraska-Wisconsin","Nebraska","Wisconsin","United States","United States",11910
+"Louisiana-Rhode Island","Louisiana","Rhode Island","United States","United States",11860
+"New Mexico-Oklahoma","New Mexico","Oklahoma","United States","United States",11840
+"Maryland-Nebraska","Maryland","Nebraska","United States","United States",11760
+"Alabama-Indiana","Alabama","Indiana","United States","United States",11570
+"Rhode Island-Washington","Rhode Island","Washington","United States","United States",11560
+"Alaska-Tennessee","Alaska","Tennessee","United States","United States",11540
+"Arkansas-Kentucky","Arkansas","Kentucky","United States","United States",11460
+"Montana-Virginia","Montana","Virginia","United States","United States",11430
+"District of Columbia-Idaho","District of Columbia","Idaho","United States","United States",11340
+"New York-South Dakota","New York","South Dakota","United States","United States",11280
+"Alabama-Louisiana","Alabama","Louisiana","United States","United States",11190
+"Alabama-Kentucky","Alabama","Kentucky","United States","United States",11140
+"Montana-Wisconsin","Montana","Wisconsin","United States","United States",11080
+"Alaska-Virginia","Alaska","Virginia","United States","United States",10970
+"Kentucky-Nebraska","Kentucky","Nebraska","United States","United States",10890
+"Idaho-Tennessee","Idaho","Tennessee","United States","United States",10860
+"Alabama-Oregon","Alabama","Oregon","United States","United States",10720
+"Maine-South Carolina","Maine","South Carolina","United States","United States",10660
+"Georgia-Wyoming","Georgia","Wyoming","United States","United States",10620
+"Arkansas-Oregon","Arkansas","Oregon","United States","United States",10470
+"Maryland-New Jersey","Maryland","New Jersey","United States","United States",10460
+"District of Columbia-Kansas","District of Columbia","Kansas","United States","United States",10450
+"Idaho-Virginia","Idaho","Virginia","United States","United States",10440
+"Minnesota-Rhode Island","Minnesota","Rhode Island","United States","United States",10380
+"Missouri-North Dakota","Missouri","North Dakota","United States","United States",10330
+"Nebraska-South Carolina","Nebraska","South Carolina","United States","United States",10310
+"Maryland-Montana","Maryland","Montana","United States","United States",10260
+"Arkansas-Wisconsin","Arkansas","Wisconsin","United States","United States",10200
+"Arkansas-South Carolina","Arkansas","South Carolina","United States","United States",10150
+"Iowa-Louisiana","Iowa","Louisiana","United States","United States",10130
+"Indiana-Ohio","Indiana","Ohio","United States","United States",10090
+"Illinois-West Virginia","Illinois","West Virginia","United States","United States",10080
+"Idaho-Maryland","Idaho","Maryland","United States","United States",10070
+"New Mexico-Wisconsin","New Mexico","Wisconsin","United States","United States",10030
+"Alabama-Wisconsin","Alabama","Wisconsin","United States","United States",9990
+"Kansas-Tennessee","Kansas","Tennessee","United States","United States",9940
+"New York-North Dakota","New York","North Dakota","United States","United States",9840
+"Kentucky-Rhode Island","Kentucky","Rhode Island","United States","United States",9810
+"Arkansas-Indiana","Arkansas","Indiana","United States","United States",9810
+"Michigan-North Dakota","Michigan","North Dakota","United States","United States",9760
+"Alaska-Louisiana","Alaska","Louisiana","United States","United States",9730
+"Idaho-New Jersey","Idaho","New Jersey","United States","United States",9700
+"Arkansas-Utah","Arkansas","Utah","United States","United States",9700
+"Arizona-Wyoming","Arizona","Wyoming","United States","United States",9670
+"Michigan-Mississippi","Michigan","Mississippi","United States","United States",9550
+"Louisiana-Maine","Louisiana","Maine","United States","United States",9510
+"Montana-Ohio","Montana","Ohio","United States","United States",9480
+"Idaho-Montana","Idaho","Montana","United States","United States",9480
+"South Dakota-Utah","South Dakota","Utah","United States","United States",9410
+"California-West Virginia","California","West Virginia","United States","United States",9400
+"Alaska-Maryland","Alaska","Maryland","United States","United States",9330
+"New Hampshire-South Carolina","New Hampshire","South Carolina","United States","United States",9310
+"New Hampshire-Virginia","New Hampshire","Virginia","United States","United States",9310
+"North Dakota-Utah","North Dakota","Utah","United States","United States",9220
+"North Carolina-South Dakota","North Carolina","South Dakota","United States","United States",9210
+"Mississippi-Nevada","Mississippi","Nevada","United States","United States",9100
+"Arizona-Mississippi","Arizona","Mississippi","United States","United States",9100
+"Maine-Minnesota","Maine","Minnesota","United States","United States",9090
+"Maine-Nevada","Maine","Nevada","United States","United States",9020
+"Mississippi-Missouri","Mississippi","Missouri","United States","United States",9010
+"Indiana-Iowa","Indiana","Iowa","United States","United States",8990
+"Alabama-Connecticut","Alabama","Connecticut","United States","United States",8960
+"Connecticut-New York","Connecticut","New York","United States","United States",8910
+"Alaska-Ohio","Alaska","Ohio","United States","United States",8900
+"New Jersey-Wyoming","New Jersey","Wyoming","United States","United States",8780
+"Mississippi-Washington","Mississippi","Washington","United States","United States",8780
+"Indiana-New Mexico","Indiana","New Mexico","United States","United States",8770
+"Idaho-Ohio","Idaho","Ohio","United States","United States",8760
+"Pennsylvania-South Dakota","Pennsylvania","South Dakota","United States","United States",8680
+"Indiana-Rhode Island","Indiana","Rhode Island","United States","United States",8620
+"Maine-Washington","Maine","Washington","United States","United States",8620
+"Kansas-Michigan","Kansas","Michigan","United States","United States",8530
+"Kansas-Virginia","Kansas","Virginia","United States","United States",8470
+"Massachusetts-Wyoming","Massachusetts","Wyoming","United States","United States",8450
+"Connecticut-Oklahoma","Connecticut","Oklahoma","United States","United States",8400
+"Pennsylvania-Wyoming","Pennsylvania","Wyoming","United States","United States",8320
+"District of Columbia-South Dakota","District of Columbia","South Dakota","United States","United States",8310
+"Kansas-Ohio","Kansas","Ohio","United States","United States",8260
+"Alaska-Oklahoma","Alaska","Oklahoma","United States","United States",8240
+"Oregon-South Dakota","Oregon","South Dakota","United States","United States",8190
+"Idaho-Wisconsin","Idaho","Wisconsin","United States","United States",8160
+"Kentucky-Ohio","Kentucky","Ohio","United States","United States",8150
+"North Carolina-North Dakota","North Carolina","North Dakota","United States","United States",8120
+"Iowa-South Carolina","Iowa","South Carolina","United States","United States",8120
+"North Dakota-Pennsylvania","North Dakota","Pennsylvania","United States","United States",7990
+"Iowa-Kentucky","Iowa","Kentucky","United States","United States",7960
+"Virginia-West Virginia","Virginia","West Virginia","United States","United States",7940
+"Alaska-Wisconsin","Alaska","Wisconsin","United States","United States",7760
+"Mississippi-Ohio","Mississippi","Ohio","United States","United States",7760
+"District of Columbia-North Dakota","District of Columbia","North Dakota","United States","United States",7740
+"Maine-Wisconsin","Maine","Wisconsin","United States","United States",7690
+"Michigan-South Dakota","Michigan","South Dakota","United States","United States",7670
+"Mississippi-South Carolina","Mississippi","South Carolina","United States","United States",7590
+"Kentucky-New Mexico","Kentucky","New Mexico","United States","United States",7590
+"North Dakota-Tennessee","North Dakota","Tennessee","United States","United States",7540
+"North Dakota-Oregon","North Dakota","Oregon","United States","United States",7520
+"Minnesota-Mississippi","Minnesota","Mississippi","United States","United States",7500
+"Kentucky-Maine","Kentucky","Maine","United States","United States",7490
+"South Dakota-Tennessee","South Dakota","Tennessee","United States","United States",7330
+"Washington-Wyoming","Washington","Wyoming","United States","United States",7310
+"Kentucky-New Hampshire","Kentucky","New Hampshire","United States","United States",7290
+"Rhode Island-Wisconsin","Rhode Island","Wisconsin","United States","United States",7230
+"Minnesota-Wyoming","Minnesota","Wyoming","United States","United States",7230
+"Virginia-Wyoming","Virginia","Wyoming","United States","United States",7220
+"Kansas-Massachusetts","Kansas","Massachusetts","United States","United States",7140
+"Vermont-Washington","Vermont","Washington","United States","United States",7120
+"Arizona-Vermont","Arizona","Vermont","United States","United States",7090
+"Missouri-South Dakota","Missouri","South Dakota","United States","United States",7040
+"Idaho-Oklahoma","Idaho","Oklahoma","United States","United States",7030
+"Louisiana-Montana","Louisiana","Montana","United States","United States",6990
+"Kentucky-Montana","Kentucky","Montana","United States","United States",6970
+"Massachusetts-Mississippi","Massachusetts","Mississippi","United States","United States",6950
+"Mississippi-Tennessee","Mississippi","Tennessee","United States","United States",6810
+"Connecticut-New Mexico","Connecticut","New Mexico","United States","United States",6730
+"Alabama-New Mexico","Alabama","New Mexico","United States","United States",6730
+"Kansas-Oregon","Kansas","Oregon","United States","United States",6690
+"Kansas-Maryland","Kansas","Maryland","United States","United States",6680
+"Ohio-South Dakota","Ohio","South Dakota","United States","United States",6660
+"District of Columbia-West Virginia","District of Columbia","West Virginia","United States","United States",6660
+"Indiana-Montana","Indiana","Montana","United States","United States",6630
+"Mississippi-New Jersey","Mississippi","New Jersey","United States","United States",6600
+"Alabama-Tennessee","Alabama","Tennessee","United States","United States",6590
+"Kansas-Louisiana","Kansas","Louisiana","United States","United States",6590
+"South Dakota-Virginia","South Dakota","Virginia","United States","United States",6520
+"New Mexico-South Carolina","New Mexico","South Carolina","United States","United States",6510
+"North Carolina-Wyoming","North Carolina","Wyoming","United States","United States",6490
+"Nevada-Vermont","Nevada","Vermont","United States","United States",6470
+"Alabama-Arkansas","Alabama","Arkansas","United States","United States",6460
+"North Dakota-Oklahoma","North Dakota","Oklahoma","United States","United States",6440
+"Minnesota-New Hampshire","Minnesota","New Hampshire","United States","United States",6440
+"Indiana-Maine","Indiana","Maine","United States","United States",6430
+"Alaska-New Mexico","Alaska","New Mexico","United States","United States",6430
+"Alabama-Nebraska","Alabama","Nebraska","United States","United States",6380
+"Maryland-Mississippi","Maryland","Mississippi","United States","United States",6210
+"Idaho-New Mexico","Idaho","New Mexico","United States","United States",6160
+"New York-West Virginia","New York","West Virginia","United States","United States",6150
+"New Hampshire-Utah","New Hampshire","Utah","United States","United States",6100
+"Alaska-Nebraska","Alaska","Nebraska","United States","United States",6100
+"Montana-Oklahoma","Montana","Oklahoma","United States","United States",6060
+"Kansas-New Jersey","Kansas","New Jersey","United States","United States",6060
+"Idaho-Louisiana","Idaho","Louisiana","United States","United States",6030
+"Pennsylvania-West Virginia","Pennsylvania","West Virginia","United States","United States",5940
+"Idaho-Indiana","Idaho","Indiana","United States","United States",5930
+"New Hampshire-Washington","New Hampshire","Washington","United States","United States",5920
+"Montana-New Mexico","Montana","New Mexico","United States","United States",5920
+"North Dakota-Ohio","North Dakota","Ohio","United States","United States",5870
+"Nebraska-Oklahoma","Nebraska","Oklahoma","United States","United States",5780
+"Idaho-Nebraska","Idaho","Nebraska","United States","United States",5690
+"Rhode Island-Utah","Rhode Island","Utah","United States","United States",5690
+"Minnesota-Vermont","Minnesota","Vermont","United States","United States",5680
+"North Dakota-Wisconsin","North Dakota","Wisconsin","United States","United States",5670
+"Indiana-Kansas","Indiana","Kansas","United States","United States",5670
+"Iowa-Oklahoma","Iowa","Oklahoma","United States","United States",5630
+"Alabama-Rhode Island","Alabama","Rhode Island","United States","United States",5520
+"North Dakota-Virginia","North Dakota","Virginia","United States","United States",5500
+"Louisiana-North Dakota","Louisiana","North Dakota","United States","United States",5500
+"Connecticut-Iowa","Connecticut","Iowa","United States","United States",5460
+"Connecticut-Nebraska","Connecticut","Nebraska","United States","United States",5420
+"Kansas-Utah","Kansas","Utah","United States","United States",5390
+"New Jersey-South Dakota","New Jersey","South Dakota","United States","United States",5370
+"New Hampshire-Wisconsin","New Hampshire","Wisconsin","United States","United States",5310
+"Massachusetts-South Dakota","Massachusetts","South Dakota","United States","United States",5300
+"Louisiana-New Hampshire","Louisiana","New Hampshire","United States","United States",5300
+"New York-Rhode Island","New York","Rhode Island","United States","United States",5290
+"Montana-Nebraska","Montana","Nebraska","United States","United States",5230
+"Idaho-Kentucky","Idaho","Kentucky","United States","United States",5160
+"Nebraska-New Mexico","Nebraska","New Mexico","United States","United States",5160
+"Indiana-New Hampshire","Indiana","New Hampshire","United States","United States",5130
+"Indiana-Mississippi","Indiana","Mississippi","United States","United States",5130
+"Indiana-South Dakota","Indiana","South Dakota","United States","United States",5100
+"Kentucky-Mississippi","Kentucky","Mississippi","United States","United States",5100
+"Tennessee-Wyoming","Tennessee","Wyoming","United States","United States",5090
+"Tennessee-Vermont","Tennessee","Vermont","United States","United States",5030
+"Alaska-Indiana","Alaska","Indiana","United States","United States",5000
+"South Carolina-Vermont","South Carolina","Vermont","United States","United States",4920
+"Kansas-Kentucky","Kansas","Kentucky","United States","United States",4890
+"Mississippi-Oklahoma","Mississippi","Oklahoma","United States","United States",4810
+"South Dakota-Wisconsin","South Dakota","Wisconsin","United States","United States",4790
+"Oregon-Wyoming","Oregon","Wyoming","United States","United States",4760
+"Michigan-Wyoming","Michigan","Wyoming","United States","United States",4750
+"Oregon-Rhode Island","Oregon","Rhode Island","United States","United States",4710
+"Alaska-Kentucky","Alaska","Kentucky","United States","United States",4700
+"Mississippi-Utah","Mississippi","Utah","United States","United States",4600
+"District of Columbia-Wyoming","District of Columbia","Wyoming","United States","United States",4580
+"Alabama-Iowa","Alabama","Iowa","United States","United States",4540
+"Massachusetts-North Dakota","Massachusetts","North Dakota","United States","United States",4470
+"Indiana-North Dakota","Indiana","North Dakota","United States","United States",4460
+"Maine-Utah","Maine","Utah","United States","United States",4430
+"Missouri-Wyoming","Missouri","Wyoming","United States","United States",4400
+"Kansas-Wisconsin","Kansas","Wisconsin","United States","United States",4360
+"New Jersey-North Dakota","New Jersey","North Dakota","United States","United States",4340
+"Ohio-Wyoming","Ohio","Wyoming","United States","United States",4300
+"Mississippi-Wisconsin","Mississippi","Wisconsin","United States","United States",4280
+"Oregon-Vermont","Oregon","Vermont","United States","United States",4250
+"Missouri-Vermont","Missouri","Vermont","United States","United States",4230
+"Ohio-Vermont","Ohio","Vermont","United States","United States",4110
+"Kentucky-South Dakota","Kentucky","South Dakota","United States","United States",4080
+"Kansas-South Carolina","Kansas","South Carolina","United States","United States",4070
+"Arkansas-Nebraska","Arkansas","Nebraska","United States","United States",4050
+"Colorado-West Virginia","Colorado","West Virginia","United States","United States",4050
+"Maine-Oregon","Maine","Oregon","United States","United States",4050
+"Alabama-New Hampshire","Alabama","New Hampshire","United States","United States",4020
+"Alabama-Ontario","Alabama","Ontario","United States","Canada",28020
+"Alaska-Alberta","Alaska","Alberta","United States","Canada",14740
+"Alaska-British Columbia","Alaska","British Columbia","United States","Canada",59860
+"Alaska-Ontario","Alaska","Ontario","United States","Canada",22060
+"Alberta-Arizona","Alberta","Arizona","Canada","United States",639726
+"Alberta-California","Alberta","California","Canada","United States",1587178
+"Alberta-Colorado","Alberta","Colorado","Canada","United States",111540
+"Alberta-Connecticut","Alberta","Connecticut","Canada","United States",13000
+"Alberta-District of Columbia","Alberta","District of Columbia","Canada","United States",100080
+"Alberta-Florida","Alberta","Florida","Canada","United States",441138
+"Alberta-Illinois","Alberta","Illinois","Canada","United States",151834
+"Alberta-Indiana","Alberta","Indiana","Canada","United States",13920
+"Alberta-Louisiana","Alberta","Louisiana","Canada","United States",42320
+"Alberta-Michigan","Alberta","Michigan","Canada","United States",23280
+"Alberta-Minnesota","Alberta","Minnesota","Canada","United States",90200
+"Alberta-Missouri","Alberta","Missouri","Canada","United States",54240
+"Alberta-Nebraska","Alberta","Nebraska","Canada","United States",8540
+"Alberta-Nevada","Alberta","Nevada","Canada","United States",868192
+"Alberta-New York","Alberta","New York","Canada","United States",381944
+"Alberta-North Carolina","Alberta","North Carolina","Canada","United States",45060
+"Alberta-Ohio","Alberta","Ohio","Canada","United States",38180
+"Alberta-Oklahoma","Alberta","Oklahoma","Canada","United States",20700
+"Alberta-Oregon","Alberta","Oregon","Canada","United States",97560
+"Alberta-Pennsylvania","Alberta","Pennsylvania","Canada","United States",78920
+"Alberta-Tennessee","Alberta","Tennessee","Canada","United States",43704
+"Alberta-Texas","Alberta","Texas","Canada","United States",570876
+"Alberta-Utah","Alberta","Utah","Canada","United States",54280
+"Alberta-Washington","Alberta","Washington","Canada","United States",255880
+"Alberta-Wisconsin","Alberta","Wisconsin","Canada","United States",8720
+"Arizona-British Columbia","Arizona","British Columbia","United States","Canada",324768
+"Arizona-Manitoba","Arizona","Manitoba","United States","Canada",91232
+"Arizona-Ontario","Arizona","Ontario","United States","Canada",325632
+"Arizona-Quebec","Arizona","Quebec","United States","Canada",9432
+"Arizona-Saskatchewan","Arizona","Saskatchewan","United States","Canada",116416
+"Arkansas-Ontario","Arkansas","Ontario","United States","Canada",26880
+"British Columbia-Arizona","British Columbia","Arizona","Canada","United States",39348
+"British Columbia-California","British Columbia","California","Canada","United States",101214
+"British Columbia-District of Columbia","British Columbia","District of Columbia","Canada","United States",158220
+"British Columbia-Florida","British Columbia","Florida","Canada","United States",22736
+"British Columbia-Nevada","British Columbia","Nevada","Canada","United States",88516
+"British Columbia-New York","British Columbia","New York","Canada","United States",16086
+"British Columbia-Oregon","British Columbia","Oregon","Canada","United States",8360
+"British Columbia-Washington","British Columbia","Washington","Canada","United States",25100
+"California-British Columbia","California","British Columbia","United States","Canada",3115402
+"California-Manitoba","California","Manitoba","United States","Canada",165856
+"California-Newfoundland and Labrador","California","Newfoundland and Labrador","United States","Canada",8792
+"California-Ontario","California","Ontario","United States","Canada",2410516
+"California-Quebec","California","Quebec","United States","Canada",408186
+"California-Saskatchewan","California","Saskatchewan","United States","Canada",127408
+"Colorado-Alberta","Colorado","Alberta","United States","Canada",40540
+"Colorado-British Columbia","Colorado","British Columbia","United States","Canada",152760
+"Colorado-Manitoba","Colorado","Manitoba","United States","Canada",22540
+"Colorado-Nova Scotia","Colorado","Nova Scotia","United States","Canada",12440
+"Colorado-Ontario","Colorado","Ontario","United States","Canada",208380
+"Colorado-Quebec","Colorado","Quebec","United States","Canada",85000
+"Colorado-Saskatchewan","Colorado","Saskatchewan","United States","Canada",7780
+"Connecticut-British Columbia","Connecticut","British Columbia","United States","Canada",20120
+"Connecticut-Ontario","Connecticut","Ontario","United States","Canada",37140
+"District of Columbia-Manitoba","District of Columbia","Manitoba","United States","Canada",26540
+"Florida-British Columbia","Florida","British Columbia","United States","Canada",432086
+"Florida-Manitoba","Florida","Manitoba","United States","Canada",152852
+"Florida-New Brunswick","Florida","New Brunswick","United States","Canada",20290
+"Florida-Newfoundland and Labrador","Florida","Newfoundland and Labrador","United States","Canada",116426
+"Florida-Nova Scotia","Florida","Nova Scotia","United States","Canada",53366
+"Florida-Ontario","Florida","Ontario","United States","Canada",3673740
+"Florida-Quebec","Florida","Quebec","United States","Canada",1324116
+"Florida-Saskatchewan","Florida","Saskatchewan","United States","Canada",50452
+"Georgia-Alberta","Georgia","Alberta","United States","Canada",56060
+"Georgia-British Columbia","Georgia","British Columbia","United States","Canada",88000
+"Georgia-Manitoba","Georgia","Manitoba","United States","Canada",16320
+"Georgia-Nova Scotia","Georgia","Nova Scotia","United States","Canada",14500
+"Georgia-Ontario","Georgia","Ontario","United States","Canada",452520
+"Georgia-Quebec","Georgia","Quebec","United States","Canada",165800
+"Idaho-British Columbia","Idaho","British Columbia","United States","Canada",11940
+"Idaho-Ontario","Idaho","Ontario","United States","Canada",9300
+"Illinois-Alberta","Illinois","Alberta","United States","Canada",44008
+"Illinois-British Columbia","Illinois","British Columbia","United States","Canada",245066
+"Illinois-Manitoba","Illinois","Manitoba","United States","Canada",47060
+"Illinois-Nova Scotia","Illinois","Nova Scotia","United States","Canada",22440
+"Illinois-Ontario","Illinois","Ontario","United States","Canada",824820
+"Illinois-Quebec","Illinois","Quebec","United States","Canada",306126
+"Illinois-Saskatchewan","Illinois","Saskatchewan","United States","Canada",14546
+"Indiana-British Columbia","Indiana","British Columbia","United States","Canada",28580
+"Indiana-Ontario","Indiana","Ontario","United States","Canada",21260
+"Indiana-Quebec","Indiana","Quebec","United States","Canada",31140
+"Iowa-British Columbia","Iowa","British Columbia","United States","Canada",9400
+"Iowa-Ontario","Iowa","Ontario","United States","Canada",25280
+"Kentucky-British Columbia","Kentucky","British Columbia","United States","Canada",9420
+"Kentucky-Ontario","Kentucky","Ontario","United States","Canada",29080
+"Kentucky-Quebec","Kentucky","Quebec","United States","Canada",10180
+"Louisiana-British Columbia","Louisiana","British Columbia","United States","Canada",40760
+"Louisiana-Manitoba","Louisiana","Manitoba","United States","Canada",8280
+"Louisiana-Ontario","Louisiana","Ontario","United States","Canada",117560
+"Massachusetts-Alberta","Massachusetts","Alberta","United States","Canada",107484
+"Massachusetts-British Columbia","Massachusetts","British Columbia","United States","Canada",169116
+"Massachusetts-Manitoba","Massachusetts","Manitoba","United States","Canada",25404
+"Massachusetts-Newfoundland and Labrador","Massachusetts","Newfoundland and Labrador","United States","Canada",16692
+"Massachusetts-Nova Scotia","Massachusetts","Nova Scotia","United States","Canada",104010
+"Massachusetts-Ontario","Massachusetts","Ontario","United States","Canada",635066
+"Massachusetts-Quebec","Massachusetts","Quebec","United States","Canada",127840
+"Massachusetts-Saskatchewan","Massachusetts","Saskatchewan","United States","Canada",8148
+"Michigan-Alberta","Michigan","Alberta","United States","Canada",12420
+"Michigan-British Columbia","Michigan","British Columbia","United States","Canada",68480
+"Michigan-Manitoba","Michigan","Manitoba","United States","Canada",9720
+"Michigan-Nova Scotia","Michigan","Nova Scotia","United States","Canada",8800
+"Michigan-Ontario","Michigan","Ontario","United States","Canada",61980
+"Michigan-Quebec","Michigan","Quebec","United States","Canada",70920
+"Minnesota-British Columbia","Minnesota","British Columbia","United States","Canada",84660
+"Minnesota-Manitoba","Minnesota","Manitoba","United States","Canada",26660
+"Minnesota-Ontario","Minnesota","Ontario","United States","Canada",172720
+"Minnesota-Quebec","Minnesota","Quebec","United States","Canada",81780
+"Minnesota-Saskatchewan","Minnesota","Saskatchewan","United States","Canada",23960
+"Missouri-British Columbia","Missouri","British Columbia","United States","Canada",62100
+"Missouri-Manitoba","Missouri","Manitoba","United States","Canada",8960
+"Missouri-Ontario","Missouri","Ontario","United States","Canada",79820
+"Missouri-Quebec","Missouri","Quebec","United States","Canada",23500
+"Nebraska-British Columbia","Nebraska","British Columbia","United States","Canada",12580
+"Nebraska-Ontario","Nebraska","Ontario","United States","Canada",22200
+"Nevada-British Columbia","Nevada","British Columbia","United States","Canada",705114
+"Nevada-Manitoba","Nevada","Manitoba","United States","Canada",133052
+"Nevada-New Brunswick","Nevada","New Brunswick","United States","Canada",14360
+"Nevada-Newfoundland and Labrador","Nevada","Newfoundland and Labrador","United States","Canada",20528
+"Nevada-Ontario","Nevada","Ontario","United States","Canada",1015520
+"Nevada-Quebec","Nevada","Quebec","United States","Canada",351286
+"Nevada-Saskatchewan","Nevada","Saskatchewan","United States","Canada",178454
+"New Brunswick-Florida","New Brunswick","Florida","Canada","United States",51764
+"New Brunswick-New York","New Brunswick","New York","Canada","United States",10530
+"New Mexico-British Columbia","New Mexico","British Columbia","United States","Canada",13360
+"New Mexico-Ontario","New Mexico","Ontario","United States","Canada",16920
+"New Mexico-Quebec","New Mexico","Quebec","United States","Canada",8260
+"New York-British Columbia","New York","British Columbia","United States","Canada",470410
+"New York-Manitoba","New York","Manitoba","United States","Canada",73516
+"New York-Newfoundland and Labrador","New York","Newfoundland and Labrador","United States","Canada",25550
+"New York-Ontario","New York","Ontario","United States","Canada",2951796
+"New York-Quebec","New York","Quebec","United States","Canada",92182
+"New York-Saskatchewan","New York","Saskatchewan","United States","Canada",45450
+"Newfoundland and Labrador-Florida","Newfoundland and Labrador","Florida","Canada","United States",54532
+"North Carolina-Alberta","North Carolina","Alberta","United States","Canada",7960
+"North Carolina-British Columbia","North Carolina","British Columbia","United States","Canada",69120
+"North Carolina-Nova Scotia","North Carolina","Nova Scotia","United States","Canada",8640
+"North Carolina-Ontario","North Carolina","Ontario","United States","Canada",157820
+"North Carolina-Quebec","North Carolina","Quebec","United States","Canada",71840
+"Nova Scotia-Arizona","Nova Scotia","Arizona","Canada","United States",14612
+"Nova Scotia-California","Nova Scotia","California","Canada","United States",64840
+"Nova Scotia-District of Columbia","Nova Scotia","District of Columbia","Canada","United States",29820
+"Nova Scotia-Florida","Nova Scotia","Florida","Canada","United States",191376
+"Nova Scotia-Louisiana","Nova Scotia","Louisiana","Canada","United States",8160
+"Nova Scotia-Minnesota","Nova Scotia","Minnesota","Canada","United States",7720
+"Nova Scotia-Nevada","Nova Scotia","Nevada","Canada","United States",34628
+"Nova Scotia-New York","Nova Scotia","New York","Canada","United States",110702
+"Nova Scotia-North Carolina","Nova Scotia","North Carolina","Canada","United States",8720
+"Nova Scotia-Pennsylvania","Nova Scotia","Pennsylvania","Canada","United States",16460
+"Nova Scotia-Tennessee","Nova Scotia","Tennessee","Canada","United States",10056
+"Nova Scotia-Texas","Nova Scotia","Texas","Canada","United States",21118
+"Nova Scotia-Washington","Nova Scotia","Washington","Canada","United States",8620
+"Ohio-British Columbia","Ohio","British Columbia","United States","Canada",66500
+"Ohio-Ontario","Ohio","Ontario","United States","Canada",82200
+"Ohio-Quebec","Ohio","Quebec","United States","Canada",79700
+"Oklahoma-British Columbia","Oklahoma","British Columbia","United States","Canada",20120
+"Oklahoma-Ontario","Oklahoma","Ontario","United States","Canada",16900
+"Ontario-Arizona","Ontario","Arizona","Canada","United States",55394
+"Ontario-California","Ontario","California","Canada","United States",131642
+"Ontario-District of Columbia","Ontario","District of Columbia","Canada","United States",491920
+"Ontario-Florida","Ontario","Florida","Canada","United States",263402
+"Ontario-Kansas","Ontario","Kansas","Canada","United States",12280
+"Ontario-Missouri","Ontario","Missouri","Canada","United States",9540
+"Ontario-New York","Ontario","New York","Canada","United States",14268
+"Ontario-North Carolina","Ontario","North Carolina","Canada","United States",17520
+"Ontario-Oklahoma","Ontario","Oklahoma","Canada","United States",13180
+"Ontario-Oregon","Ontario","Oregon","Canada","United States",9600
+"Ontario-Pennsylvania","Ontario","Pennsylvania","Canada","United States",25280
+"Ontario-Washington","Ontario","Washington","Canada","United States",21740
+"Oregon-British Columbia","Oregon","British Columbia","United States","Canada",148020
+"Oregon-Manitoba","Oregon","Manitoba","United States","Canada",10460
+"Oregon-Ontario","Oregon","Ontario","United States","Canada",83420
+"Pennsylvania-British Columbia","Pennsylvania","British Columbia","United States","Canada",98320
+"Pennsylvania-Manitoba","Pennsylvania","Manitoba","United States","Canada",11560
+"Pennsylvania-Ontario","Pennsylvania","Ontario","United States","Canada",234200
+"Pennsylvania-Quebec","Pennsylvania","Quebec","United States","Canada",12440
+"Prince Edward Island-Florida","Prince Edward Island","Florida","Canada","United States",16692
+"Prince Edward Island-New York","Prince Edward Island","New York","Canada","United States",10024
+"Quebec-Arizona","Quebec","Arizona","Canada","United States",86442
+"Quebec-California","Quebec","California","Canada","United States",444368
+"Quebec-District of Columbia","Quebec","District of Columbia","Canada","United States",203640
+"Quebec-Florida","Quebec","Florida","Canada","United States",518002
+"Quebec-Georgia","Quebec","Georgia","Canada","United States",12520
+"Quebec-Kansas","Quebec","Kansas","Canada","United States",9620
+"Quebec-Louisiana","Quebec","Louisiana","Canada","United States",46100
+"Quebec-Missouri","Quebec","Missouri","Canada","United States",32200
+"Quebec-Nebraska","Quebec","Nebraska","Canada","United States",9540
+"Quebec-New York","Quebec","New York","Canada","United States",781162
+"Quebec-North Carolina","Quebec","North Carolina","Canada","United States",51980
+"Quebec-Oregon","Quebec","Oregon","Canada","United States",33680
+"Quebec-Pennsylvania","Quebec","Pennsylvania","Canada","United States",130340
+"Quebec-Tennessee","Quebec","Tennessee","Canada","United States",37470
+"Quebec-Texas","Quebec","Texas","Canada","United States",20020
+"Quebec-Utah","Quebec","Utah","Canada","United States",29580
+"Quebec-Virginia","Quebec","Virginia","Canada","United States",20080
+"Quebec-Washington","Quebec","Washington","Canada","United States",75060
+"Rhode Island-Ontario","Rhode Island","Ontario","United States","Canada",9440
+"Saskatchewan-California","Saskatchewan","California","Canada","United States",10886
+"Saskatchewan-District of Columbia","Saskatchewan","District of Columbia","Canada","United States",8380
+"South Carolina-Ontario","South Carolina","Ontario","United States","Canada",83538
+"South Carolina-Quebec","South Carolina","Quebec","United States","Canada",21980
+"Tennessee-British Columbia","Tennessee","British Columbia","United States","Canada",51170
+"Tennessee-Manitoba","Tennessee","Manitoba","United States","Canada",12340
+"Tennessee-Ontario","Tennessee","Ontario","United States","Canada",141296
+"Tennessee-Quebec","Tennessee","Quebec","United States","Canada",16480
+"Tennessee-Saskatchewan","Tennessee","Saskatchewan","United States","Canada",8554
+"Texas-Alberta","Texas","Alberta","United States","Canada",57716
+"Texas-British Columbia","Texas","British Columbia","United States","Canada",351276
+"Texas-Manitoba","Texas","Manitoba","United States","Canada",33158
+"Texas-Newfoundland and Labrador","Texas","Newfoundland and Labrador","United States","Canada",19348
+"Texas-Nova Scotia","Texas","Nova Scotia","United States","Canada",11688
+"Texas-Ontario","Texas","Ontario","United States","Canada",793848
+"Texas-Quebec","Texas","Quebec","United States","Canada",266120
+"Texas-Saskatchewan","Texas","Saskatchewan","United States","Canada",22842
+"Utah-British Columbia","Utah","British Columbia","United States","Canada",76940
+"Utah-Ontario","Utah","Ontario","United States","Canada",85940
+"Virginia-British Columbia","Virginia","British Columbia","United States","Canada",12140
+"Virginia-Ontario","Virginia","Ontario","United States","Canada",29660
+"Washington-British Columbia","Washington","British Columbia","United States","Canada",167920
+"Washington-Manitoba","Washington","Manitoba","United States","Canada",10960
+"Washington-Ontario","Washington","Ontario","United States","Canada",203460
+"Wisconsin-British Columbia","Wisconsin","British Columbia","United States","Canada",26360
+"Wisconsin-Ontario","Wisconsin","Ontario","United States","Canada",32740
+"Wisconsin-Quebec","Wisconsin","Quebec","United States","Canada",29460

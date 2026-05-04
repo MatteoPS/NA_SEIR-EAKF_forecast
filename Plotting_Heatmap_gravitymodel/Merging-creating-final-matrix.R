@@ -12,7 +12,7 @@ CA_US$Total_Passengers = CA_US$Total_Passengers*2
 MX_MX_US_CA <-read.csv("Input/MX_state_pair_tot.csv")
 MX_MX_US_CA$Number_of_Routes = NULL
 
-US_US <- read.csv("Input/DB1B/US_bidirectional_state_flows.csv")
+US_US <- read.csv("Input/US_bidirectional_state_flows.csv")
 US_US$Country1 <- "United States"
 US_US$Country2 <- "United States"
 
@@ -158,16 +158,16 @@ write.csv(Tot_no_CA_CA ,"Output/tmp_all_but_CA_CA.csv",row.names = F)
 # # commented cause API is slow
 # airport_with_coords <- airport_cities %>%
 #  geocode(city, method = "osm", lat = latitude , long = longitude)
-# write.csv(airport_with_coords,"RAW/Airport-city-coords.csv",row.names = F)
-# airport_with_coords=read.csv("RAW/Airport-city-coords.csv")
+# write.csv(airport_with_coords,"Input/Airport-city-coords.csv",row.names = F)
+# airport_with_coords=read.csv("Input/Airport-city-coords.csv")
 # coords_pop = merge(airport_with_coords,pops, by.x="state", by.y = "State")
-# write.csv(coords_pop ,"RAW/coords_pop.csv",row.names = F)
+# write.csv(coords_pop ,"Input/coords_pop.csv",row.names = F)
 
 
-coords_pop<-read.csv("RAW/coords_pop.csv")
+coords_pop<-read.csv("Input/coords_pop.csv")
 
 #getting the population info from previous paper for gravity model
-pops<-read.csv("RAW/statecodes_population.csv") 
+pops<-read.csv("Input/statecodes_population.csv") 
 
 
 # ---- Prepare training data (all non-CA–CA flows) ----
@@ -304,6 +304,9 @@ for (a in rownames(tot_pairs)){
 
 air_matrix[is.na(air_matrix)] <- 0
 
+#assign "Ciudad de Mexico" to "Distrito Federal"
+colnames(air_matrix)[colnames(air_matrix) == "Distrito Federal"] <- "Ciudad de Mexico"
+rownames(air_matrix)[rownames(air_matrix) == "Distrito Federal"] <- "Ciudad de Mexico"
 
 
 # Convert the matrix to a data frame and melt it to long format
