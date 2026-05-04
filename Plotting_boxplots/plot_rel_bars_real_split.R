@@ -17,9 +17,15 @@ library(viridis)
 
 # ── 0. CONFIG ────────────────────────────────────────────────────────────────
 
+selected_target <- "onset100" # Options: "onset50", "onset100", or "all"
+
+
+
 csv_path  <- "../Output/rel_bars_real_pois_all_aggregated_basem8m6-mod.csv" ## the "all" (-8 to 0) lines where added manually FROM rel_bars_real_pois_all_aggregated.csv
-out_pdf   <- "rel_bars_real_split.pdf"
-out_png   <- "rel_bars_real_split.png"
+out_pdf        <- paste0("rel_bars_real_",selected_target,".pdf")
+out_png        <- paste0("rel_bars_real_",selected_target,".png")
+
+
 time_window_labels <- c(
   "all"  = "-8 to 0",
   "m8m6" = "-8 to -6",
@@ -29,7 +35,8 @@ time_window_labels <- c(
 
 bar_cap        <- 1.5
 pdf_width      <- 26
-pdf_height     <- 12
+#pdf_height     <- 12 #good for 2 onsets
+pdf_height     <- 9 #good for 1 onset
 base_text_size <- 24
 bar_text_size  <- 6
 linewidth_leg  <- 2.2
@@ -38,6 +45,11 @@ linewidth_leg  <- 2.2
 
 df <- read.csv(csv_path, stringsAsFactors = FALSE)
 df <- df %>% filter(!is.nan(rel_val) & !is.na(rel_val))
+
+if (selected_target != "all") {
+  df <- df %>% filter(target == selected_target)
+}
+
 
 # ── 2. COLOUR PALETTE ────────────────────────────────────────────────────────
 
@@ -331,16 +343,12 @@ leg_grob <- cowplot::get_legend(legend_plot)
 # ── 8. ASSEMBLE FULL FIGURE ──────────────────────────────────────────────────
 
 main_grid <- wrap_plots(row_list, nrow = length(targets), ncol = 1) 
-# +
-#  plot_annotation(
-#    caption = "Color = Aggregation window  |  Dark shade = No Flight  |  Hatch = Network",
-#    theme   = theme(plot.caption = element_text(size = base_text_size, hjust = 0))
-#  )
 
-final_plot <- main_grid | leg_grob
+# Lock the main_grid into a single element before attaching the legend
+final_plot <- wrap_elements(full = main_grid) | leg_grob
 final_plot <- final_plot + plot_layout(widths = c(10, 1))
-#final_plot <- wrap_elements(main_grid) / wrap_elements(leg_grob) +
-#  plot_layout(heights = c(10, 1))
+
+
 
 # ── 9. SAVE ───────────────────────────────────────────────────────────────────
 

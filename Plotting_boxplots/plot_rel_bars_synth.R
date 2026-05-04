@@ -6,10 +6,14 @@ library(cowplot)
 
 # ── 0. CONFIG ────────────────────────────────────────────────────────────────
 
+selected_target <- "onset100" # Options: "onset150", "onset100", or "all"
+
+
 csv_path       <- "../Output/rel_bars_synth.csv"
-out_pdf        <- "rel_bars_synth.pdf"
-out_png        <- "rel_bars_synth.png"
+out_pdf        <- paste0("rel_bars_synth_",selected_target,".pdf")
+out_png        <- paste0("rel_bars_synth_",selected_target,".png")
 # Strain x-axis labels (parsed as expressions by scale_x_discrete)
+
 strain_levels <- c("ls", "lo", "me", "hi", "hs")
 strain_labels <- c(
   ls = "beta==0.8",
@@ -21,7 +25,8 @@ strain_labels <- c(
 
 bar_cap        <- 1.5
 pdf_width      <- 26
-pdf_height     <- 12
+#pdf_height     <- 12 #good for 2 onsets
+pdf_height     <- 9 #good for 1 onset
 base_text_size <- 24
 bar_text_size  <- 6
 linewidth_leg  <- 2.2
@@ -30,6 +35,10 @@ linewidth_leg  <- 2.2
 
 df <- read.csv(csv_path, stringsAsFactors = FALSE)
 df <- df %>% filter(!is.nan(rel_val) & !is.na(rel_val))
+
+if (selected_target != "all") {
+  df <- df %>% filter(target == selected_target)
+}
 
 # ── 2. COLOUR PALETTE ────────────────────────────────────────────────────────
 
@@ -256,9 +265,11 @@ legend_plot <- ggplot(dummy_df, aes(x = Strain, y = 1)) +
 
 leg_grob <- cowplot::get_legend(legend_plot)
 
+
 # ── 8. ASSEMBLE & SAVE ───────────────────────────────────────────────────────
 
-final_plot <- main_grid | leg_grob
+# Lock the main_grid into a single element before attaching the legend
+final_plot <- wrap_elements(full = main_grid) | leg_grob
 final_plot <- final_plot + plot_layout(widths = c(10, 1))
 
 ggsave(out_pdf, final_plot,
@@ -266,6 +277,7 @@ ggsave(out_pdf, final_plot,
        height = pdf_height,
        device = "pdf")
 cat("Saved:", out_pdf, "\n")
+
 ggsave(out_png, final_plot,
        width  = pdf_width,
        height = pdf_height,
