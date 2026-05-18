@@ -7,3 +7,4 @@ Forecasts/*.mat
 Forecasts_groups/*.mat
 Truths/*struct.mat
 Forecasts_real_agg/*.mat
+Plotting_Heatmap_gravitymodel/.Rhistory

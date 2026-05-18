@@ -252,7 +252,7 @@ r2 <- summary(fit)$r.squared
 
 # build annotation text with p-values
 note_text <- sprintf(
-  "Intercept = %.2f (p = %.3g)\nβ_pop_a = %.2f (p = %.3g)\nβ_pop_b = %.2f (p = %.3g)\nβ_dist = %.2f (p = %.3g)\nR² = %.3f",
+  "γ_0 = %.2f (p = %.3g)\nγ_1 = %.2f (p = %.3g)\nγ_2 = %.2f (p = %.3g)\nγ_3 = %.2f (p = %.3g)\nR² = %.3f",
   coefs["(Intercept)", "Estimate"], coefs["(Intercept)", "Pr(>|t|)"],
   coefs["log(pop_a)", "Estimate"], coefs["log(pop_a)", "Pr(>|t|)"],
   coefs["log(pop_b)", "Estimate"], coefs["log(pop_b)", "Pr(>|t|)"],
@@ -260,23 +260,22 @@ note_text <- sprintf(
   r2
 )
 
-
 plot_fit=ggplot(train_df, aes(x = log_flow_pred, y = log_flow_obs)) +
   geom_point(alpha = 0.5) +
   geom_abline(slope = 1, intercept = 0, color = "red", linetype = "dashed") +
-  annotate(
-    "text",
-    x = min(train_df$log_flow_pred), y = max(train_df$log_flow_obs),
-    label = note_text, hjust = 0, vjust = 1, size = 3.5
-  ) +
+  #annotate(
+  #  "text",
+  #  x = min(train_df$log_flow_pred), y = max(train_df$log_flow_obs),
+  #  label = note_text, hjust = 0, vjust = 1, size = 3.5
+  #) +
   labs(
-    x = "Predicted log(Flows)",
-    y = "Observed log(Flows)",
-    title = "Gravity Model Fit: Observed vs Predicted"
+    x = "Predicted log(travels)",
+    y = "Observed log(travels)",
+ #   title = "Gravity Model Fit: Observed vs Predicted"
   ) +
   theme_minimal()
 
-
+ggsave("Output/GravitiyModel_loglog.png", plot_fit,width = 16*1.2, height = 9*1.2, units = "cm", bg = "white",dpi = 400)
 
 
 pred_out_processed <- pred_out %>%
