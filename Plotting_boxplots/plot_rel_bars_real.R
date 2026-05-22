@@ -14,16 +14,17 @@ library(dplyr)
 library(patchwork)
 library(cowplot)
 library(viridis)
-
 # ── 0. CONFIG ────────────────────────────────────────────────────────────────
 
-selected_target <- "onset100" # Options: "onset50", "onset100", or "all"
+selected_target <- "all" # Options: "onset50", "onset100", or "all"
 
 
 
-csv_path  <- "../Output/rel_bars_real_pois_all_aggregated_basem8m6-mod.csv" ## the "all" (-8 to 0) lines where added manually FROM rel_bars_real_pois_all_aggregated.csv
-out_pdf        <- paste0("rel_bars_real_",selected_target,".pdf")
-out_png        <- paste0("rel_bars_real_",selected_target,".png")
+#csv_path  <- "../Output/rel_bars_real_pois_all_aggregated_basem8m6-mod.csv" ## the "all" (-8 to 0) lines where added manually FROM rel_bars_real_pois_all_aggregated.csv
+csv_path  <- "../Output/rel_bars_real.csv"
+
+out_pdf        <- paste0("rel_bars_real_",selected_target,"2.pdf")
+out_png        <- paste0("rel_bars_real_",selected_target,"2.png")
 
 
 time_window_labels <- c(
@@ -35,8 +36,8 @@ time_window_labels <- c(
 
 bar_cap        <- 1.5
 pdf_width      <- 26
-#pdf_height     <- 12 #good for 2 onsets
-pdf_height     <- 9 #good for 1 onset
+pdf_height     <- 12 #good for 2 onsets (2 row grid)
+#pdf_height     <- 9 #good for 1 onset  (1 row grid)
 base_text_size <- 24
 bar_text_size  <- 6
 linewidth_leg  <- 2.2

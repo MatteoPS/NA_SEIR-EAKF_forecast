@@ -109,15 +109,15 @@ make_forecast_group
 make_forecast_group_real
 
 % create the CSV output file
-make_forecasts_groups_relbar_csv_synth.m
-make_forecasts_groups_relbar_csv_real.m
+make_csv_synth.m
+make_csv_real.m
 
 
 % create the barplot figure of the paper with R
 
 % Execute the R scripts for plotting the results
 % plot_rel_bars_synth.R
-% plot_rel_bars_real_split.R
+% plot_rel_bars_real.R
 
 
 

@@ -4,19 +4,12 @@
 clear; close all; clc;
 
 %% --- 1. Parameters ---
-pois_only = true;
 
-if pois_only
-    groups_desc_path   = 'Groups-description-pois.xlsx';
-    metrics_file_path  = 'Forecasts_groups/0128_all_synth_forecast_metrics-pois.mat';
-    sg_to_plot         = {'sgP'};
-    out_path           = 'Output/rel_bars_synth.csv';
-else
-    groups_desc_path   = 'Groups-description.xlsx';
-    metrics_file_path  = 'Forecasts_groups/0128_all_synth_forecast_metrics.mat';
-    sg_to_plot         = {'sgA'};
-    out_path           = 'Output/rel_bars_synth_all.csv';
-end
+groups_desc_path   = 'Groups-description-pois.xlsx';
+metrics_file_path  = 'Forecasts_groups/0128_all_synth_forecast_metrics-pois.mat';
+sg_to_plot         = {'sgP'};
+out_path           = 'Output/rel_bars_synth.csv';
+
 
 targets_to_plot        = {'onset100', 'onset150'};
 metrics_to_plot        = {'mean_mae', 'mean_wis'};
