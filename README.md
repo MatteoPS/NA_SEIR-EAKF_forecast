@@ -1,6 +1,7 @@
 # Mobility improves epidemic onset forecast skill in a continental scale disease model
 
 This repository accompanies the manuscript *Mobility improves epidemic onset forecast skill in a continental scale disease model* (Perini M, Yamana TK, Shaman J).
+<img width="6000" height="3000" alt="plot_NAR_5070_legend" src="https://github.com/user-attachments/assets/49d70187-a311-4a2c-9bce-b0772fc4a2b3" />
 
 The following existing data sources were used:
 
