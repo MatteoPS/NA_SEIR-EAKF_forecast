@@ -88,17 +88,17 @@ Scripts for generating map-based visualizations Daily commuting-to-work matrix a
 | `make_parafit.m` | Generates `parafit_vars.mat` by fitting initial parameter distributions (alpha, beta, and structural parameters) from historical or reference data. Run once before model runs. |
 | `Test_runtime.m` | Benchmarking script for timing individual model run components. Useful for profiling performance and choosing ensemble size or parallelism settings. |
 
-### Model Functions (`.m`)
+### Model Functions (`.m`) used in `model_forecast_run.m` 
 
-| File | Description | Used In |
-|---|---|---|
-| `integrate_model.cpp` | C++ MEX source implementing one daily time step of the stochastic SEIR model. Handles daytime and nighttime transmission separately, commuting flows (via `nl`, `part`, `Cave`), and Poisson-sampled transitions between compartments (S→E→Ir/Iu→R). Must be compiled with `mex` before use. | `model_forecast_run.m` |
-| `integrate_model.mexmaca64` | Pre-compiled MEX binary for Apple Silicon Macs (M1/M2). | `model_forecast_run.m` |
-| `integrate_model.mexmaci64` | Pre-compiled MEX binary for Intel Macs. | `model_forecast_run.m` |
-| `initialize_para.m` | Initializes the parameter ensemble matrix (`para`) for a given run, sampling alpha (reporting rate by location) and beta (transmission rate by location) from `parafit` distributions, and setting structural parameters (Z, D, mu, theta). | `model_forecast_run.m` |
-| `checkbound.m` | Enforces non-negativity and population-size constraints on state variables (S, E, Ir, Iu) at initialization. Ensures that the sum of compartments does not exceed the metapopulation capacity `C`. | `model_forecast_run.m` |
-| `checkbound_para.m` | Enforces parameter bounds after each EAKF update step. Parameters outside `[paramin, paramax]` are optionally re-inflated toward their prior or clipped. Controlled by `flact_checkpara`. | `model_forecast_run.m` |
-| `checkbound_yesterday.m` | Enforces state variable bounds by comparing the current ensemble to the previous day's state. Used after reprobation steps to prevent physically impossible jumps. | `model_forecast_run.m` |
+| File | Description | 
+|---|---|
+| `integrate_model.cpp` | C++ MEX source implementing one daily time step of the stochastic SEIR model. Handles daytime and nighttime transmission separately, commuting flows (via `nl`, `part`, `Cave`), and Poisson-sampled transitions between compartments (S→E→Ir/Iu→R). Must be compiled with `mex` before use. |
+| `integrate_model.mexmaca64` | Pre-compiled MEX binary for Apple Silicon Macs (M1/M2). |
+| `integrate_model.mexmaci64` | Pre-compiled MEX binary for Intel Macs. |
+| `initialize_para.m` | Initializes the parameter ensemble matrix (`para`) for a given run, sampling alpha (reporting rate by location) and beta (transmission rate by location) from `parafit` distributions, and setting structural parameters (Z, D, mu, theta). |
+| `checkbound.m` | Enforces non-negativity and population-size constraints on state variables (S, E, Ir, Iu) at initialization. Ensures that the sum of compartments does not exceed the metapopulation capacity `C`. |
+| `checkbound_para.m` | Enforces parameter bounds after each EAKF update step. Parameters outside `[paramin, paramax]` are optionally re-inflated toward their prior or clipped. Controlled by `flact_checkpara`. |
+| `checkbound_yesterday.m` | Enforces state variable bounds by comparing the current ensemble to the previous day's state. Used after reprobation steps to prevent physically impossible jumps. |
 
 ### Data Files (`.mat` / `.csv`)
 
