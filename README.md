@@ -3,18 +3,28 @@
 This repository accompanies the manuscript *Mobility improves epidemic onset forecast skill in a continental scale disease model* (Perini M, Yamana TK, Shaman J).
 <img width="6000" height="3000" alt="plot_NAR_5070_legend" src="https://github.com/user-attachments/assets/49d70187-a311-4a2c-9bce-b0772fc4a2b3" />
 
-The following existing data sources were used:
-
-- "Monthly Statistics by Origin - Destination 2016" from AFAC, Gobierno de México available via <https://www.gob.mx/cms/uploads/attachment/file/652389/sase-2016-hitorico-10032017.xlsx>
-- "Airline Origin and Destination Survey (DB1B) 2016" form US Bureau of Transportation Statistics available via <https://www.transtats.bts.gov/Tables.asp?QO_VQ=EFI&QO_anzr=Nv4yv0r%FDb4vtv0%FDn0q%FDQr56v0n6v10%FDf748rB%FLQOEO%FM&QO_fu146_anzr=b4vtv0%FDn0q%FDQr56v0n6v10%FDf748rB>
-- "Air passenger origin and destination, transborder journeys 2016" from Statistics Canada available via <https://doi.org/10.25318/2310025601-eng>
-- COVID-19 case data from various public sources available via <https://health.google.com/covid-19/open-data/data-sources>
-
 ---
 
 ## Overview
 
 This codebase implements a stochastic, metapopulation **SEIR model** (Susceptible–Exposed–Infectious Reported–Infectious Unreported) coupled with an **Ensemble Adjustment Kalman Filter (EAKF)** for data assimilation and epidemic forecasting across North America. The model captures both commuting-based and flight-based mobility, and supports running ensembles of scenarios with synthetic or real COVID-19 incidence data.
+
+---
+
+## Data Sources
+### Annual air passenger travel
+- "Monthly Statistics by Origin - Destination 2016" from AFAC, Gobierno de México available via <https://www.gob.mx/cms/uploads/attachment/file/652389/sase-2016-hitorico-10032017.xlsx>
+- "Airline Origin and Destination Survey (DB1B) 2016" form US Bureau of Transportation Statistics available via <https://www.transtats.bts.gov/Tables.asp?QO_VQ=EFI&QO_anzr=Nv4yv0r%FDb4vtv0%FDn0q%FDQr56v0n6v10%FDf748rB%FLQOEO%FM&QO_fu146_anzr=b4vtv0%FDn0q%FDQr56v0n6v10%FDf748rB>
+- "Air passenger origin and destination, transborder journeys 2016" from Statistics Canada available via <https://doi.org/10.25318/2310025601-eng>
+### Daily work commuting
+Developed and already published in [Perini et al. 2025](https://doi.org/10.1016/j.epidem.2025.100818)
+- Canadian 2016 census (Statistics Canada): Commuting Flow from Geography of Residence to Geography of Work <https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=4&LANG=E&A=R&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GL=-1&GID=1354564&GK=0&GRP=1&O=D&PID=111333&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2017&THEME=125&VID=0&VNAMEE=&VNAMEF=%20(2017)&D1=0&D2=0&D3=0&D4=0&D5=0&D6=0>
+- Canada Frontier Counts (Statistics Canada): Number of vehicles travelling between Canada and the United States <https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2410000201>
+- 5-Year American Community Survey (ACS) (United States Census Bureau) Commuting Flows <https://www.census.gov/data/tables/2015/demo/metro-micro/commuting-flows-2015.html>
+- Mexican Intercensal Survey 2015 (National Institute of Statistics and Geography, INEGI) <https://en.www.inegi.org.mx/programas/intercensal/2015/#Microdatos>
+
+### COVID-19 reported cases
+- COVID-19 case data from various public sources available via <https://health.google.com/covid-19/open-data/data-sources>
 
 ---
 
@@ -38,40 +48,40 @@ Simulation IDs (`sim_runs`) and real incidence IDs (`real_runs`) are defined at 
 
 ---
 
-## Folder Structure
+## Folders
 
-### `Model_Runs/`
-Output folder for completed model runs. Each file is named `MMDD_<nickname>.mat` and contains the full posterior state variables, ensemble forecasts, Kalman gain records, and run metadata. One file is created per run ID by `model_forecast_run.m`.
+#### `Model_Runs/`
+Output folder for completed model runs. Each file is named `MMDD_<nickname>.mat` and contains the full posterior state variables, ensemble forecasts, Kalman gain records, and run metadata. One file is created per run ID by `model_forecast_run.m`. <br><br>
 
-### `Forecasts/`
-Output folder for forecast metrics. For each file in `Model_Runs/`, `make_forecast_metrics.m` (or `make_forecast_metrics_real.m`) creates a corresponding `_fore_res_group.mat` file containing per-location, per-week forecast evaluation metrics (WIS, AE, coverage, bias, peak week, onset week, etc.).
+#### `Forecasts/`
+Output folder for forecast metrics. For each file in `Model_Runs/`, `make_forecast_metrics.m` (or `make_forecast_metrics_real.m`) creates a corresponding `_fore_res_group.mat` file containing per-location, per-week forecast evaluation metrics (WIS, AE, coverage, bias, peak week, onset week, etc.). <br><br>
 
-### `Forecasts_groups/`
-Output folder for grouped forecast metrics. `make_forecast_group.m` (or `make_forecast_group_real.m`) aggregates the per-run forecast metrics across scenario groups defined in `Groups-description-pois.xlsx`.
+#### `Forecasts_groups/`
+Output folder for grouped forecast metrics. `make_forecast_group.m` (or `make_forecast_group_real.m`) aggregates the per-run forecast metrics across scenario groups defined in `Groups-description-pois.xlsx`. <br><br>
 
-### `Output/`
-Final CSV output files produced by `make_csv_synth.m` and `make_csv_real.m`. These are the analysis-ready tables used for plotting and statistical reporting in the manuscript.
+#### `Output/`
+Final CSV output files produced by `make_csv_synth.m` and `make_csv_real.m`. These are the analysis-ready tables used for plotting and statistical reporting in the manuscript. <br><br>
 
-### `Truths/`
-Contains truth files (synthetic and real) used as observations during model fitting and as ground truth for forecast evaluation. Synthetic truth files are generated by `make_truth.m`. Summary statistics across all truths are stored in `all_truths_stats.mat` (produced by `make_truth_stats_and_histogram.m`) and loaded by `make_forecast_metrics.m`.
+#### `Truths/`
+Contains truth files (synthetic and real) used as observations during model fitting and as ground truth for forecast evaluation. Synthetic truth files are generated by `make_truth.m`. Summary statistics across all truths are stored in `all_truths_stats.mat` (produced by `make_truth_stats_and_histogram.m`) and loaded by `make_forecast_metrics.m`. <br><br>
 
-### `Create_nl_part_Cave/`
-Scripts and data used to construct the network connectivity structures `nl`, `part`, and `Cave`, which define the metapopulation layout and commuting flows used by `integrate_model`. Run these scripts once before running the main pipeline if these structures need to be rebuilt.
+#### `Create_nl_part_Cave/`
+Scripts and data used to construct the network connectivity structures `nl`, `part`, and `Cave`, which define the metapopulation layout and commuting flows used by `integrate_model`. Run these scripts once before running the main pipeline if these structures need to be rebuilt. <br><br>
 
-### `Plotting_Heatmap_gravitymodel/`
-Scripts for generating Figure 2: Heatmap of the annual non-directional air passenger travel matrix across the 96 location, it includes the gravity model.
+#### `Plotting_Heatmap_gravitymodel/`
+Scripts for generating Figure 2: Heatmap of the annual non-directional air passenger travel matrix across the 96 location, it includes the gravity model. <br><br>
 
-### `Plotting_boxplots/`
-Scripts for generating the boxplot figures shown in the manuscript and supplemental information (Figure 3, Figure 4, Figure S4, Figure S5), it uses the csv from `Output/`.
+#### `Plotting_boxplots/`
+Scripts for generating the boxplot figures shown in the manuscript and supplemental information (Figure 3, Figure 4, Figure S4, Figure S5), it uses the csv from `Output/`. <br><br>
 
-### `Plottting_Maps/`
-Scripts for generating map-based visualizations Daily commuting-to-work matrix and annual air passenger travel matrix across North America (Figure 1).
+#### `Plottting_Maps/`
+Scripts for generating map-based visualizations Daily commuting-to-work matrix and annual air passenger travel matrix across North America (Figure 1). <br><br>
 
 ---
 
 ## Root-Level Files
 
-### Main Scripts
+#### Main Scripts
 
 | File | Description |
 |---|---|
@@ -89,7 +99,7 @@ Scripts for generating map-based visualizations Daily commuting-to-work matrix a
 | `make_parafit.m` | Generates `parafit_vars.mat` by fitting initial parameter distributions (alpha, beta, and structural parameters) from historical or reference data. Run once before model runs. |
 | `Test_runtime.m` | Benchmarking script for timing individual model run components. Useful for profiling performance and choosing ensemble size or parallelism settings. |
 
-### Model Functions (`.m`) used in `model_forecast_run.m` 
+#### Model Functions (`.m`) used in `model_forecast_run.m` 
 
 | File | Description | 
 |---|---|
@@ -101,7 +111,7 @@ Scripts for generating map-based visualizations Daily commuting-to-work matrix a
 | `checkbound_para.m` | Enforces parameter bounds after each EAKF update step. Parameters outside `[paramin, paramax]` are optionally re-inflated toward their prior or clipped. Controlled by `flact_checkpara`. |
 | `checkbound_yesterday.m` | Enforces state variable bounds by comparing the current ensemble to the previous day's state. Used after reprobation steps to prevent physically impossible jumps. |
 
-### Data Files (`.mat` / `.csv`)
+#### Data Files (`.mat` / `.csv`)
 
 | File | Description |
 |---|---|
@@ -116,7 +126,7 @@ Scripts for generating map-based visualizations Daily commuting-to-work matrix a
 | `fix_randi_reprobe.mat` | Fixed random indices used during the reprobe step to ensure reproducibility of which ensemble members are re-initialized. |
 | `dailyincidence_real.csv` | Real COVID-19 daily incidence data by location (96 locations × 437 days, from January 20, 2020 to March 31, 2021). Loaded when `truth_id = "tr00"` for real-incidence runs. |
 
-### Description / Metadata Files
+#### Description / Metadata Files
 
 | File | Description |
 |---|---|
