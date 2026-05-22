@@ -3,9 +3,9 @@ function PIPELINE
 % run all (or multiple) runs with MODEL_RUN.m 
 % uses parfor, regular for version commented
 
-mmdd=datestr(datetime('now'), 'mmdd');
+mmdd=datestr(datetime('now'), 'mmdd'); %collects month and date for filenames
 
-opts = detectImportOptions("Runs-description.xlsx");
+opts = detectImportOptions("Runs-description.xlsx"); 
 opts.DataRange = 'A2'; % Start reading from A2
 runs_description = readtable("Runs-description.xlsx", opts);
 clear opts
@@ -50,7 +50,7 @@ parfor (k = 1:length(iiseries), thr)
     ii = iiseries(k);
     loopStart = datetime('now');
     
-    model_forecast_run(ii, mmdd)
+    model_forecast_run(ii, mmdd)  %main function with model run and forecast.
    
     runSeconds = seconds(datetime('now') - loopStart);
     hours = floor(runSeconds / 3600);
@@ -98,17 +98,18 @@ fprintf('\nMODEL_RUN runtime: %s\n', totalTimeStr);
 
 % for each model run in 'Model_Runs/' creates a struct with forcasting metrics
 % and saves it to in 'Forecasts/'
-
-
 make_forecast_metrics
 make_forecast_metrics_real
 
 %% create groups of forecast metrics
 
-make_forecast_group
-make_forecast_group_real
+%Groups togheter (bins) the metrics for the group specified in
+%Groups-description-pois.xlxs. 
 
-% create the CSV output file
+make_forecast_group
+make_forecast_group_real %groups the 4 real runs together
+
+% create the CSV output file to be used for plotting
 make_csv_synth.m
 make_csv_real.m
 
