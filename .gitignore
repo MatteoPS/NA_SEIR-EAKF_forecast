@@ -1,10 +1,18 @@
-
 *.DS_Store
 *.asv
 
-Model_Runs/*.mat
-Forecasts/*.mat
-Forecasts_groups/*.mat
-Truths/*struct.mat
-Forecasts_real_agg/*.mat
-Plotting_Heatmap_gravitymodel/.Rhistory
+# R session junk
+.Rhistory
+.RData
+.Rproj.user/
+
+# pipeline outputs: too large for GitHub's 100 MB cap, regenerate with run_pipeline
+results/model_runs/*.mat
+results/forecasts/*.mat
+results/forecast_groups/*.mat
+
+# bundled truths (regenerate with make_truth_grouped_files)
+data/truths/all_truths_struct.mat
+
+# the shapefile geometry has to be downloaded separately (see data/gis/shape/README.md)
+data/gis/shape/**/*.shp

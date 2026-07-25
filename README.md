@@ -1,21 +1,174 @@
 # Mobility improves epidemic onset forecast skill in a continental scale disease model
 
 This repository accompanies the manuscript *Mobility improves epidemic onset forecast skill in a continental scale disease model* (Perini M, Yamana TK, Shaman J).
+
 <img width="6000" height="3000" alt="plot_NAR_5070_legend" src="https://github.com/user-attachments/assets/49d70187-a311-4a2c-9bce-b0772fc4a2b3" />
 
 ---
 
 ## Overview
 
-This codebase implements a stochastic, metapopulation **SEIR model** (Susceptible–Exposed–Infectious Reported–Infectious Unreported) coupled with an **Ensemble Adjustment Kalman Filter (EAKF)** for data assimilation and epidemic forecasting across North America. The model captures both commuting-based and flight-based mobility, and supports running ensembles of scenarios with synthetic or real COVID-19 incidence data.
+A stochastic, metapopulation **SEIR model** (Susceptible–Exposed–Infectious Reported–Infectious Unreported) coupled with an **Ensemble Adjustment Kalman Filter (EAKF)** for data assimilation and epidemic forecasting across North America. The model captures both commuting-based and flight-based mobility, and runs ensembles of scenarios driven by synthetic or reported COVID-19 incidence.
 
 ---
 
-## Data Sources
+## Quick start
+
+```matlab
+run_pipeline
+```
+
+That is the whole thing. `run_pipeline` runs every stage end to end and writes
+to `results/`. It works from any current folder — there is no need to `cd` into
+the project first, and no paths to edit.
+
+Useful variants:
+
+```matlab
+run_pipeline('SimRuns', 1:10)                    % a subset of synthetic runs
+run_pipeline('RealRuns', 601:604, 'SimRuns', []) % only the real-incidence runs
+run_pipeline('Workers', 8)                       % parallel pool size (default 4)
+run_pipeline('Stages', ["metrics" "group" "csv"])% reuse existing model runs
+```
+
+Then the manuscript bar plots:
+
+```bash
+Rscript src/plotting/plot_rel_bars_synth.R
+Rscript src/plotting/plot_rel_bars_real.R
+```
+
+---
+
+## Pipeline
+
+| Stage | Function | Reads | Writes |
+|---|---|---|---|
+| 1. Model + forecasts | `model_forecast_run` | `data/`, `config/Runs-description.xlsx` | `results/model_runs/` |
+| 2. Forecast metrics | `make_forecast_metrics`, `make_forecast_metrics_real` | `results/model_runs/` | `results/forecasts/` |
+| 3. Group metrics | `make_forecast_group`, `make_forecast_group_real` | `results/forecasts/`, `config/Groups-description-pois.xlsx` | `results/forecast_groups/` |
+| 4. Export CSVs | `make_csv_synth`, `make_csv_real` | `results/forecast_groups/` | `results/csv/` |
+| 5. Figures (R) | `src/plotting/plot_rel_bars_*.R` | `results/csv/` | `results/figures/` |
+
+Run IDs come from `config/Runs-description.xlsx`: **1–140** are the synthetic
+scenarios, **601–604** the real-incidence runs.
+
+Each stage is a plain function, so you can also call any of them on their own:
+
+```matlab
+make_forecast_metrics      % just redo stage 2 for the synthetic runs
+```
+
+---
+
+## Layout
+
+```
+run_pipeline.m         entry point — run this
+setup_paths.m          resolves every project path; called by every script
+
+config/                the three spreadsheets that define what gets run
+  Runs-description.xlsx      one row per run: RunID, nickname, truth, mobility settings
+  Truths-description.xlsx    TruthID -> truth file
+  Groups-description-pois.xlsx   how runs are grouped for analysis
+
+data/                  all model inputs (see data/README.md)
+  mobility/            commuting network + air travel structures
+  incidence/           reported COVID-19 incidence
+  rng_seeds/           fixed random draws for reproducibility
+  truths/              the 35 synthetic epidemics + their summary statistics
+  raw/                 source matrices the mobility structures are built from
+  gis/, air_travel/    figure inputs
+
+src/
+  model/               the SEIR-EAKF model itself
+  forecast/            forecast metrics and their aggregation
+  export/              CSV export
+  truths/              synthetic truth generation
+  preprocessing/       one-off scripts that build the data/ inputs
+  plotting/            figure scripts (R) + a MATLAB diagnostic script
+  utils/               small shared helpers
+
+results/               everything the pipeline produces (see results/README.md)
+docs/                  dataset provenance
+```
+
+### How paths work
+
+Every script starts with
+
+```matlab
+paths = setup_paths();
+```
+
+which puts `src/` on the MATLAB path and returns a struct of absolute paths
+(`paths.population`, `paths.model_runs`, …) resolved relative to `setup_paths.m`
+itself. Scripts therefore run from any working folder, and moving the project
+requires no edits.
+
+The R scripts do the equivalent: they locate the project root by walking up from
+their own file until they find `run_pipeline.m`, so `Rscript`, `source()` and
+RStudio's "Run selection" all work.
+
+---
+
+## `src/model/`
+
+| File | Description |
+|---|---|
+| `model_forecast_run.m` | Core script. For one `run_id`, loads the inputs, runs the SEIR-EAKF assimilation loop day by day, forecasts every week, and saves to `results/model_runs/`. |
+| `integrate_model.cpp` | C++ MEX source: one daily time step of the stochastic SEIR model. Daytime/nighttime transmission, commuting flows via `nl`/`part`/`Cave`, Poisson-sampled transitions S→E→Ir/Iu→R. |
+| `integrate_model.mexmaca64` / `.mexmaci64` | Pre-compiled MEX binaries (Apple Silicon / Intel Mac). Recompile with `mex integrate_model.cpp` on other platforms. |
+| `initialize_para.m` | Builds the parameter ensemble `para`, sampling alpha and beta per location from the `parafit` priors and setting Z, D, mu, theta. |
+| `checkbound.m` | Non-negativity and population-size constraints on S, E, Ir, Iu at initialisation. |
+| `checkbound_para.m` | Parameter bounds after each EAKF update; out-of-range values are re-inflated or clipped (`flact_checkpara`). |
+| `checkbound_yesterday.m` | State bounds relative to the previous day, used after reprobe steps. |
+
+## `src/forecast/`
+
+| File | Description |
+|---|---|
+| `make_forecast_metrics.m` | Ensemble metrics (WIS, AE, MAE, coverage, bias, peak week, onset week) per location and forecast week, for the synthetic runs. |
+| `make_forecast_metrics_real.m` | The same for the real-incidence runs, computed per epidemic wave. |
+| `calculate_forecast_metrics.m` | The metric definitions themselves, shared by the two scripts above. |
+| `make_forecast_group.m` | Bins the per-run metrics by weeks-to-event and averages them within the groups defined in `Groups-description-pois.xlsx`. |
+| `make_forecast_group_real.m` | The same for the four real-incidence runs. |
+
+## `src/truths/`
+
+| File | Description |
+|---|---|
+| `make_truth.m` | Generates one synthetic epidemic by running the SEIR model forward without assimilation. |
+| `make_truth_grouped_files.m` | Bundles every truth into `data/truths/all_truths_struct.mat`. |
+| `make_truth_stats_and_histogram.m` | Onset/peak statistics across all truths → `data/truths/all_truths_stats.mat`, plus the summary histograms. |
+
+## `src/preprocessing/`
+
+Run these only if the inputs in `data/` need rebuilding — the repository ships
+the results already.
+
+| File | Description |
+|---|---|
+| `make_parafit.m` | Samples the parameter priors → `data/parafit_vars.mat`. Regenerating changes the priors and hence the results. |
+| `build_commutedata.m` | Commuting matrix → `nl`, `part`, `C`, `Cave`. Pass `true` for the zero-commuting variant. |
+| `build_flightsflow.m` | Air-travel matrix → `nlp`, `partp`, `P`. |
+
+## `src/utils/`
+
+`setup_paths` aside, these smooth over the spreadsheets: `read_runs_table`
+imports `Runs-description.xlsx` consistently, and `find_run_row` finds a RunID
+whether the column comes back from Excel as numbers or as text.
+`benchmark_run` times a single model run.
+
+---
+
+## Data sources
+
 ### Annual air passenger travel
 - "Monthly Statistics by Origin - Destination 2016" from AFAC, Gobierno de México available via <https://www.gob.mx/cms/uploads/attachment/file/652389/sase-2016-hitorico-10032017.xlsx>
 - "Airline Origin and Destination Survey (DB1B) 2016" form US Bureau of Transportation Statistics available via <https://www.transtats.bts.gov/Tables.asp?QO_VQ=EFI&QO_anzr=Nv4yv0r%FDb4vtv0%FDn0q%FDQr56v0n6v10%FDf748rB%FLQOEO%FM&QO_fu146_anzr=b4vtv0%FDn0q%FDQr56v0n6v10%FDf748rB>
 - "Air passenger origin and destination, transborder journeys 2016" from Statistics Canada available via <https://doi.org/10.25318/2310025601-eng>
+
 ### Daily work commuting
 Developed and already published in [Perini et al. 2025](https://doi.org/10.1016/j.epidem.2025.100818)
 - Canadian 2016 census (Statistics Canada): Commuting Flow from Geography of Residence to Geography of Work <https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=4&LANG=E&A=R&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GL=-1&GID=1354564&GK=0&GRP=1&O=D&PID=111333&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2017&THEME=125&VID=0&VNAMEE=&VNAMEF=%20(2017)&D1=0&D2=0&D3=0&D4=0&D5=0&D6=0>
@@ -28,116 +181,16 @@ Developed and already published in [Perini et al. 2025](https://doi.org/10.1016/
 
 ---
 
-## Running the Pipeline
-
-**`PIPELINE.m`** is the main entry point. It orchestrates the full workflow end-to-end:
-
-1. Reads run configurations from `Runs-description.xlsx`
-2. Runs the SEIR-EAKF model and generates forecasts in parallel (`model_forecast_run`) for each simulation ID
-3. Computes forecast metrics per run (`make_forecast_metrics`, `make_forecast_metrics_real`)
-4. Groups runs by setting (`make_forecast_group`, `make_forecast_group_real`)
-5. Produces the final CSV output files (`make_csv_synth`, `make_csv_real`)
-6. (Optional) Calls R scripts for bar plot figures (`plot_rel_bars_synth.R`, `plot_rel_bars_real.R`)
-
-To run the pipeline, open MATLAB and call:
-```matlab
-PIPELINE
-```
-
-Simulation IDs (`sim_runs`) and real incidence IDs (`real_runs`) are defined at the top of the script. Parallelism is controlled by the `thr` variable (default: 4 workers).
-
----
-
-## Folders
-
-#### `Model_Runs/`
-Output folder for completed model runs. Each file is named `MMDD_<nickname>.mat` and contains the full posterior state variables, ensemble forecasts, Kalman gain records, and run metadata. One file is created per run ID by `model_forecast_run.m`. <br><br>
-
-#### `Forecasts/`
-Output folder for forecast metrics. For each file in `Model_Runs/`, `make_forecast_metrics.m` (or `make_forecast_metrics_real.m`) creates a corresponding `_fore_res_group.mat` file containing per-location, per-week forecast evaluation metrics (WIS, AE, coverage, bias, peak week, onset week, etc.). <br><br>
-
-#### `Forecasts_groups/`
-Output folder for grouped forecast metrics. `make_forecast_group.m` (or `make_forecast_group_real.m`) aggregates the per-run forecast metrics across scenario groups defined in `Groups-description-pois.xlsx`. <br><br>
-
-#### `Output/`
-Final CSV output files produced by `make_csv_synth.m` and `make_csv_real.m`. These are the analysis-ready tables used for plotting and statistical reporting in the manuscript. <br><br>
-
-#### `Truths/`
-Contains truth files (synthetic and real) used as observations during model fitting and as ground truth for forecast evaluation. Synthetic truth files are generated by `make_truth.m`. Summary statistics across all truths are stored in `all_truths_stats.mat` (produced by `make_truth_stats_and_histogram.m`) and loaded by `make_forecast_metrics.m`. <br><br>
-
-#### `Create_nl_part_Cave/`
-Scripts and data used to construct the network connectivity structures `nl`, `part`, and `Cave`, which define the metapopulation layout and commuting flows used by `integrate_model`. Run these scripts once before running the main pipeline if these structures need to be rebuilt. <br><br>
-
-#### `Plotting_Heatmap_gravitymodel/`
-Scripts for generating Figure 2: Heatmap of the annual non-directional air passenger travel matrix across the 96 location, it includes the gravity model. <br><br>
-
-#### `Plotting_boxplots/`
-Scripts for generating the boxplot figures shown in the manuscript and supplemental information (Figure 3, Figure 4, Figure S4, Figure S5), it uses the csv from `Output/`. <br><br>
-
-#### `Plottting_Maps/`
-Scripts for generating map-based visualizations Daily commuting-to-work matrix and annual air passenger travel matrix across North America (Figure 1). <br><br>
-
----
-
-## Root-Level Files
-
-#### Main Scripts
-
-| File | Description |
-|---|---|
-| `PIPELINE.m` | **Main entry point.** Orchestrates the full pipeline: model runs, forecast metrics, grouping, and CSV export. See [Running the Pipeline](#running-the-pipeline). |
-| `model_forecast_run.m` | Core model script. For a given `run_id`, loads all inputs, runs the SEIR-EAKF data assimilation loop day by day, performs weekly forecasts, and saves results to `Model_Runs/`. Calls: `integrate_model`, `initialize_para`, `checkbound`, `checkbound_para`, `checkbound_yesterday`, `adjustmobility` (if applicable). |
-| `make_forecast_metrics.m` | Reads each synthetic run file in `Model_Runs/` and computes ensemble forecast metrics (WIS, AE, MAE, coverage, bias, peak week, onset week) for each location and forecast week. Saves results to `Forecasts/`. Calls: `calculate_forecast_metrics` (defined as a local function within this file). |
-| `make_forecast_metrics_real.m` | Same as `make_forecast_metrics.m` but applied to runs using real COVID-19 incidence data (run IDs 601–604). Saves results to `Forecasts/`. |
-| `make_forecast_group.m` | Aggregates per-run forecast metrics from `Forecasts/` into grouped structures based on scenario groups defined in `Groups-description-pois.xlsx`. Saves results to `Forecasts_groups/`. |
-| `make_forecast_group_real.m` | Same as `make_forecast_group.m` but for real-incidence runs. |
-| `make_csv_synth.m` | Reads grouped forecast metrics for synthetic runs and exports them as a CSV file to `Output/`. |
-| `make_csv_real.m` | Same as `make_csv_synth.m` but for real-incidence runs. |
-| `make_truth.m` | Generates synthetic epidemic truth files by running the SEIR model forward without data assimilation. Saves one `.mat` file per truth scenario to `Truths/`. |
-| `make_truth_grouped_files.m` | Groups and reorganizes truth files in `Truths/` (e.g. by strain or seeding configuration), facilitating batch loading in downstream scripts. |
-| `make_truth_stats_and_histogram.m` | Computes summary statistics (onset week, peak week, peak incidence) across all synthetic truths. Saves `all_truths_stats.mat` to `Truths/`, which is loaded by `make_forecast_metrics.m`. |
-| `make_parafit.m` | Generates `parafit_vars.mat` by fitting initial parameter distributions (alpha, beta, and structural parameters) from historical or reference data. Run once before model runs. |
-| `Test_runtime.m` | Benchmarking script for timing individual model run components. Useful for profiling performance and choosing ensemble size or parallelism settings. |
-
-#### Model Functions (`.m`) used in `model_forecast_run.m` 
-
-| File | Description | 
-|---|---|
-| `integrate_model.cpp` | C++ MEX source implementing one daily time step of the stochastic SEIR model. Handles daytime and nighttime transmission separately, commuting flows (via `nl`, `part`, `Cave`), and Poisson-sampled transitions between compartments (S→E→Ir/Iu→R). Must be compiled with `mex` before use. |
-| `integrate_model.mexmaca64` | Pre-compiled MEX binary for Apple Silicon Macs (M1/M2). |
-| `integrate_model.mexmaci64` | Pre-compiled MEX binary for Intel Macs. |
-| `initialize_para.m` | Initializes the parameter ensemble matrix (`para`) for a given run, sampling alpha (reporting rate by location) and beta (transmission rate by location) from `parafit` distributions, and setting structural parameters (Z, D, mu, theta). |
-| `checkbound.m` | Enforces non-negativity and population-size constraints on state variables (S, E, Ir, Iu) at initialization. Ensures that the sum of compartments does not exceed the metapopulation capacity `C`. |
-| `checkbound_para.m` | Enforces parameter bounds after each EAKF update step. Parameters outside `[paramin, paramax]` are optionally re-inflated toward their prior or clipped. Controlled by `flact_checkpara`. |
-| `checkbound_yesterday.m` | Enforces state variable bounds by comparing the current ensemble to the previous day's state. Used after reprobation steps to prevent physically impossible jumps. |
-
-#### Data Files (`.mat` / `.csv`)
-
-| File | Description |
-|---|---|
-| `commutedata.mat` | Commuting network data for the metapopulation model. Contains `nl` (neighbor location index for each metapopulation unit), `part` (index partitioning locations into metapopulations), `Cave` (average commuting population), and `C` (residential population per metapopulation). Used when `Commuting = "n"`. |
-| `commutedata_ZEROS.mat` | Same structure as `commutedata.mat` but with zero commuting flows. Used when `Commuting = "p"` (pure patch model with no within-country commuting). |
-| `flightsflow.mat` | Daily air passenger flow matrix `P` between locations (annual totals divided by 365). Used when `flights = "f"` to model long-distance disease spread via air travel. |
-| `population.mat` | Vector of population sizes by location (96 locations across North America). |
-| `statecodes.mat` | State/province codes and identifiers for the 96 locations, used for labeling and output formatting. |
-| `parafit_vars.mat` | Parameter fitting variables: `parafit` (fitted parameter distributions), `alphamaps` / `betamap` (index maps from locations to parameter rows in `para`), `paramin` / `paramax` (parameter bounds). Generated by `make_parafit.m`. |
-| `fix_para.mat` | Fixed initial parameter draws used to ensure reproducibility across runs. |
-| `fix_rand_matrix.mat` | Fixed random matrix used during state variable initialization to ensure reproducibility. |
-| `fix_randi_reprobe.mat` | Fixed random indices used during the reprobe step to ensure reproducibility of which ensemble members are re-initialized. |
-| `dailyincidence_real.csv` | Real COVID-19 daily incidence data by location (96 locations × 437 days, from January 20, 2020 to March 31, 2021). Loaded when `truth_id = "tr00"` for real-incidence runs. |
-
-#### Description / Metadata Files
-
-| File | Description |
-|---|---|
-| `Runs-description.xlsx` | Master table of all run configurations. Each row defines a `RunID`, `nickname`, `TruthID`, `Strain`, `Seed_loc`, `Flights`, and `Commuting` setting. Read by `PIPELINE.m` and `model_forecast_run.m`. Simulation runs use IDs 1–140; real-incidence runs use IDs 601–604. |
-| `Truths-description.xlsx` | Table mapping `TruthID` codes to truth file nicknames and metadata. Read by `model_forecast_run.m` to locate the correct truth file in `Truths/`. |
-| `Groups-description-pois.xlsx` | Table defining how runs are grouped for analysis (e.g. by mobility setting, strain, or seeding location). Read by `make_forecast_group.m` to aggregate results. |
-
----
-
 ## Dependencies
 
-- **MATLAB** with the Parallel Computing Toolbox (for `parfor` in `PIPELINE.m`)
-- **C++ compiler** compatible with MATLAB MEX (only needed if recompiling `integrate_model.cpp`; pre-compiled binaries are included for macOS)
-- **R** (for the plotting scripts in `Plotting_*` folders)
+- **MATLAB** with the Parallel Computing Toolbox (for `parfor`)
+- **C++ compiler** compatible with MATLAB MEX — only to recompile `integrate_model.cpp`; pre-compiled macOS binaries are included
+- **R** for the figure scripts: `ggplot2`, `ggpattern`, `dplyr`, `patchwork`, `cowplot`, `viridis`; plus `sf` for the maps and `reshape2`, `geosphere`, `tidygeocoder` for the air-travel heatmap
+- **ImageMagick** (`magick`) — only for the PNG conversion at the end of `plot_maps_NA.R`
+
+## Large files
+
+Model runs, forecast files and grouped metrics are far past GitHub's 100 MB cap
+and are not tracked; regenerate them with `run_pipeline` or request a copy. The
+CSVs in `results/csv/` and the figures **are** tracked, so the figures can be
+reproduced without re-running the model.
