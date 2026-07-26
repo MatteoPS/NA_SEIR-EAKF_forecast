@@ -29,6 +29,7 @@ run_pipeline('SimRuns', 1:10)                    % a subset of synthetic runs
 run_pipeline('RealRuns', 601:604, 'SimRuns', []) % only the real-incidence runs
 run_pipeline('Workers', 8)                       % parallel pool size (default 4)
 run_pipeline('Stages', ["metrics" "group" "csv"])% reuse existing model runs
+run_pipeline('SeedOffset', 100)                  % a different stochastic realisation
 ```
 
 Then the manuscript bar plots:
@@ -93,6 +94,19 @@ results/               everything the pipeline produces (see results/README.md)
 docs/                  dataset provenance
 ```
 
+### Reproducibility
+
+Model runs are deterministic. Each run is seeded with `run_id + SeedOffset`,
+which fixes both random streams the model uses — MATLAB's (`rand`, `randi`,
+`poissrnd`) and the one inside the `integrate_model` MEX. The same call
+therefore produces bit-identical output whenever, and on whichever parallel
+worker, it executes. Change `SeedOffset` to draw a different stochastic
+realisation.
+
+Synthetic truths are seeded the same way, from the digits of the truth id, so
+`make_truth` regenerates a given truth exactly. Regenerating a truth
+invalidates the runs already scored against it.
+
 ### How paths work
 
 Every script starts with
@@ -118,7 +132,8 @@ RStudio's "Run selection" all work.
 |---|---|
 | `model_forecast_run.m` | Core script. For one `run_id`, loads the inputs, runs the SEIR-EAKF assimilation loop day by day, forecasts every week, and saves to `results/model_runs/`. |
 | `integrate_model.cpp` | C++ MEX source: one daily time step of the stochastic SEIR model. Daytime/nighttime transmission, commuting flows via `nl`/`part`/`Cave`, Poisson-sampled transitions S→E→Ir/Iu→R. |
-| `integrate_model.mexmaca64` / `.mexmaci64` | Pre-compiled MEX binaries (Apple Silicon / Intel Mac). Recompile with `mex integrate_model.cpp` on other platforms. |
+| `integrate_model.mexmaca64` | Pre-compiled MEX binary for Apple Silicon. On any other platform run `build_mex` once. |
+| `build_mex.m` | Compiles `integrate_model.cpp` for the current platform. |
 | `initialize_para.m` | Builds the parameter ensemble `para`, sampling alpha and beta per location from the `parafit` priors and setting Z, D, mu, theta. |
 | `checkbound.m` | Non-negativity and population-size constraints on S, E, Ir, Iu at initialisation. |
 | `checkbound_para.m` | Parameter bounds after each EAKF update; out-of-range values are re-inflated or clipped (`flact_checkpara`). |
