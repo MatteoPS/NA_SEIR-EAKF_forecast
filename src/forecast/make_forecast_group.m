@@ -13,10 +13,9 @@ function make_forecast_group()
 
 paths = setup_paths();
 
-% load into named variables: parfor has to resolve them statically, which it
-% cannot do for variables created by a bare `load`
-truth_stats = getfield(load(paths.truth_stats, 'truth_stats'), 'truth_stats');
-population  = getfield(load(paths.population,  'population'),  'population');
+% load into named variables (see LOAD_VAR: parfor needs them resolvable)
+truth_stats = load_var(paths.truth_stats, 'truth_stats');
+population  = load_var(paths.population,  'population');
 
 % --- 1. Load Descriptions ---
 runs_description = read_runs_table(paths);
@@ -28,7 +27,7 @@ opts_groups = setvartype(opts_groups, cols_to_standardize, 'string');
 groups_description = readtable(paths.groups_description, opts_groups);
 
 summary_filename = paths.synth_group_file;
-forecasts_dir    = paths.forecasts;   % sliced into the parfor below
+forecasts_dir    = paths.forecasts;   % broadcast to the parfor workers below
 
 supergroup_names = unique(groups_description.SuperGroup, 'stable');
 

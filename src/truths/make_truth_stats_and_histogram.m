@@ -14,8 +14,8 @@ function make_truth_stats_and_histogram()
 
 paths = setup_paths();
 
-struct_truth = getfield(load(paths.truth_struct, 'struct_truth'), 'struct_truth');
-population   = getfield(load(paths.population,   'population'),   'population');
+struct_truth = load_var(paths.truth_struct, 'struct_truth');
+population   = load_var(paths.population,   'population');
 %how to retrieve:
 %truth_dailyIu_post_rec1 = struct_truth(1).truth_vars.truth_dailyIu_post_rec
 

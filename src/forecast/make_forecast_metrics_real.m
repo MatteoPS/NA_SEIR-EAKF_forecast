@@ -12,8 +12,8 @@ function make_forecast_metrics_real()
 
 paths = setup_paths();
 
-population = getfield(load(paths.population, 'population'), 'population');
-real_stats = getfield(load(paths.real_stats, 'real_stats'), 'real_stats');
+population = load_var(paths.population, 'population');
+real_stats = load_var(paths.real_stats, 'real_stats');
 
 file_list = dir(fullfile(paths.model_runs, '*_real_*.mat'));
 fprintf('Found %d real-incidence run(s) in %s\n', numel(file_list), paths.model_runs);

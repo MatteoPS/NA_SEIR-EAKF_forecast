@@ -17,7 +17,7 @@ function make_parafit()
 
 paths = setup_paths();
 
-statecodes = getfield(load(paths.statecodes, 'statecodes'), 'statecodes');
+statecodes = load_var(paths.statecodes, 'statecodes');
 
 parafit=zeros(6,100);
 

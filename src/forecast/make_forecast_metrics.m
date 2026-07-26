@@ -14,8 +14,8 @@ function make_forecast_metrics()
 
 paths = setup_paths();
 
-truth_stats = getfield(load(paths.truth_stats, 'truth_stats'), 'truth_stats');
-population  = getfield(load(paths.population,  'population'),  'population');
+truth_stats = load_var(paths.truth_stats, 'truth_stats');
+population  = load_var(paths.population,  'population');
 
 file_list = dir(fullfile(paths.model_runs, '*_synth_*.mat'));
 fprintf('Found %d synthetic run(s) in %s\n', numel(file_list), paths.model_runs);
