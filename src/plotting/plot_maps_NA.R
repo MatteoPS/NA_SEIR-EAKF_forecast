@@ -12,11 +12,8 @@
 #
 #   Rscript src/plotting/plot_maps_NA.R
 #
-# NOTE: the .shp itself is not in the repository (GitHub's 100 MB cap).
-# Download it from
-#   https://www.cec.org/north-american-environmental-atlas/political-boundaries-2021/
-# and drop it next to the other shapefile parts in data/gis/shape/ --
-# see data/gis/shape/README.md.
+# The boundary .shp is not stored in the repository; data/gis/shape/README.md
+# has the download link.
 
 library(sf)
 library(ggplot2)

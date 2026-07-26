@@ -1,5 +1,17 @@
-dw/*********************************************************************
- * model.cpp
+/*********************************************************************
+ * integrate_model.cpp
+ *
+ * One daily time step of the stochastic metapopulation SEIR model.
+ * Handles daytime and nighttime transmission separately, commuting flows
+ * (via nl, part, Cave) and Poisson-sampled transitions S->E->Ir/Iu->R.
+ *
+ * Usage from MATLAB:
+ *   integrate_model(seed)                       start a random stream
+ *   [S,E,Ir,Iu,dailyIr,dailyIu] = integrate_model( ...
+ *       nl, part, C, Cave, S, E, Ir, Iu, para, betamap, alphamap)
+ *
+ * See the RNG block below the includes. Build with build_mex.
+ *
  * Keep in mind:
  * <> Use 0-based indexing as always in C or C++
  * <> Indexing is column-based as in Matlab (not row-based as in C)
@@ -40,8 +52,42 @@ typedef int mwSignedIndex;
 #define MWINDEX_MIN   0UL
 #endif
 
-void mexFunction(int nlmxhs, mxArray *plhs[], int nrhs, const mxArray *prhs[])
+// Random number stream.
+//
+// One engine per process, kept alive between calls so the stream advances
+// continuously: successive calls (the ensemble member loop, then the day loop)
+// therefore draw independent numbers.
+//
+// Call integrate_model(seed) once to start a run; every step afterwards
+// continues that stream. Re-seeding with the same value replays the run
+// exactly, so results do not depend on when, or on which parallel worker, the
+// run executed.
+static mt19937 generator;
+static bool rng_initialized = false;
+
+void mexFunction(int nlhs, mxArray *plhs[], int nrhs, const mxArray *prhs[])
 {
+//seeding form: integrate_model(seed)
+    if (nrhs == 1) {
+        if (!mxIsNumeric(prhs[0]) || mxGetNumberOfElements(prhs[0]) != 1)
+            mexErrMsgIdAndTxt("integrate_model:seed",
+                "The seed must be a numeric scalar.");
+        generator.seed((unsigned)mxGetScalar(prhs[0]));
+        rng_initialized = true;
+        return;
+    }
+
+    if (nrhs != 11)
+        mexErrMsgIdAndTxt("integrate_model:nrhs",
+            "Expected 11 inputs (nl, part, C, Cave, S, E, Ir, Iu, para, betamap, "
+            "alphamap), or a single seed to start a new random stream.");
+
+//a run that never seeded still gets a fixed stream rather than a clock-dependent one
+    if (!rng_initialized) {
+        generator.seed(mt19937::default_seed);
+        rng_initialized = true;
+    }
+
 //declare variables
     mxArray *mxnl, *mxpart, *mxC, *mxCave, *mxS, *mxE, *mxIr, *mxIu, *mxpara, *mxbetamap, *mxalphamap;//input
     mxArray *mxnewS, *mxnewE, *mxnewIr, *mxnewIu, *mxdailyIr, *mxdailyIu;//output
@@ -100,7 +146,6 @@ void mexFunction(int nlmxhs, mxArray *plhs[], int nrhs, const mxArray *prhs[])
     dailyIu = mxGetPr(mxdailyIu);
     ////////////////////////////////////////
     //do something
-    default_random_engine generator((unsigned)time(NULL));
     //initialize auxillary variables
     int i, j;
     //para=Z,D,mu,theta,alpha1,alpha2,alpha3,beta0,beta1,...

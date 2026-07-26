@@ -6,6 +6,10 @@ function run_pipeline(varargin)
 %   run_pipeline('RealRuns', 601:604)         % only the real-incidence runs
 %   run_pipeline('Workers', 8)                % change the parallel pool size
 %   run_pipeline('Stages', ["metrics" "group" "csv"])   % skip the model runs
+%   run_pipeline('SeedOffset', 100)           % a different stochastic realisation
+%
+% Runs are reproducible: each one is seeded with run_id + SeedOffset, so the
+% same call always produces the same output regardless of worker scheduling.
 %
 % Stages, in order:
 %   "model"    model_forecast_run             -> results/model_runs/
@@ -28,12 +32,14 @@ addParameter(opts, 'SimRuns',  1:140);
 addParameter(opts, 'RealRuns', 601:604);
 addParameter(opts, 'Workers',  4);
 addParameter(opts, 'Stages',   ["model" "metrics" "group" "csv"]);
+addParameter(opts, 'SeedOffset', 0);
 parse(opts, varargin{:});
 
-sim_runs  = opts.Results.SimRuns;
-real_runs = opts.Results.RealRuns;
-workers   = opts.Results.Workers;
-stages    = string(opts.Results.Stages);
+sim_runs    = opts.Results.SimRuns;
+real_runs   = opts.Results.RealRuns;
+workers     = opts.Results.Workers;
+stages      = string(opts.Results.Stages);
+seed_offset = opts.Results.SeedOffset;
 
 mmdd = datestr(datetime('now'), 'mmdd');   %#ok<DATST> % prefix for output filenames
 
@@ -57,7 +63,7 @@ if ismember("model", stages)
     parfor (k = 1:numel(run_ids), workers)
         loop_start = datetime('now');
 
-        model_forecast_run(run_ids(k), mmdd);
+        model_forecast_run(run_ids(k), mmdd, run_ids(k) + seed_offset);
 
         runtime{k} = format_duration(seconds(datetime('now') - loop_start));
         fprintf('\nCompleted run %d: %s in (%s)\n', run_ids(k), nickname{k}, runtime{k});

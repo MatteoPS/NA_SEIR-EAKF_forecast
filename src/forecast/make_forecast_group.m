@@ -13,7 +13,6 @@ function make_forecast_group()
 
 paths = setup_paths();
 
-% load into named variables (see LOAD_VAR: parfor needs them resolvable)
 truth_stats = load_var(paths.truth_stats, 'truth_stats');
 population  = load_var(paths.population,  'population');
 

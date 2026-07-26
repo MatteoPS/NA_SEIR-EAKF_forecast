@@ -1,29 +1,44 @@
-function make_truth(truth_nick)
+function make_truth(truth_nick, seed)
 %MAKE_TRUTH  Generate one synthetic epidemic truth by running the SEIR model forward.
 %
 %   make_truth(truth_nick)
+%   make_truth(truth_nick, seed)
 %
 % truth_nick example: "tr10_me_CA", "tr03_ls_CA" -- see config/Truths-description.xlsx
+% seed        random seed; defaults to the numeric part of the truth id
 %
 % Runs the model without data assimilation and saves the truth variables to
 % data/truths/truth_<truth_nick>.mat, which MODEL_FORECAST_RUN then uses as
 % the observations to fit and as ground truth for forecast evaluation.
 %
+% Regenerating a truth with the same seed reproduces it exactly. Note that
+% overwriting a truth invalidates every model run already scored against it.
+%
 % See also MAKE_TRUTH_GROUPED_FILES, MAKE_TRUTH_STATS_AND_HISTOGRAM.
 
 paths = setup_paths();
-
-load(paths.statecodes);
-load(paths.population);
-load(paths.parafit_vars, 'alphamaps', 'betamap');
-load(paths.flightsflow);
-P=P/365; %daily number of passengers
 
 % pars from truth_nick
 nickparts = split(truth_nick, '_');
 strain = nickparts{2};
 seed_code = nickparts{3};
 truth_id = nickparts{1};
+
+%%%%%%%%%%%%%%%%%random seed
+% fixes both MATLAB's stream and the one inside the integrate_model MEX.
+% truth ids look like "tr07", so the digits give a distinct seed per truth.
+if nargin < 2 || isempty(seed)
+    seed = str2double(regexprep(char(truth_id), '\D', ''));
+    if isnan(seed), seed = 0; end
+end
+rng(seed, 'twister');
+integrate_model(seed);
+
+load(paths.statecodes);
+load(paths.population);
+load(paths.parafit_vars, 'alphamaps', 'betamap');
+load(paths.flightsflow);
+P=P/365; %daily number of passengers
 
 
 %truth OEV par (different form the one used in the model)
@@ -339,10 +354,5 @@ truth_vars = who('truth_*');
 
 save(truth_filename, truth_vars{:});
 fprintf('Truth saved to: %s\n', truth_filename);
-
-% NOTE: the original script ended with a call to Plotting_truth(truth_filename).
-% That function is not part of the repository, so the call is disabled here.
-% Restore it if you re-add the plotting helper.
-%Plotting_truth(truth_filename)
 
 end

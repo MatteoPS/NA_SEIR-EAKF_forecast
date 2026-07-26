@@ -11,8 +11,7 @@ function paths = setup_paths()
 %      folder, resolved relative to this file's own location.
 %
 % Because the paths are absolute and anchored to setup_paths.m, scripts work
-% no matter what the current folder is -- you no longer have to cd into the
-% project root before running anything.
+% from any current folder.
 %
 % Output folders under results/ are created on demand.
 %

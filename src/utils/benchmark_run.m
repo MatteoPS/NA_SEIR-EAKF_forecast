@@ -9,8 +9,6 @@ function elapsed = benchmark_run(run_id)
 %
 % Note the timing includes writing the (large) output file. Comment out the
 % final save in MODEL_FORECAST_RUN to time the computation alone.
-%
-% (Formerly Test_runtime.m, which still called the pre-rename MODEL_RUN.)
 
 setup_paths();
 

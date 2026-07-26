@@ -1,16 +1,31 @@
-function model_forecast_run(run_id,mmdd)
+function model_forecast_run(run_id,mmdd,seed)
 %MODEL_FORECAST_RUN  Core model: SEIR-EAKF data assimilation + weekly forecasts.
 %
 %   model_forecast_run(run_id, mmdd)
+%   model_forecast_run(run_id, mmdd, seed)
 %
 % run_id  row of config/Runs-description.xlsx to run (synthetic 1-140,
 %         real incidence 601-604)
 % mmdd    4-character date prefix for the output filename (e.g. '0725')
+% seed    random seed; defaults to run_id
 %
 % Loads all inputs, runs the day-by-day assimilation loop, forecasts every
 % week, and saves the whole workspace to results/model_runs/<mmdd>_<nickname>.mat
+%
+% The run is reproducible: the same run_id and seed give bit-identical output,
+% whenever and on whichever parallel worker it executes. Change the seed to
+% draw a different stochastic realisation.
 
 paths = setup_paths();
+
+%%%%%%%%%%%%%%%%%random seed
+% two independent streams have to be fixed: MATLAB's, used by rand/randi/
+% poissrnd in this file, and the one inside the integrate_model MEX.
+if nargin < 3 || isempty(seed)
+    seed = run_id;
+end
+rng(seed, 'twister');
+integrate_model(seed);
 
 % getting run info from description tables
 truths_description = readtable(paths.truths_description);

@@ -22,7 +22,7 @@ truth       = load(paths.real_stats);
 real_stats  = truth.real_stats;
 
 run_ids = 601:604;
-loc_countries = statecodes.Var3;   %#ok<NASGU> % kept for interactive inspection
+loc_countries = statecodes.Var3;   %#ok<NASGU>
 
 summary_filename = paths.real_group_file;
 fprintf('Output file: %s\n\n', summary_filename);
