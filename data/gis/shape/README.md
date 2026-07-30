@@ -15,3 +15,12 @@ data/gis/shape/politicalboundaries_shapefile/NA_PoliticalDivisions/data/boundari
 
 `src/plotting/plot_maps_NA.R` resolves that path automatically and stops with a
 clear message if the file is missing — no path editing required.
+
+-------------
+#### Term of use:
+
+*This material is licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), allowing non-exclusive rights to distribute, remix, adapt, and build upon the material in any medium or format, including for commercial purposes, so long as attribution is given to the creator.*
+
+#### Citation:
+
+*Commission for Environmental Cooperation (CEC). 2022. “North American Environmental Atlas - Political Boundaries”. Statistics Canada, United States Census Bureau, Instituto Nacional de Estadística y Geografía (INEGI). Ed. 3.0, Vector digital data [1:10,000,000]. Available at https://www.cec.org/north-american-environmental-atlas/political-boundaries-2021/*
