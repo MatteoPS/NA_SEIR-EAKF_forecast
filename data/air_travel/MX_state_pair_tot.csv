@@ -1,0 +1,272 @@
+"State_Pair","State1","State2","Country1","Country2","Total_Passengers","Number_of_Routes"
+"Mexico City-Quintana Roo","Mexico City","Quintana Roo","Mexico","Mexico",4570151,10
+"Jalisco-Mexico City","Jalisco","Mexico City","Mexico","Mexico",3543209,8
+"Mexico City-Nuevo León","Mexico City","Nuevo León","Mexico","Mexico",3175320,4
+"California-Jalisco","California","Jalisco","United States","Mexico",2624313,31
+"Baja California-Mexico City","Baja California","Mexico City","Mexico","Mexico",2214383,5
+"Quintana Roo-Texas","Quintana Roo","Texas","Mexico","United States",1842332,17
+"Mexico City-Texas","Mexico City","Texas","Mexico","United States",1829934,18
+"Baja California-Jalisco","Baja California","Jalisco","Mexico","Mexico",1778488,7
+"California-Mexico City","California","Mexico City","United States","Mexico",1588389,18
+"Mexico City-Yucatán","Mexico City","Yucatán","Mexico","Mexico",1414069,4
+"Florida-Mexico City","Florida","Mexico City","United States","Mexico",1315807,11
+"Chihuahua-Mexico City","Chihuahua","Mexico City","Mexico","Mexico",1289295,6
+"Mexico City-Oaxaca","Mexico City","Oaxaca","Mexico","Mexico",1266775,9
+"Chiapas-Mexico City","Chiapas","Mexico City","Mexico","Mexico",1235985,9
+"Mexico City-Sinaloa","Mexico City","Sinaloa","Mexico","Mexico",1075928,9
+"Florida-Quintana Roo","Florida","Quintana Roo","United States","Mexico",1003505,15
+"Jalisco-Texas","Jalisco","Texas","Mexico","United States",963784,19
+"Nuevo León-Quintana Roo","Nuevo León","Quintana Roo","Mexico","Mexico",956063,4
+"Mexico City-Tamaulipas","Mexico City","Tamaulipas","Mexico","Mexico",950733,12
+"Jalisco-Nuevo León","Jalisco","Nuevo León","Mexico","Mexico",826422,8
+"Mexico City-Sonora","Mexico City","Sonora","Mexico","Mexico",817240,6
+"Baja California-Sinaloa","Baja California","Sinaloa","Mexico","Mexico",810750,10
+"Mexico City-Veracruz","Mexico City","Veracruz","Mexico","Mexico",809645,12
+"Guerrero-Mexico City","Guerrero","Mexico City","Mexico","Mexico",807161,8
+"Mexico City-Tabasco","Mexico City","Tabasco","Mexico","Mexico",804267,2
+"Georgia-Quintana Roo","Georgia","Quintana Roo","United States","Mexico",793111,6
+"Ontario-Quintana Roo","Ontario","Quintana Roo","Canada","Mexico",783776,24
+"California-Quintana Roo","California","Quintana Roo","United States","Mexico",726442,12
+"Illinois-Quintana Roo","Illinois","Quintana Roo","United States","Mexico",712820,10
+"Mexico City-New York","Mexico City","New York","Mexico","United States",677143,4
+"Jalisco-Quintana Roo","Jalisco","Quintana Roo","Mexico","Mexico",649131,2
+"New York-Quintana Roo","New York","Quintana Roo","United States","Mexico",631104,6
+"Nuevo León-Texas","Nuevo León","Texas","Mexico","United States",627498,13
+"Coahuila-Mexico City","Coahuila","Mexico City","Mexico","Mexico",581481,10
+"Quebec-Quintana Roo","Quebec","Quintana Roo","Canada","Mexico",499413,13
+"Illinois-Mexico City","Illinois","Mexico City","United States","Mexico",493147,2
+"Campeche-Mexico City","Campeche","Mexico City","Mexico","Mexico",462433,4
+"Colorado-Quintana Roo","Colorado","Quintana Roo","United States","Mexico",454749,3
+"Georgia-Mexico City","Georgia","Mexico City","United States","Mexico",440341,3
+"New Jersey-Quintana Roo","New Jersey","Quintana Roo","United States","Mexico",406611,4
+"North Carolina-Quintana Roo","North Carolina","Quintana Roo","United States","Mexico",394412,8
+"Illinois-Jalisco","Illinois","Jalisco","United States","Mexico",393933,9
+"Guanajuato-Mexico City","Guanajuato","Mexico City","Mexico","Mexico",386447,4
+"Mexico City-Nevada","Mexico City","Nevada","Mexico","United States",384030,3
+"Chihuahua-Nuevo León","Chihuahua","Nuevo León","Mexico","Mexico",379219,8
+"Pennsylvania-Quintana Roo","Pennsylvania","Quintana Roo","United States","Mexico",350429,5
+"Baja California-Guanajuato","Baja California","Guanajuato","Mexico","Mexico",322818,3
+"Alberta-Quintana Roo","Alberta","Quintana Roo","Canada","Mexico",322761,10
+"Aguascalientes-Mexico City","Aguascalientes","Mexico City","Mexico","Mexico",317514,4
+"Jalisco-Sonora","Jalisco","Sonora","Mexico","Mexico",315631,7
+"Minnesota-Quintana Roo","Minnesota","Quintana Roo","United States","Mexico",314933,4
+"Baja California Sur-Mexico City","Baja California Sur","Mexico City","Mexico","Mexico",309065,4
+"Chihuahua-Jalisco","Chihuahua","Jalisco","Mexico","Mexico",299423,13
+"Baja California-Michoacán","Baja California","Michoacán","Mexico","Mexico",276823,4
+"Guanajuato-Texas","Guanajuato","Texas","Mexico","United States",274990,13
+"Mexico City-San Luis Potosí","Mexico City","San Luis Potosí","Mexico","Mexico",264747,4
+"Arizona-Jalisco","Arizona","Jalisco","United States","Mexico",255684,7
+"Guanajuato-Nuevo León","Guanajuato","Nuevo León","Mexico","Mexico",255593,4
+"Nuevo León-Sinaloa","Nuevo León","Sinaloa","Mexico","Mexico",248936,7
+"Baja California-Nuevo León","Baja California","Nuevo León","Mexico","Mexico",246541,4
+"Durango-Mexico City","Durango","Mexico City","Mexico","Mexico",236920,2
+"Mexico City-Ontario","Mexico City","Ontario","Mexico","Canada",228459,4
+"Jalisco-Sinaloa","Jalisco","Sinaloa","Mexico","Mexico",227726,9
+"New Hampshire-Quintana Roo","New Hampshire","Quintana Roo","United States","Mexico",226696,4
+"Alberta-Jalisco","Alberta","Jalisco","Canada","Mexico",223006,8
+"Michigan-Quintana Roo","Michigan","Quintana Roo","United States","Mexico",222896,10
+"Nuevo León-Sonora","Nuevo León","Sonora","Mexico","Mexico",220963,5
+"Quintana Roo-Veracruz","Quintana Roo","Veracruz","Mexico","Mexico",209079,2
+"District of Columbia-Quintana Roo","District of Columbia","Quintana Roo","United States","Mexico",207833,4
+"Colorado-Jalisco","Colorado","Jalisco","United States","Mexico",206749,6
+"Nuevo León-Querétaro","Nuevo León","Querétaro","Mexico","Mexico",205397,4
+"Jalisco-Nevada","Jalisco","Nevada","Mexico","United States",203027,6
+"Nuevo León-State of Mexico","Nuevo León","State of Mexico","Mexico","Mexico",199921,4
+"Nuevo León-Veracruz","Nuevo León","Veracruz","Mexico","Mexico",198660,2
+"Baja California-Sonora","Baja California","Sonora","Mexico","Mexico",194872,9
+"Maryland-Quintana Roo","Maryland","Quintana Roo","United States","Mexico",188237,4
+"Baja California Sur-Jalisco","Baja California Sur","Jalisco","Mexico","Mexico",186540,5
+"Querétaro-Texas","Querétaro","Texas","Mexico","United States",184976,10
+"Georgia-Jalisco","Georgia","Jalisco","United States","Mexico",184748,4
+"Nuevo León-Yucatán","Nuevo León","Yucatán","Mexico","Mexico",183561,3
+"California-Guanajuato","California","Guanajuato","United States","Mexico",181922,6
+"British Columbia-Quintana Roo","British Columbia","Quintana Roo","Canada","Mexico",175356,12
+"Colima-Mexico City","Colima","Mexico City","Mexico","Mexico",166504,8
+"British Columbia-Mexico City","British Columbia","Mexico City","Canada","Mexico",165886,5
+"British Columbia-Jalisco","British Columbia","Jalisco","Canada","Mexico",160591,18
+"Mexico City-Zacatecas","Mexico City","Zacatecas","Mexico","Mexico",155394,3
+"Missouri-Quintana Roo","Missouri","Quintana Roo","United States","Mexico",154098,6
+"District of Columbia-Mexico City","District of Columbia","Mexico City","United States","Mexico",153298,2
+"Nuevo León-Tamaulipas","Nuevo León","Tamaulipas","Mexico","Mexico",152292,7
+"Aguascalientes-Baja California","Aguascalientes","Baja California","Mexico","Mexico",150504,2
+"Mexico City-New Jersey","Mexico City","New Jersey","Mexico","United States",149430,2
+"Arizona-Quintana Roo","Arizona","Quintana Roo","United States","Mexico",147265,2
+"Nuevo León-Tabasco","Nuevo León","Tabasco","Mexico","Mexico",129400,3
+"Georgia-Nuevo León","Georgia","Nuevo León","United States","Mexico",128652,3
+"Jalisco-State of Mexico","Jalisco","State of Mexico","Mexico","Mexico",127380,7
+"Jalisco-Veracruz","Jalisco","Veracruz","Mexico","Mexico",124617,5
+"California-Michoacán","California","Michoacán","United States","Mexico",124186,6
+"Jalisco-Yucatán","Jalisco","Yucatán","Mexico","Mexico",120697,3
+"Baja California-Baja California Sur","Baja California","Baja California Sur","Mexico","Mexico",120207,4
+"Baja California Sur-Sinaloa","Baja California Sur","Sinaloa","Mexico","Mexico",119900,9
+"Quintana Roo-State of Mexico","Quintana Roo","State of Mexico","Mexico","Mexico",118911,5
+"Mexico City-Michoacán","Mexico City","Michoacán","Mexico","Mexico",115066,5
+"Mexico City-Quebec","Mexico City","Quebec","Mexico","Canada",114552,4
+"Nuevo León-Puebla","Nuevo León","Puebla","Mexico","Mexico",114488,4
+"Quintana Roo-Tamaulipas","Quintana Roo","Tamaulipas","Mexico","Mexico",114409,4
+"Guanajuato-Quintana Roo","Guanajuato","Quintana Roo","Mexico","Mexico",113118,3
+"San Luis Potosí-Texas","San Luis Potosí","Texas","Mexico","United States",111687,9
+"Puebla-Quintana Roo","Puebla","Quintana Roo","Mexico","Mexico",109967,2
+"Jalisco-Ontario","Jalisco","Ontario","Mexico","Canada",108424,9
+"Arizona-Mexico City","Arizona","Mexico City","United States","Mexico",104802,3
+"Chiapas-Nuevo León","Chiapas","Nuevo León","Mexico","Mexico",103338,6
+"Chiapas-Quintana Roo","Chiapas","Quintana Roo","Mexico","Mexico",101768,3
+"Massachusetts-Quintana Roo","Massachusetts","Quintana Roo","United States","Mexico",100943,4
+"Baja California-Chihuahua","Baja California","Chihuahua","Mexico","Mexico",99978,6
+"Ohio-Quintana Roo","Ohio","Quintana Roo","United States","Mexico",98010,9
+"Jalisco-Washington","Jalisco","Washington","Mexico","United States",94666,4
+"Chiapas-Jalisco","Chiapas","Jalisco","Mexico","Mexico",94433,6
+"Jalisco-Tabasco","Jalisco","Tabasco","Mexico","Mexico",93284,2
+"Illinois-Nuevo León","Illinois","Nuevo León","United States","Mexico",93042,3
+"Illinois-Michoacán","Illinois","Michoacán","United States","Mexico",88949,2
+"Mexico City-Michigan","Mexico City","Michigan","Mexico","United States",87761,2
+"Jalisco-Tamaulipas","Jalisco","Tamaulipas","Mexico","Mexico",87365,7
+"Quintana Roo-Utah","Quintana Roo","Utah","Mexico","United States",85760,2
+"Nevada-Nuevo León","Nevada","Nuevo León","United States","Mexico",85740,4
+"Tamaulipas-Veracruz","Tamaulipas","Veracruz","Mexico","Mexico",85159,6
+"Mexico City-Querétaro","Mexico City","Querétaro","Mexico","Mexico",83253,4
+"Aguascalientes-Texas","Aguascalientes","Texas","Mexico","United States",82238,7
+"Jalisco-Minnesota","Jalisco","Minnesota","Mexico","United States",80609,2
+"Baja California-Oaxaca","Baja California","Oaxaca","Mexico","Mexico",79861,2
+"Quintana Roo-Tabasco","Quintana Roo","Tabasco","Mexico","Mexico",76617,4
+"Mexico City-Utah","Mexico City","Utah","Mexico","United States",75662,2
+"Baja California-Nayarit","Baja California","Nayarit","Mexico","Mexico",74869,2
+"Baja California-Durango","Baja California","Durango","Mexico","Mexico",74501,2
+"Arizona-Sinaloa","Arizona","Sinaloa","United States","Mexico",73512,8
+"California-Guerrero","California","Guerrero","United States","Mexico",73126,9
+"Chihuahua-Texas","Chihuahua","Texas","Mexico","United States",72097,11
+"Texas-Yucatán","Texas","Yucatán","United States","Mexico",70724,4
+"Querétaro-Quintana Roo","Querétaro","Quintana Roo","Mexico","Mexico",69803,5
+"Baja California-Puebla","Baja California","Puebla","Mexico","Mexico",68909,2
+"Baja California-Zacatecas","Baja California","Zacatecas","Mexico","Mexico",68696,2
+"Jalisco-Oregon","Jalisco","Oregon","Mexico","United States",67182,4
+"Baja California-Colima","Baja California","Colima","Mexico","Mexico",66780,2
+"Florida-Jalisco","Florida","Jalisco","United States","Mexico",65619,6
+"Baja California-Guerrero","Baja California","Guerrero","Mexico","Mexico",65362,2
+"Massachusetts-Mexico City","Massachusetts","Mexico City","United States","Mexico",61690,2
+"Colorado-Mexico City","Colorado","Mexico City","United States","Mexico",61107,2
+"Nuevo León-Oaxaca","Nuevo León","Oaxaca","Mexico","Mexico",59810,4
+"California-Sinaloa","California","Sinaloa","United States","Mexico",59426,4
+"Guerrero-Nuevo León","Guerrero","Nuevo León","Mexico","Mexico",59344,6
+"Mexico City-North Carolina","Mexico City","North Carolina","Mexico","United States",58764,3
+"Chihuahua-Sonora","Chihuahua","Sonora","Mexico","Mexico",56589,8
+"Manitoba-Quintana Roo","Manitoba","Quintana Roo","Canada","Mexico",55782,4
+"Baja California Sur-Sonora","Baja California Sur","Sonora","Mexico","Mexico",55701,4
+"Jalisco-Utah","Jalisco","Utah","Mexico","United States",54404,4
+"Jalisco-New York","Jalisco","New York","Mexico","United States",53970,4
+"New York-Nuevo León","New York","Nuevo León","United States","Mexico",53830,2
+"California-Zacatecas","California","Zacatecas","United States","Mexico",53456,2
+"Quintana Roo-Washington","Quintana Roo","Washington","Mexico","United States",53151,2
+"Michoacán-Texas","Michoacán","Texas","Mexico","United States",52879,4
+"Quintana Roo-Saskatchewan","Quintana Roo","Saskatchewan","Mexico","Canada",52368,8
+"Coahuila-Jalisco","Coahuila","Jalisco","Mexico","Mexico",49976,7
+"Puebla-Texas","Puebla","Texas","Mexico","United States",49168,7
+"Quintana Roo-Wisconsin","Quintana Roo","Wisconsin","Mexico","United States",48220,7
+"Tabasco-Yucatán","Tabasco","Yucatán","Mexico","Mexico",47963,4
+"Aguascalientes-California","Aguascalientes","California","Mexico","United States",47894,2
+"Georgia-Guanajuato","Georgia","Guanajuato","United States","Mexico",46793,2
+"Aguascalientes-Quintana Roo","Aguascalientes","Quintana Roo","Mexico","Mexico",44571,4
+"Jalisco-Quebec","Jalisco","Quebec","Mexico","Canada",44333,6
+"Mexico City-Nayarit","Mexico City","Nayarit","Mexico","Mexico",44232,4
+"Quintana Roo-San Luis Potosí","Quintana Roo","San Luis Potosí","Mexico","Mexico",44198,4
+"Baja California Sur-California","Baja California Sur","California","Mexico","United States",43549,5
+"Sinaloa-Sonora","Sinaloa","Sonora","Mexico","Mexico",43446,12
+"Baja California-Querétaro","Baja California","Querétaro","Mexico","Mexico",42553,3
+"Illinois-Zacatecas","Illinois","Zacatecas","United States","Mexico",42283,3
+"Texas-Veracruz","Texas","Veracruz","United States","Mexico",40639,4
+"Jalisco-Saskatchewan","Jalisco","Saskatchewan","Mexico","Canada",38636,8
+"Guerrero-Texas","Guerrero","Texas","Mexico","United States",38029,6
+"Jalisco-Manitoba","Jalisco","Manitoba","Mexico","Canada",37496,4
+"Coahuila-Texas","Coahuila","Texas","Mexico","United States",36920,14
+"Alberta-Sinaloa","Alberta","Sinaloa","Canada","Mexico",36319,4
+"Florida-Yucatán","Florida","Yucatán","United States","Mexico",36070,5
+"Tabasco-Veracruz","Tabasco","Veracruz","Mexico","Mexico",35419,5
+"Jalisco-New Jersey","Jalisco","New Jersey","Mexico","United States",34864,2
+"Nuevo León-San Luis Potosí","Nuevo León","San Luis Potosí","Mexico","Mexico",33561,4
+"Chihuahua-Sinaloa","Chihuahua","Sinaloa","Mexico","Mexico",33208,12
+"California-Colima","California","Colima","United States","Mexico",33080,2
+"Guerrero-State of Mexico","Guerrero","State of Mexico","Mexico","Mexico",32874,6
+"Guanajuato-Illinois","Guanajuato","Illinois","Mexico","United States",32231,2
+"Chihuahua-Guanajuato","Chihuahua","Guanajuato","Mexico","Mexico",32228,6
+"Nova Scotia-Quintana Roo","Nova Scotia","Quintana Roo","Canada","Mexico",31947,4
+"Kentucky-Quintana Roo","Kentucky","Quintana Roo","United States","Mexico",31833,4
+"Chihuahua-Coahuila","Chihuahua","Coahuila","Mexico","Mexico",30987,16
+"Arizona-Sonora","Arizona","Sonora","United States","Mexico",30720,7
+"Oaxaca-Ontario","Oaxaca","Ontario","Mexico","Canada",30717,4
+"Jalisco-New Hampshire","Jalisco","New Hampshire","Mexico","United States",30190,4
+"Tabasco-Tamaulipas","Tabasco","Tamaulipas","Mexico","Mexico",30143,4
+"Alberta-Guerrero","Alberta","Guerrero","Canada","Mexico",29167,3
+"Minnesota-Sinaloa","Minnesota","Sinaloa","United States","Mexico",28620,2
+"Oaxaca-Texas","Oaxaca","Texas","Mexico","United States",27839,4
+"Tamaulipas-Texas","Tamaulipas","Texas","Mexico","United States",26870,5
+"Guanajuato-Jalisco","Guanajuato","Jalisco","Mexico","Mexico",26716,5
+"Durango-Illinois","Durango","Illinois","Mexico","United States",26092,2
+"Jalisco-Michigan","Jalisco","Michigan","Mexico","United States",25049,6
+"Alberta-Oaxaca","Alberta","Oaxaca","Canada","Mexico",25020,2
+"Durango-Nuevo León","Durango","Nuevo León","Mexico","Mexico",24943,2
+"Chihuahua-Quintana Roo","Chihuahua","Quintana Roo","Mexico","Mexico",24503,8
+"Jalisco-Querétaro","Jalisco","Querétaro","Mexico","Mexico",24342,8
+"Quintana Roo-Tennessee","Quintana Roo","Tennessee","Mexico","United States",23772,6
+"Sinaloa-Texas","Sinaloa","Texas","Mexico","United States",23690,2
+"Baja California-Coahuila","Baja California","Coahuila","Mexico","Mexico",23409,2
+"Baja California-Veracruz","Baja California","Veracruz","Mexico","Mexico",22443,2
+"California-Sonora","California","Sonora","United States","Mexico",22437,4
+"Jalisco-Oaxaca","Jalisco","Oaxaca","Mexico","Mexico",22342,5
+"Campeche-Veracruz","Campeche","Veracruz","Mexico","Mexico",21709,5
+"Durango-Jalisco","Durango","Jalisco","Mexico","Mexico",21467,5
+"Tabasco-Texas","Tabasco","Texas","Mexico","United States",21293,2
+"Veracruz-Yucatán","Veracruz","Yucatán","Mexico","Mexico",20885,2
+"Baja California-Quintana Roo","Baja California","Quintana Roo","Mexico","Mexico",20829,2
+"Guerrero-Minnesota","Guerrero","Minnesota","Mexico","United States",20647,2
+"New Brunswick-Quintana Roo","New Brunswick","Quintana Roo","Canada","Mexico",20098,8
+"Nayarit-State of Mexico","Nayarit","State of Mexico","Mexico","Mexico",19478,4
+"Baja California-California","Baja California","California","Mexico","United States",18910,5
+"Jalisco-Puebla","Jalisco","Puebla","Mexico","Mexico",18846,5
+"Aguascalientes-Nuevo León","Aguascalientes","Nuevo León","Mexico","Mexico",18803,2
+"Chiapas-Yucatán","Chiapas","Yucatán","Mexico","Mexico",18075,2
+"Alberta-Colima","Alberta","Colima","Canada","Mexico",16091,4
+"Indiana-Quintana Roo","Indiana","Quintana Roo","United States","Mexico",15807,4
+"British Columbia-Sinaloa","British Columbia","Sinaloa","Canada","Mexico",15338,2
+"Louisiana-Quintana Roo","Louisiana","Quintana Roo","United States","Mexico",14889,5
+"Baja California-San Luis Potosí","Baja California","San Luis Potosí","Mexico","Mexico",14364,2
+"Guerrero-Ontario","Guerrero","Ontario","Mexico","Canada",14158,4
+"Chihuahua-Colorado","Chihuahua","Colorado","Mexico","United States",13949,2
+"Aguascalientes-Jalisco","Aguascalientes","Jalisco","Mexico","Mexico",13678,4
+"Campeche-Tamaulipas","Campeche","Tamaulipas","Mexico","Mexico",13532,2
+"Florida-Nuevo León","Florida","Nuevo León","United States","Mexico",13277,5
+"Colima-State of Mexico","Colima","State of Mexico","Mexico","Mexico",12580,2
+"Arizona-Guerrero","Arizona","Guerrero","United States","Mexico",12343,2
+"Guerrero-Quebec","Guerrero","Quebec","Mexico","Canada",12248,6
+"Morelos-Nuevo León","Morelos","Nuevo León","Mexico","Mexico",11893,2
+"Chiapas-State of Mexico","Chiapas","State of Mexico","Mexico","Mexico",11594,6
+"Texas-Zacatecas","Texas","Zacatecas","United States","Mexico",11547,4
+"British Columbia-Oaxaca","British Columbia","Oaxaca","Canada","Mexico",10925,5
+"Jalisco-Morelos","Jalisco","Morelos","Mexico","Mexico",10772,2
+"California-Durango","California","Durango","United States","Mexico",10494,2
+"Campeche-Texas","Campeche","Texas","Mexico","United States",10456,6
+"Michigan-Nuevo León","Michigan","Nuevo León","United States","Mexico",9918,5
+"Oaxaca-State of Mexico","Oaxaca","State of Mexico","Mexico","Mexico",9420,6
+"Connecticut-Quintana Roo","Connecticut","Quintana Roo","United States","Mexico",9039,2
+"Oaxaca-Saskatchewan","Oaxaca","Saskatchewan","Mexico","Canada",8978,6
+"Alberta-Baja California Sur","Alberta","Baja California Sur","Canada","Mexico",8426,2
+"State of Mexico-Veracruz","State of Mexico","Veracruz","Mexico","Mexico",7759,5
+"Ontario-Sinaloa","Ontario","Sinaloa","Canada","Mexico",7718,2
+"Guerrero-Jalisco","Guerrero","Jalisco","Mexico","Mexico",7660,6
+"Guerrero-Saskatchewan","Guerrero","Saskatchewan","Mexico","Canada",7647,7
+"Jalisco-Wisconsin","Jalisco","Wisconsin","Mexico","United States",7613,2
+"Jalisco-San Luis Potosí","Jalisco","San Luis Potosí","Mexico","Mexico",7557,7
+"Guerrero-Illinois","Guerrero","Illinois","Mexico","United States",7263,4
+"Guerrero-Querétaro","Guerrero","Querétaro","Mexico","Mexico",7213,4
+"Coahuila-Nuevo León","Coahuila","Nuevo León","Mexico","Mexico",6735,8
+"Ontario-Yucatán","Ontario","Yucatán","Canada","Mexico",6063,2
+"Baja California Sur-Nuevo León","Baja California Sur","Nuevo León","Mexico","Mexico",5858,2
+"Colima-Texas","Colima","Texas","Mexico","United States",5471,2
+"Coahuila-Guanajuato","Coahuila","Guanajuato","Mexico","Mexico",5424,7
+"Guerrero-Manitoba","Guerrero","Manitoba","Mexico","Canada",5401,4
+"Nevada-State of Mexico","Nevada","State of Mexico","United States","Mexico",5401,2
+"Manitoba-Oaxaca","Manitoba","Oaxaca","Canada","Mexico",5156,4
+"Colima-Ontario","Colima","Ontario","Mexico","Canada",5025,2
+"Illinois-Oaxaca","Illinois","Oaxaca","United States","Mexico",4876,2
+"British Columbia-Colima","British Columbia","Colima","Canada","Mexico",4368,2
+"British Columbia-Guerrero","British Columbia","Guerrero","Canada","Mexico",4345,2
+"Colima-Minnesota","Colima","Minnesota","Mexico","United States",4018,2

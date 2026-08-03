@@ -1,0 +1,17 @@
+EN
+-----
+Commission for Environmental Cooperation (CEC). 2022. “North American Environmental Atlas - Political Boundaries”. Statistics Canada, United States Census Bureau, Instituto Nacional de Estadística y Geografía (INEGI). Ed. 3.0, Vector digital data [1:10,000,000]. Available at https://www.cec.org/north-american-environmental-atlas/political-boundaries-2021/
+
+------------------------------
+
+ES
+-----
+Comisión para la Cooperación Ambiental (CCA). 2022. “Atlas ambiental de América del Norte - Fronteras políticas”. Statistics Canada, United States Census Bureau, Instituto Nacional de Estadística y Geografía (INEGI). Ed. 3.0, Datos digitales vectoriales [1:10,000,000]. Disponible en https://www.cec.org/es/atlas-ambiental-de-america-del-norte/fronteras-politicas-2021/
+
+------------------------------
+
+FR
+-----
+Commission de coopération environnementale (CCE). 2022. «Atlas environnemental de l'Amérique du Nord - Frontières politiques». Statistique Canada, United States Census Bureau, Instituto Nacional de Estadística y Geografía (INEGI). Ed. 3.0, Données numériques vectorielles [1:10 000 000]. Disponible à l'adresse suivante: https://www.cec.org/fr/atlas-environnemental-de-lamerique-du-nord/frontieres-politiques-2021/
+
+------------------------------

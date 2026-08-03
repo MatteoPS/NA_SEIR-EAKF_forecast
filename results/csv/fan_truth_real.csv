@@ -1,0 +1,311 @@
+dataset,truth_id,nick,strain,beta,seed_loc,loc_row,loc_name,country,week,week_date,truth_100k
+real,tr00,real,,NaN,,84,Texas,US,1,2020-01-20,0
+real,tr00,real,,NaN,,10,California,US,1,2020-01-20,0
+real,tr00,real,,NaN,,66,Ontario,CA,1,2020-01-20,0
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,1,2020-01-20,0
+real,tr00,real,,NaN,,55,New York,US,1,2020-01-20,0
+real,tr00,real,,NaN,,84,Texas,US,2,2020-01-27,0
+real,tr00,real,,NaN,,10,California,US,2,2020-01-27,0
+real,tr00,real,,NaN,,66,Ontario,CA,2,2020-01-27,0
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,2,2020-01-27,0
+real,tr00,real,,NaN,,55,New York,US,2,2020-01-27,0
+real,tr00,real,,NaN,,84,Texas,US,3,2020-02-03,0
+real,tr00,real,,NaN,,10,California,US,3,2020-02-03,0
+real,tr00,real,,NaN,,66,Ontario,CA,3,2020-02-03,0
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,3,2020-02-03,0
+real,tr00,real,,NaN,,55,New York,US,3,2020-02-03,0
+real,tr00,real,,NaN,,84,Texas,US,4,2020-02-10,0
+real,tr00,real,,NaN,,10,California,US,4,2020-02-10,0
+real,tr00,real,,NaN,,66,Ontario,CA,4,2020-02-10,0
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,4,2020-02-10,0
+real,tr00,real,,NaN,,55,New York,US,4,2020-02-10,0
+real,tr00,real,,NaN,,84,Texas,US,5,2020-02-17,0
+real,tr00,real,,NaN,,10,California,US,5,2020-02-17,0
+real,tr00,real,,NaN,,66,Ontario,CA,5,2020-02-17,0
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,5,2020-02-17,0
+real,tr00,real,,NaN,,55,New York,US,5,2020-02-17,0
+real,tr00,real,,NaN,,84,Texas,US,6,2020-02-24,0
+real,tr00,real,,NaN,,10,California,US,6,2020-02-24,0
+real,tr00,real,,NaN,,66,Ontario,CA,6,2020-02-24,0
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,6,2020-02-24,0
+real,tr00,real,,NaN,,55,New York,US,6,2020-02-24,0
+real,tr00,real,,NaN,,84,Texas,US,7,2020-03-02,0
+real,tr00,real,,NaN,,10,California,US,7,2020-03-02,0
+real,tr00,real,,NaN,,66,Ontario,CA,7,2020-03-02,0
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,7,2020-03-02,0
+real,tr00,real,,NaN,,55,New York,US,7,2020-03-02,1
+real,tr00,real,,NaN,,84,Texas,US,8,2020-03-09,0
+real,tr00,real,,NaN,,10,California,US,8,2020-03-09,1
+real,tr00,real,,NaN,,66,Ontario,CA,8,2020-03-09,1
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,8,2020-03-09,0
+real,tr00,real,,NaN,,55,New York,US,8,2020-03-09,6
+real,tr00,real,,NaN,,84,Texas,US,9,2020-03-16,2
+real,tr00,real,,NaN,,10,California,US,9,2020-03-16,4
+real,tr00,real,,NaN,,66,Ontario,CA,9,2020-03-16,3
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,9,2020-03-16,1
+real,tr00,real,,NaN,,55,New York,US,9,2020-03-16,120
+real,tr00,real,,NaN,,84,Texas,US,10,2020-03-23,9
+real,tr00,real,,NaN,,10,California,US,10,2020-03-23,14
+real,tr00,real,,NaN,,66,Ontario,CA,10,2020-03-23,9
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,10,2020-03-23,2
+real,tr00,real,,NaN,,55,New York,US,10,2020-03-23,248
+real,tr00,real,,NaN,,84,Texas,US,11,2020-03-30,17
+real,tr00,real,,NaN,,10,California,US,11,2020-03-30,21
+real,tr00,real,,NaN,,66,Ontario,CA,11,2020-03-30,23
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,11,2020-03-30,3
+real,tr00,real,,NaN,,55,New York,US,11,2020-03-30,312
+real,tr00,real,,NaN,,84,Texas,US,12,2020-04-06,22
+real,tr00,real,,NaN,,10,California,US,12,2020-04-06,19
+real,tr00,real,,NaN,,66,Ontario,CA,12,2020-04-06,23
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,12,2020-04-06,5
+real,tr00,real,,NaN,,55,New York,US,12,2020-04-06,314
+real,tr00,real,,NaN,,84,Texas,US,13,2020-04-13,19
+real,tr00,real,,NaN,,10,California,US,13,2020-04-13,25
+real,tr00,real,,NaN,,66,Ontario,CA,13,2020-04-13,27
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,13,2020-04-13,9
+real,tr00,real,,NaN,,55,New York,US,13,2020-04-13,245
+real,tr00,real,,NaN,,84,Texas,US,14,2020-04-20,21
+real,tr00,real,,NaN,,10,California,US,14,2020-04-20,30
+real,tr00,real,,NaN,,66,Ontario,CA,14,2020-04-20,24
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,14,2020-04-20,14
+real,tr00,real,,NaN,,55,New York,US,14,2020-04-20,215
+real,tr00,real,,NaN,,84,Texas,US,15,2020-04-27,25
+real,tr00,real,,NaN,,10,California,US,15,2020-04-27,28
+real,tr00,real,,NaN,,66,Ontario,CA,15,2020-04-27,21
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,15,2020-04-27,16
+real,tr00,real,,NaN,,55,New York,US,15,2020-04-27,129
+real,tr00,real,,NaN,,84,Texas,US,16,2020-05-04,26
+real,tr00,real,,NaN,,10,California,US,16,2020-05-04,33
+real,tr00,real,,NaN,,66,Ontario,CA,16,2020-05-04,18
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,16,2020-05-04,20
+real,tr00,real,,NaN,,55,New York,US,16,2020-05-04,86
+real,tr00,real,,NaN,,84,Texas,US,17,2020-05-11,30
+real,tr00,real,,NaN,,10,California,US,17,2020-05-11,31
+real,tr00,real,,NaN,,66,Ontario,CA,17,2020-05-11,18
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,17,2020-05-11,25
+real,tr00,real,,NaN,,55,New York,US,17,2020-05-11,71
+real,tr00,real,,NaN,,84,Texas,US,18,2020-05-18,23
+real,tr00,real,,NaN,,10,California,US,18,2020-05-18,38
+real,tr00,real,,NaN,,66,Ontario,CA,18,2020-05-18,19
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,18,2020-05-18,28
+real,tr00,real,,NaN,,55,New York,US,18,2020-05-18,54
+real,tr00,real,,NaN,,84,Texas,US,19,2020-05-25,34
+real,tr00,real,,NaN,,10,California,US,19,2020-05-25,47
+real,tr00,real,,NaN,,66,Ontario,CA,19,2020-05-25,18
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,19,2020-05-25,29
+real,tr00,real,,NaN,,55,New York,US,19,2020-05-25,46
+real,tr00,real,,NaN,,84,Texas,US,20,2020-06-01,37
+real,tr00,real,,NaN,,10,California,US,20,2020-06-01,46
+real,tr00,real,,NaN,,66,Ontario,CA,20,2020-06-01,17
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,20,2020-06-01,34
+real,tr00,real,,NaN,,55,New York,US,20,2020-06-01,32
+real,tr00,real,,NaN,,84,Texas,US,21,2020-06-08,55
+real,tr00,real,,NaN,,10,California,US,21,2020-06-08,51
+real,tr00,real,,NaN,,66,Ontario,CA,21,2020-06-08,10
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,21,2020-06-08,31
+real,tr00,real,,NaN,,55,New York,US,21,2020-06-08,25
+real,tr00,real,,NaN,,84,Texas,US,22,2020-06-15,93
+real,tr00,real,,NaN,,10,California,US,22,2020-06-15,75
+real,tr00,real,,NaN,,66,Ontario,CA,22,2020-06-15,9
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,22,2020-06-15,27
+real,tr00,real,,NaN,,55,New York,US,22,2020-06-15,22
+real,tr00,real,,NaN,,84,Texas,US,23,2020-06-22,136
+real,tr00,real,,NaN,,10,California,US,23,2020-06-22,115
+real,tr00,real,,NaN,,66,Ontario,CA,23,2020-06-22,9
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,23,2020-06-22,25
+real,tr00,real,,NaN,,55,New York,US,23,2020-06-22,22
+real,tr00,real,,NaN,,84,Texas,US,24,2020-06-29,174
+real,tr00,real,,NaN,,10,California,US,24,2020-06-29,124
+real,tr00,real,,NaN,,66,Ontario,CA,24,2020-06-29,6
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,24,2020-06-29,25
+real,tr00,real,,NaN,,55,New York,US,24,2020-06-29,24
+real,tr00,real,,NaN,,84,Texas,US,25,2020-07-06,209
+real,tr00,real,,NaN,,10,California,US,25,2020-07-06,149
+real,tr00,real,,NaN,,66,Ontario,CA,25,2020-07-06,6
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,25,2020-07-06,23
+real,tr00,real,,NaN,,55,New York,US,25,2020-07-06,24
+real,tr00,real,,NaN,,84,Texas,US,26,2020-07-13,241
+real,tr00,real,,NaN,,10,California,US,26,2020-07-13,163
+real,tr00,real,,NaN,,66,Ontario,CA,26,2020-07-13,7
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,26,2020-07-13,26
+real,tr00,real,,NaN,,55,New York,US,26,2020-07-13,25
+real,tr00,real,,NaN,,84,Texas,US,27,2020-07-20,180
+real,tr00,real,,NaN,,10,California,US,27,2020-07-20,166
+real,tr00,real,,NaN,,66,Ontario,CA,27,2020-07-20,7
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,27,2020-07-20,24
+real,tr00,real,,NaN,,55,New York,US,27,2020-07-20,23
+real,tr00,real,,NaN,,84,Texas,US,28,2020-07-27,195
+real,tr00,real,,NaN,,10,California,US,28,2020-07-27,134
+real,tr00,real,,NaN,,66,Ontario,CA,28,2020-07-27,5
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,28,2020-07-27,23
+real,tr00,real,,NaN,,55,New York,US,28,2020-07-27,23
+real,tr00,real,,NaN,,84,Texas,US,29,2020-08-03,170
+real,tr00,real,,NaN,,10,California,US,29,2020-08-03,139
+real,tr00,real,,NaN,,66,Ontario,CA,29,2020-08-03,4
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,29,2020-08-03,22
+real,tr00,real,,NaN,,55,New York,US,29,2020-08-03,22
+real,tr00,real,,NaN,,84,Texas,US,30,2020-08-10,170
+real,tr00,real,,NaN,,10,California,US,30,2020-08-10,147
+real,tr00,real,,NaN,,66,Ontario,CA,30,2020-08-10,4
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,30,2020-08-10,21
+real,tr00,real,,NaN,,55,New York,US,30,2020-08-10,23
+real,tr00,real,,NaN,,84,Texas,US,31,2020-08-17,125
+real,tr00,real,,NaN,,10,California,US,31,2020-08-17,102
+real,tr00,real,,NaN,,66,Ontario,CA,31,2020-08-17,5
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,31,2020-08-17,20
+real,tr00,real,,NaN,,55,New York,US,31,2020-08-17,21
+real,tr00,real,,NaN,,84,Texas,US,32,2020-08-24,105
+real,tr00,real,,NaN,,10,California,US,32,2020-08-24,88
+real,tr00,real,,NaN,,66,Ontario,CA,32,2020-08-24,6
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,32,2020-08-24,21
+real,tr00,real,,NaN,,55,New York,US,32,2020-08-24,23
+real,tr00,real,,NaN,,84,Texas,US,33,2020-08-31,84
+real,tr00,real,,NaN,,10,California,US,33,2020-08-31,76
+real,tr00,real,,NaN,,66,Ontario,CA,33,2020-08-31,8
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,33,2020-08-31,22
+real,tr00,real,,NaN,,55,New York,US,33,2020-08-31,25
+real,tr00,real,,NaN,,84,Texas,US,34,2020-09-07,92
+real,tr00,real,,NaN,,10,California,US,34,2020-09-07,56
+real,tr00,real,,NaN,,66,Ontario,CA,34,2020-09-07,11
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,34,2020-09-07,20
+real,tr00,real,,NaN,,55,New York,US,34,2020-09-07,25
+real,tr00,real,,NaN,,84,Texas,US,35,2020-09-14,163
+real,tr00,real,,NaN,,10,California,US,35,2020-09-14,61
+real,tr00,real,,NaN,,66,Ontario,CA,35,2020-09-14,19
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,35,2020-09-14,19
+real,tr00,real,,NaN,,55,New York,US,35,2020-09-14,27
+real,tr00,real,,NaN,,84,Texas,US,36,2020-09-21,93
+real,tr00,real,,NaN,,10,California,US,36,2020-09-21,58
+real,tr00,real,,NaN,,66,Ontario,CA,36,2020-09-21,23
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,36,2020-09-21,19
+real,tr00,real,,NaN,,55,New York,US,36,2020-09-21,32
+real,tr00,real,,NaN,,84,Texas,US,37,2020-09-28,103
+real,tr00,real,,NaN,,10,California,US,37,2020-09-28,53
+real,tr00,real,,NaN,,66,Ontario,CA,37,2020-09-28,30
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,37,2020-09-28,16
+real,tr00,real,,NaN,,55,New York,US,37,2020-09-28,46
+real,tr00,real,,NaN,,84,Texas,US,38,2020-10-05,92
+real,tr00,real,,NaN,,10,California,US,38,2020-10-05,61
+real,tr00,real,,NaN,,66,Ontario,CA,38,2020-10-05,37
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,38,2020-10-05,15
+real,tr00,real,,NaN,,55,New York,US,38,2020-10-05,49
+real,tr00,real,,NaN,,84,Texas,US,39,2020-10-12,114
+real,tr00,real,,NaN,,10,California,US,39,2020-10-12,55
+real,tr00,real,,NaN,,66,Ontario,CA,39,2020-10-12,35
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,39,2020-10-12,16
+real,tr00,real,,NaN,,55,New York,US,39,2020-10-12,48
+real,tr00,real,,NaN,,84,Texas,US,40,2020-10-19,140
+real,tr00,real,,NaN,,10,California,US,40,2020-10-19,76
+real,tr00,real,,NaN,,66,Ontario,CA,40,2020-10-19,43
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,40,2020-10-19,17
+real,tr00,real,,NaN,,55,New York,US,40,2020-10-19,60
+real,tr00,real,,NaN,,84,Texas,US,41,2020-10-26,391
+real,tr00,real,,NaN,,10,California,US,41,2020-10-26,77
+real,tr00,real,,NaN,,66,Ontario,CA,41,2020-10-26,46
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,41,2020-10-26,17
+real,tr00,real,,NaN,,55,New York,US,41,2020-10-26,74
+real,tr00,real,,NaN,,84,Texas,US,42,2020-11-02,218
+real,tr00,real,,NaN,,10,California,US,42,2020-11-02,108
+real,tr00,real,,NaN,,66,Ontario,CA,42,2020-11-02,58
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,42,2020-11-02,20
+real,tr00,real,,NaN,,55,New York,US,42,2020-11-02,111
+real,tr00,real,,NaN,,84,Texas,US,43,2020-11-09,268
+real,tr00,real,,NaN,,10,California,US,43,2020-11-09,154
+real,tr00,real,,NaN,,66,Ontario,CA,43,2020-11-09,67
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,43,2020-11-09,20
+real,tr00,real,,NaN,,55,New York,US,43,2020-11-09,162
+real,tr00,real,,NaN,,84,Texas,US,44,2020-11-16,302
+real,tr00,real,,NaN,,10,California,US,44,2020-11-16,222
+real,tr00,real,,NaN,,66,Ontario,CA,44,2020-11-16,67
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,44,2020-11-16,26
+real,tr00,real,,NaN,,55,New York,US,44,2020-11-16,189
+real,tr00,real,,NaN,,84,Texas,US,45,2020-11-23,272
+real,tr00,real,,NaN,,10,California,US,45,2020-11-23,252
+real,tr00,real,,NaN,,66,Ontario,CA,45,2020-11-23,81
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,45,2020-11-23,32
+real,tr00,real,,NaN,,55,New York,US,45,2020-11-23,239
+real,tr00,real,,NaN,,84,Texas,US,46,2020-11-30,369
+real,tr00,real,,NaN,,10,California,US,46,2020-11-30,416
+real,tr00,real,,NaN,,66,Ontario,CA,46,2020-11-30,86
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,46,2020-11-30,46
+real,tr00,real,,NaN,,55,New York,US,46,2020-11-30,333
+real,tr00,real,,NaN,,84,Texas,US,47,2020-12-07,329
+real,tr00,real,,NaN,,10,California,US,47,2020-12-07,576
+real,tr00,real,,NaN,,66,Ontario,CA,47,2020-12-07,92
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,47,2020-12-07,53
+real,tr00,real,,NaN,,55,New York,US,47,2020-12-07,357
+real,tr00,real,,NaN,,84,Texas,US,48,2020-12-14,386
+real,tr00,real,,NaN,,10,California,US,48,2020-12-14,778
+real,tr00,real,,NaN,,66,Ontario,CA,48,2020-12-14,109
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,48,2020-12-14,54
+real,tr00,real,,NaN,,55,New York,US,48,2020-12-14,357
+real,tr00,real,,NaN,,84,Texas,US,49,2020-12-21,353
+real,tr00,real,,NaN,,10,California,US,49,2020-12-21,663
+real,tr00,real,,NaN,,66,Ontario,CA,49,2020-12-21,107
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,49,2020-12-21,49
+real,tr00,real,,NaN,,55,New York,US,49,2020-12-21,382
+real,tr00,real,,NaN,,84,Texas,US,50,2020-12-28,436
+real,tr00,real,,NaN,,10,California,US,50,2020-12-28,671
+real,tr00,real,,NaN,,66,Ontario,CA,50,2020-12-28,149
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,50,2020-12-28,51
+real,tr00,real,,NaN,,55,New York,US,50,2020-12-28,480
+real,tr00,real,,NaN,,84,Texas,US,51,2021-01-04,522
+real,tr00,real,,NaN,,10,California,US,51,2021-01-04,746
+real,tr00,real,,NaN,,66,Ontario,CA,51,2021-01-04,165
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,51,2021-01-04,68
+real,tr00,real,,NaN,,55,New York,US,51,2021-01-04,566
+real,tr00,real,,NaN,,84,Texas,US,52,2021-01-11,479
+real,tr00,real,,NaN,,10,California,US,52,2021-01-11,631
+real,tr00,real,,NaN,,66,Ontario,CA,52,2021-01-11,139
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,52,2021-01-11,70
+real,tr00,real,,NaN,,55,New York,US,52,2021-01-11,508
+real,tr00,real,,NaN,,84,Texas,US,53,2021-01-18,474
+real,tr00,real,,NaN,,10,California,US,53,2021-01-18,395
+real,tr00,real,,NaN,,66,Ontario,CA,53,2021-01-18,108
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,53,2021-01-18,66
+real,tr00,real,,NaN,,55,New York,US,53,2021-01-18,455
+real,tr00,real,,NaN,,84,Texas,US,54,2021-01-25,488
+real,tr00,real,,NaN,,10,California,US,54,2021-01-25,297
+real,tr00,real,,NaN,,66,Ontario,CA,54,2021-01-25,82
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,54,2021-01-25,46
+real,tr00,real,,NaN,,55,New York,US,54,2021-01-25,383
+real,tr00,real,,NaN,,84,Texas,US,55,2021-02-01,306
+real,tr00,real,,NaN,,10,California,US,55,2021-02-01,212
+real,tr00,real,,NaN,,66,Ontario,CA,55,2021-02-01,64
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,55,2021-02-01,39
+real,tr00,real,,NaN,,55,New York,US,55,2021-02-01,296
+real,tr00,real,,NaN,,84,Texas,US,56,2021-02-08,215
+real,tr00,real,,NaN,,10,California,US,56,2021-02-08,145
+real,tr00,real,,NaN,,66,Ontario,CA,56,2021-02-08,51
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,56,2021-02-08,33
+real,tr00,real,,NaN,,55,New York,US,56,2021-02-08,276
+real,tr00,real,,NaN,,84,Texas,US,57,2021-02-15,134
+real,tr00,real,,NaN,,10,California,US,57,2021-02-15,96
+real,tr00,real,,NaN,,66,Ontario,CA,57,2021-02-15,52
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,57,2021-02-15,31
+real,tr00,real,,NaN,,55,New York,US,57,2021-02-15,241
+real,tr00,real,,NaN,,84,Texas,US,58,2021-02-22,169
+real,tr00,real,,NaN,,10,California,US,58,2021-02-22,80
+real,tr00,real,,NaN,,66,Ontario,CA,58,2021-02-22,52
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,58,2021-02-22,30
+real,tr00,real,,NaN,,55,New York,US,58,2021-02-22,252
+real,tr00,real,,NaN,,84,Texas,US,59,2021-03-01,139
+real,tr00,real,,NaN,,10,California,US,59,2021-03-01,71
+real,tr00,real,,NaN,,66,Ontario,CA,59,2021-03-01,58
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,59,2021-03-01,26
+real,tr00,real,,NaN,,55,New York,US,59,2021-03-01,252
+real,tr00,real,,NaN,,84,Texas,US,60,2021-03-08,112
+real,tr00,real,,NaN,,10,California,US,60,2021-03-08,51
+real,tr00,real,,NaN,,66,Ontario,CA,60,2021-03-08,65
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,60,2021-03-08,20
+real,tr00,real,,NaN,,55,New York,US,60,2021-03-08,239
+real,tr00,real,,NaN,,84,Texas,US,61,2021-03-15,84
+real,tr00,real,,NaN,,10,California,US,61,2021-03-15,50
+real,tr00,real,,NaN,,66,Ontario,CA,61,2021-03-15,81
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,61,2021-03-15,22
+real,tr00,real,,NaN,,55,New York,US,61,2021-03-15,194
+real,tr00,real,,NaN,,84,Texas,US,62,2021-03-22,93
+real,tr00,real,,NaN,,10,California,US,62,2021-03-22,46
+real,tr00,real,,NaN,,66,Ontario,CA,62,2021-03-22,106
+real,tr00,real,,NaN,,22,Estado de Mexico,MX,62,2021-03-22,20
+real,tr00,real,,NaN,,55,New York,US,62,2021-03-22,342

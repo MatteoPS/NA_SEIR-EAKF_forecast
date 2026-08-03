@@ -1,0 +1,97 @@
+ID,State,CountryCode,Color,Population
+1,Aguascalientes,MX,green,1425607
+2,Alabama,US,blue,5024279
+3,Alaska,US,blue,733391
+4,Alberta,CA,red,4443773
+5,Arizona,US,blue,7151502
+6,Arkansas,US,blue,3011524
+7,Baja California,MX,green,3769020
+8,Baja California Sur,MX,green,798447
+9,British Columbia,CA,red,5202378
+10,California,US,blue,39538223
+11,Campeche,MX,green,928363
+12,Chiapas,MX,green,5543828
+13,Chihuahua,MX,green,3741869
+14,Coahuila de Zaragoza,MX,green,3146771
+15,Colima,MX,green,731391
+16,Colorado,US,blue,5773714
+17,Connecticut,US,blue,3605944
+18,Delaware,US,blue,989948
+19,District of Columbia,US,blue,689545
+20,Distrito Federal,MX,green,9209944
+21,Durango,MX,green,1832650
+22,Estado de Mexico,MX,green,16992418
+23,Florida,US,blue,21538187
+24,Georgia,US,blue,10711908
+25,Guanajuato,MX,green,6166934
+26,Guerrero,MX,green,3540685
+27,Hawaii,US,blue,1455271
+28,Hidalgo,MX,green,3082841
+29,Idaho,US,blue,1839106
+30,Illinois,US,blue,12801989
+31,Indiana,US,blue,6785528
+32,Iowa,US,blue,3271616
+33,Jalisco,MX,green,8348151
+34,Kansas,US,blue,2937880
+35,Kentucky,US,blue,4505836
+36,Louisiana,US,blue,4657757
+37,Maine,US,blue,1362359
+38,Manitoba,CA,red,1391979
+39,Maryland,US,blue,6177224
+40,Massachusetts,US,blue,7029917
+41,Michigan,US,blue,10077331
+42,Michoacan de Ocampo,MX,green,4748846
+43,Minnesota,US,blue,5706494
+44,Mississippi,US,blue,2961279
+45,Missouri,US,blue,6154913
+46,Montana,US,blue,1084225
+47,Morelos,MX,green,1971520
+48,Nayarit,MX,green,1235456
+49,Nebraska,US,blue,1961504
+50,Nevada,US,blue,3104614
+51,New Brunswick,CA,red,790398
+52,New Hampshire,US,blue,1377529
+53,New Jersey,US,blue,9288994
+54,New Mexico,US,blue,2117522
+55,New York,US,blue,20201249
+56,Newfoundland and Labrador,CA,red,520452
+57,North Carolina,US,blue,10439388
+58,North Dakota,US,blue,779094
+59,Northwest Territories,CA,red,45597
+60,Nova Scotia,CA,red,991117
+61,Nuevo Leon,MX,green,5784442
+62,Nunavut,CA,red,39711
+63,Oaxaca,MX,green,4132148
+64,Ohio,US,blue,11799448
+65,Oklahoma,US,blue,3959353
+66,Ontario,CA,red,14809257
+67,Oregon,US,blue,4237256
+68,Pennsylvania,US,blue,13002700
+69,Prince Edward Island,CA,red,164758
+70,Puebla,MX,green,6583278
+71,Quebec,CA,red,8602335
+72,Queretaro,MX,green,2368467
+73,Quintana Roo,MX,green,1857985
+74,Rhode Island,US,blue,1097379
+75,San Luis Potosi,MX,green,2822255
+76,Saskatchewan,CA,red,1181493
+77,Sinaloa,MX,green,3026943
+78,Sonora,MX,green,2944840
+79,South Carolina,US,blue,5118425
+80,South Dakota,US,blue,886667
+81,Tabasco,MX,green,2402598
+82,Tamaulipas,MX,green,3527735
+83,Tennessee,US,blue,6910840
+84,Texas,US,blue,29145505
+85,Tlaxcala,MX,green,1342977
+86,Utah,US,blue,3205958
+87,Veracruz de Ignacio de la Llave,MX,green,8062579
+88,Vermont,US,blue,643077
+89,Virginia,US,blue,8631393
+90,Washington,US,blue,7705281
+91,West Virginia,US,blue,1793716
+92,Wisconsin,US,blue,5893718
+93,Wyoming,US,blue,576851
+94,Yucatan,MX,green,2320898
+95,Yukon,CA,red,43250
+96,Zacatecas,MX,green,1622138

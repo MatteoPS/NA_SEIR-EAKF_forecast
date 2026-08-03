@@ -1,0 +1,81 @@
+group_id,label,target,metric,rel_val,n_samples,strain,flights,commuting,stochastic,capped
+nf_p_ls_pois,No Flight – patch - lowest,onset100,mean_mae,1.000000,655.8,ls,nf,p,y,0
+f_p_ls_pois,Flight – patch - lowest,onset100,mean_mae,0.939949,655.8,ls,f,p,y,0
+nf_n_ls_pois,No Flight – Network - lowest,onset100,mean_mae,0.839113,655.8,ls,nf,n,y,0
+f_n_ls_pois,Flight – Network - lowest,onset100,mean_mae,0.792593,655.8,ls,f,n,y,0
+nf_p_lo_pois,No Flight – patch - low,onset100,mean_mae,1.000000,651.2,lo,nf,p,y,0
+f_p_lo_pois,Flight – patch - low,onset100,mean_mae,0.803246,651.2,lo,f,p,y,0
+nf_n_lo_pois,No Flight – Network - low,onset100,mean_mae,0.699062,651.2,lo,nf,n,y,0
+f_n_lo_pois,Flight – Network - low,onset100,mean_mae,0.618776,651.2,lo,f,n,y,0
+nf_p_me_pois,No Flight – patch - medium,onset100,mean_mae,1.000000,518.2,me,nf,p,y,0
+f_p_me_pois,Flight – patch - medium,onset100,mean_mae,0.769782,518.2,me,f,p,y,0
+nf_n_me_pois,No Flight – Network - medium,onset100,mean_mae,0.689901,518.2,me,nf,n,y,0
+f_n_me_pois,Flight – Network - medium,onset100,mean_mae,0.626508,518.2,me,f,n,y,0
+nf_p_hi_pois,No Flight – patch - high,onset100,mean_mae,1.000000,520.0,hi,nf,p,y,0
+f_p_hi_pois,Flight – patch - high,onset100,mean_mae,0.804624,520.0,hi,f,p,y,0
+nf_n_hi_pois,No Flight – Network - high,onset100,mean_mae,0.730625,520.0,hi,nf,n,y,0
+f_n_hi_pois,Flight – Network - high,onset100,mean_mae,0.658970,520.0,hi,f,n,y,0
+nf_p_hs_pois,No Flight – patch - highest,onset100,mean_mae,1.000000,400.3,hs,nf,p,y,0
+f_p_hs_pois,Flight – patch - highest,onset100,mean_mae,0.812682,400.3,hs,f,p,y,0
+nf_n_hs_pois,No Flight – Network - highest,onset100,mean_mae,0.725380,400.3,hs,nf,n,y,0
+f_n_hs_pois,Flight – Network - highest,onset100,mean_mae,0.660347,400.3,hs,f,n,y,0
+nf_p_ls_pois,No Flight – patch - lowest,onset100,mean_wis,1.000000,655.8,ls,nf,p,y,0
+f_p_ls_pois,Flight – patch - lowest,onset100,mean_wis,0.967990,655.8,ls,f,p,y,0
+nf_n_ls_pois,No Flight – Network - lowest,onset100,mean_wis,0.842689,655.8,ls,nf,n,y,0
+f_n_ls_pois,Flight – Network - lowest,onset100,mean_wis,0.803675,655.8,ls,f,n,y,0
+nf_p_lo_pois,No Flight – patch - low,onset100,mean_wis,1.000000,651.2,lo,nf,p,y,0
+f_p_lo_pois,Flight – patch - low,onset100,mean_wis,0.856531,651.2,lo,f,p,y,0
+nf_n_lo_pois,No Flight – Network - low,onset100,mean_wis,0.753580,651.2,lo,nf,n,y,0
+f_n_lo_pois,Flight – Network - low,onset100,mean_wis,0.707346,651.2,lo,f,n,y,0
+nf_p_me_pois,No Flight – patch - medium,onset100,mean_wis,1.000000,518.2,me,nf,p,y,0
+f_p_me_pois,Flight – patch - medium,onset100,mean_wis,0.871312,518.2,me,f,p,y,0
+nf_n_me_pois,No Flight – Network - medium,onset100,mean_wis,0.839905,518.2,me,nf,n,y,0
+f_n_me_pois,Flight – Network - medium,onset100,mean_wis,0.799451,518.2,me,f,n,y,0
+nf_p_hi_pois,No Flight – patch - high,onset100,mean_wis,1.000000,520.0,hi,nf,p,y,0
+f_p_hi_pois,Flight – patch - high,onset100,mean_wis,0.858286,520.0,hi,f,p,y,0
+nf_n_hi_pois,No Flight – Network - high,onset100,mean_wis,0.810476,520.0,hi,nf,n,y,0
+f_n_hi_pois,Flight – Network - high,onset100,mean_wis,0.746170,520.0,hi,f,n,y,0
+nf_p_hs_pois,No Flight – patch - highest,onset100,mean_wis,1.000000,400.3,hs,nf,p,y,0
+f_p_hs_pois,Flight – patch - highest,onset100,mean_wis,0.885344,400.3,hs,f,p,y,0
+nf_n_hs_pois,No Flight – Network - highest,onset100,mean_wis,0.830672,400.3,hs,nf,n,y,0
+f_n_hs_pois,Flight – Network - highest,onset100,mean_wis,0.773873,400.3,hs,f,n,y,0
+nf_p_ls_pois,No Flight – patch - lowest,onset150,mean_mae,1.000000,657.1,ls,nf,p,y,0
+f_p_ls_pois,Flight – patch - lowest,onset150,mean_mae,0.972060,657.1,ls,f,p,y,0
+nf_n_ls_pois,No Flight – Network - lowest,onset150,mean_mae,0.862515,657.1,ls,nf,n,y,0
+f_n_ls_pois,Flight – Network - lowest,onset150,mean_mae,0.840216,657.1,ls,f,n,y,0
+nf_p_lo_pois,No Flight – patch - low,onset150,mean_mae,1.000000,652.9,lo,nf,p,y,0
+f_p_lo_pois,Flight – patch - low,onset150,mean_mae,0.827124,652.9,lo,f,p,y,0
+nf_n_lo_pois,No Flight – Network - low,onset150,mean_mae,0.717734,652.9,lo,nf,n,y,0
+f_n_lo_pois,Flight – Network - low,onset150,mean_mae,0.648321,652.9,lo,f,n,y,0
+nf_p_me_pois,No Flight – patch - medium,onset150,mean_mae,1.000000,539.8,me,nf,p,y,0
+f_p_me_pois,Flight – patch - medium,onset150,mean_mae,0.782897,539.8,me,f,p,y,0
+nf_n_me_pois,No Flight – Network - medium,onset150,mean_mae,0.704096,539.8,me,nf,n,y,0
+f_n_me_pois,Flight – Network - medium,onset150,mean_mae,0.639081,539.8,me,f,n,y,0
+nf_p_hi_pois,No Flight – patch - high,onset150,mean_mae,1.000000,540.0,hi,nf,p,y,0
+f_p_hi_pois,Flight – patch - high,onset150,mean_mae,0.824117,540.0,hi,f,p,y,0
+nf_n_hi_pois,No Flight – Network - high,onset150,mean_mae,0.751414,540.0,hi,nf,n,y,0
+f_n_hi_pois,Flight – Network - high,onset150,mean_mae,0.682249,540.0,hi,f,n,y,0
+nf_p_hs_pois,No Flight – patch - highest,onset150,mean_mae,1.000000,417.3,hs,nf,p,y,0
+f_p_hs_pois,Flight – patch - highest,onset150,mean_mae,0.821173,417.3,hs,f,p,y,0
+nf_n_hs_pois,No Flight – Network - highest,onset150,mean_mae,0.747818,417.3,hs,nf,n,y,0
+f_n_hs_pois,Flight – Network - highest,onset150,mean_mae,0.684926,417.3,hs,f,n,y,0
+nf_p_ls_pois,No Flight – patch - lowest,onset150,mean_wis,1.000000,657.1,ls,nf,p,y,0
+f_p_ls_pois,Flight – patch - lowest,onset150,mean_wis,1.005486,657.1,ls,f,p,y,0
+nf_n_ls_pois,No Flight – Network - lowest,onset150,mean_wis,0.848362,657.1,ls,nf,n,y,0
+f_n_ls_pois,Flight – Network - lowest,onset150,mean_wis,0.839738,657.1,ls,f,n,y,0
+nf_p_lo_pois,No Flight – patch - low,onset150,mean_wis,1.000000,652.9,lo,nf,p,y,0
+f_p_lo_pois,Flight – patch - low,onset150,mean_wis,0.869399,652.9,lo,f,p,y,0
+nf_n_lo_pois,No Flight – Network - low,onset150,mean_wis,0.752500,652.9,lo,nf,n,y,0
+f_n_lo_pois,Flight – Network - low,onset150,mean_wis,0.713763,652.9,lo,f,n,y,0
+nf_p_me_pois,No Flight – patch - medium,onset150,mean_wis,1.000000,539.8,me,nf,p,y,0
+f_p_me_pois,Flight – patch - medium,onset150,mean_wis,0.873897,539.8,me,f,p,y,0
+nf_n_me_pois,No Flight – Network - medium,onset150,mean_wis,0.833465,539.8,me,nf,n,y,0
+f_n_me_pois,Flight – Network - medium,onset150,mean_wis,0.791522,539.8,me,f,n,y,0
+nf_p_hi_pois,No Flight – patch - high,onset150,mean_wis,1.000000,540.0,hi,nf,p,y,0
+f_p_hi_pois,Flight – patch - high,onset150,mean_wis,0.870696,540.0,hi,f,p,y,0
+nf_n_hi_pois,No Flight – Network - high,onset150,mean_wis,0.817949,540.0,hi,nf,n,y,0
+f_n_hi_pois,Flight – Network - high,onset150,mean_wis,0.756369,540.0,hi,f,n,y,0
+nf_p_hs_pois,No Flight – patch - highest,onset150,mean_wis,1.000000,417.3,hs,nf,p,y,0
+f_p_hs_pois,Flight – patch - highest,onset150,mean_wis,0.873883,417.3,hs,f,p,y,0
+nf_n_hs_pois,No Flight – Network - highest,onset150,mean_wis,0.841916,417.3,hs,nf,n,y,0
+f_n_hs_pois,Flight – Network - highest,onset150,mean_wis,0.787539,417.3,hs,f,n,y,0
