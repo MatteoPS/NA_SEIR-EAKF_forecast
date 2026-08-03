@@ -1,0 +1,2601 @@
+dataset,truth_id,nick,strain,beta,seed_loc,loc_row,loc_name,country,week,week_date,truth_100k
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,1,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,1,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,1,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,1,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,1,NaT,35
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,2,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,2,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,2,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,2,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,2,NaT,37
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,3,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,3,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,3,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,3,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,3,NaT,45
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,4,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,4,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,4,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,4,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,4,NaT,53
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,5,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,5,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,5,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,5,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,5,NaT,68
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,6,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,6,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,6,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,6,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,6,NaT,86
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,7,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,7,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,7,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,7,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,7,NaT,106
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,8,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,8,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,8,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,8,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,8,NaT,133
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,9,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,9,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,9,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,9,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,9,NaT,165
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,10,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,10,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,10,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,10,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,10,NaT,203
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,11,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,11,NaT,2
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,11,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,11,NaT,0
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,11,NaT,242
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,12,NaT,2
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,12,NaT,3
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,12,NaT,2
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,12,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,12,NaT,280
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,13,NaT,3
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,13,NaT,3
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,13,NaT,2
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,13,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,13,NaT,336
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,14,NaT,4
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,14,NaT,5
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,14,NaT,3
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,14,NaT,1
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,14,NaT,385
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,15,NaT,6
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,15,NaT,6
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,15,NaT,4
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,15,NaT,2
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,15,NaT,436
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,16,NaT,7
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,16,NaT,9
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,16,NaT,6
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,16,NaT,3
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,16,NaT,460
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,17,NaT,9
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,17,NaT,11
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,17,NaT,8
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,17,NaT,4
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,17,NaT,511
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,18,NaT,13
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,18,NaT,15
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,18,NaT,10
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,18,NaT,5
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,18,NaT,562
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,19,NaT,18
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,19,NaT,21
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,19,NaT,13
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,19,NaT,7
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,19,NaT,562
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,20,NaT,22
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,20,NaT,27
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,20,NaT,17
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,20,NaT,9
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,20,NaT,571
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,21,NaT,30
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,21,NaT,36
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,21,NaT,24
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,21,NaT,12
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,21,NaT,561
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,22,NaT,40
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,22,NaT,49
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,22,NaT,33
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,22,NaT,16
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,22,NaT,525
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,23,NaT,52
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,23,NaT,58
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,23,NaT,39
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,23,NaT,23
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,23,NaT,458
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,24,NaT,72
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,24,NaT,80
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,24,NaT,52
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,24,NaT,29
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,24,NaT,442
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,25,NaT,87
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,25,NaT,99
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,25,NaT,73
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,25,NaT,40
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,25,NaT,380
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,26,NaT,114
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,26,NaT,126
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,26,NaT,89
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,26,NaT,52
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,26,NaT,352
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,27,NaT,137
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,27,NaT,173
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,27,NaT,119
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,27,NaT,72
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,27,NaT,301
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,28,NaT,184
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,28,NaT,204
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,28,NaT,155
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,28,NaT,90
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,28,NaT,244
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,29,NaT,216
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,29,NaT,245
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,29,NaT,193
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,29,NaT,119
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,29,NaT,203
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,30,NaT,272
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,30,NaT,320
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,30,NaT,238
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,30,NaT,154
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,30,NaT,169
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,31,NaT,317
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,31,NaT,370
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,31,NaT,289
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,31,NaT,192
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,31,NaT,152
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,32,NaT,409
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,32,NaT,433
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,32,NaT,347
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,32,NaT,237
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,32,NaT,120
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,33,NaT,455
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,33,NaT,501
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,33,NaT,417
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,33,NaT,280
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,33,NaT,108
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,34,NaT,495
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,34,NaT,519
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,34,NaT,446
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,34,NaT,351
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,34,NaT,88
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,35,NaT,582
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,35,NaT,568
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,35,NaT,537
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,35,NaT,427
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,35,NaT,76
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,36,NaT,584
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,36,NaT,633
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,36,NaT,578
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,36,NaT,461
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,36,NaT,60
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,37,NaT,564
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,37,NaT,600
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,37,NaT,622
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,37,NaT,541
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,37,NaT,53
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,38,NaT,622
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,38,NaT,590
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,38,NaT,606
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,38,NaT,571
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,38,NaT,45
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,39,NaT,541
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,39,NaT,525
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,39,NaT,594
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,39,NaT,585
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,39,NaT,38
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,40,NaT,513
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,40,NaT,531
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,40,NaT,544
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,40,NaT,627
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,40,NaT,36
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,41,NaT,485
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,41,NaT,450
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,41,NaT,513
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,41,NaT,586
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,41,NaT,32
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,42,NaT,434
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,42,NaT,406
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,42,NaT,440
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,42,NaT,591
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,42,NaT,26
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,43,NaT,373
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,43,NaT,331
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,43,NaT,421
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,43,NaT,555
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,43,NaT,23
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,44,NaT,300
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,44,NaT,275
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,44,NaT,316
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,44,NaT,476
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,44,NaT,19
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,45,NaT,249
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,45,NaT,218
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,45,NaT,285
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,45,NaT,440
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,45,NaT,16
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,46,NaT,200
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,46,NaT,195
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,46,NaT,226
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,46,NaT,377
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,46,NaT,14
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,47,NaT,165
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,47,NaT,150
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,47,NaT,182
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,47,NaT,293
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,47,NaT,12
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,48,NaT,138
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,48,NaT,117
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,48,NaT,156
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,48,NaT,259
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,48,NaT,10
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,49,NaT,108
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,49,NaT,92
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,49,NaT,122
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,49,NaT,199
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,49,NaT,9
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,50,NaT,85
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,50,NaT,75
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,50,NaT,93
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,50,NaT,159
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,50,NaT,8
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,51,NaT,69
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,51,NaT,56
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,51,NaT,77
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,51,NaT,127
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,51,NaT,7
+synth,tr01,tr01_ls_NY,ls,0.8,NY,84,Texas,US,52,NaT,55
+synth,tr01,tr01_ls_NY,ls,0.8,NY,10,California,US,52,NaT,48
+synth,tr01,tr01_ls_NY,ls,0.8,NY,66,Ontario,CA,52,NaT,56
+synth,tr01,tr01_ls_NY,ls,0.8,NY,22,Estado de Mexico,MX,52,NaT,105
+synth,tr01,tr01_ls_NY,ls,0.8,NY,55,New York,US,52,NaT,5
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,1,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,1,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,1,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,1,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,1,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,2,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,2,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,2,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,2,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,2,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,3,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,3,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,3,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,3,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,3,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,4,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,4,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,4,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,4,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,4,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,5,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,5,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,5,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,5,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,5,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,6,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,6,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,6,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,6,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,6,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,7,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,7,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,7,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,7,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,7,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,8,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,8,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,8,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,8,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,8,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,9,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,9,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,9,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,9,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,9,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,10,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,10,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,10,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,10,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,10,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,11,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,11,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,11,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,11,NaT,0
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,11,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,12,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,12,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,12,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,12,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,12,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,13,NaT,3
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,13,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,13,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,13,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,13,NaT,3
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,14,NaT,5
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,14,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,14,NaT,3
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,14,NaT,1
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,14,NaT,4
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,15,NaT,6
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,15,NaT,3
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,15,NaT,4
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,15,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,15,NaT,5
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,16,NaT,8
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,16,NaT,4
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,16,NaT,4
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,16,NaT,2
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,16,NaT,8
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,17,NaT,11
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,17,NaT,6
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,17,NaT,5
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,17,NaT,3
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,17,NaT,11
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,18,NaT,15
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,18,NaT,8
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,18,NaT,7
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,18,NaT,5
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,18,NaT,14
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,19,NaT,20
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,19,NaT,11
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,19,NaT,9
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,19,NaT,6
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,19,NaT,19
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,20,NaT,26
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,20,NaT,14
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,20,NaT,12
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,20,NaT,8
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,20,NaT,24
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,21,NaT,36
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,21,NaT,19
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,21,NaT,16
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,21,NaT,11
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,21,NaT,31
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,22,NaT,48
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,22,NaT,25
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,22,NaT,20
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,22,NaT,14
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,22,NaT,44
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,23,NaT,60
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,23,NaT,32
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,23,NaT,26
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,23,NaT,19
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,23,NaT,56
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,24,NaT,73
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,24,NaT,42
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,24,NaT,33
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,24,NaT,26
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,24,NaT,71
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,25,NaT,98
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,25,NaT,53
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,25,NaT,41
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,25,NaT,32
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,25,NaT,91
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,26,NaT,119
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,26,NaT,69
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,26,NaT,58
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,26,NaT,45
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,26,NaT,124
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,27,NaT,153
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,27,NaT,91
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,27,NaT,73
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,27,NaT,60
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,27,NaT,148
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,28,NaT,189
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,28,NaT,118
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,28,NaT,95
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,28,NaT,74
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,28,NaT,178
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,29,NaT,234
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,29,NaT,143
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,29,NaT,109
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,29,NaT,94
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,29,NaT,230
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,30,NaT,294
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,30,NaT,192
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,30,NaT,138
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,30,NaT,128
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,30,NaT,278
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,31,NaT,355
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,31,NaT,238
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,31,NaT,178
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,31,NaT,157
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,31,NaT,332
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,32,NaT,424
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,32,NaT,287
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,32,NaT,222
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,32,NaT,199
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,32,NaT,405
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,33,NaT,444
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,33,NaT,353
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,33,NaT,275
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,33,NaT,245
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,33,NaT,447
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,34,NaT,492
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,34,NaT,401
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,34,NaT,331
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,34,NaT,297
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,34,NaT,508
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,35,NaT,575
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,35,NaT,460
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,35,NaT,396
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,35,NaT,364
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,35,NaT,566
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,36,NaT,595
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,36,NaT,523
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,36,NaT,461
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,36,NaT,425
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,36,NaT,572
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,37,NaT,570
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,37,NaT,596
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,37,NaT,514
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,37,NaT,484
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,37,NaT,597
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,38,NaT,576
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,38,NaT,608
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,38,NaT,568
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,38,NaT,564
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,38,NaT,568
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,39,NaT,529
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,39,NaT,590
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,39,NaT,614
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,39,NaT,601
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,39,NaT,566
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,40,NaT,518
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,40,NaT,598
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,40,NaT,624
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,40,NaT,611
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,40,NaT,505
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,41,NaT,485
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,41,NaT,571
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,41,NaT,577
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,41,NaT,641
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,41,NaT,458
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,42,NaT,413
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,42,NaT,552
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,42,NaT,613
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,42,NaT,624
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,42,NaT,409
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,43,NaT,336
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,43,NaT,464
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,43,NaT,528
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,43,NaT,575
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,43,NaT,349
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,44,NaT,283
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,44,NaT,390
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,44,NaT,486
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,44,NaT,521
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,44,NaT,301
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,45,NaT,242
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,45,NaT,352
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,45,NaT,434
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,45,NaT,445
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,45,NaT,245
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,46,NaT,202
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,46,NaT,284
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,46,NaT,374
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,46,NaT,388
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,46,NaT,184
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,47,NaT,163
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,47,NaT,241
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,47,NaT,314
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,47,NaT,351
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,47,NaT,161
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,48,NaT,141
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,48,NaT,195
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,48,NaT,249
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,48,NaT,290
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,48,NaT,127
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,49,NaT,108
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,49,NaT,155
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,49,NaT,222
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,49,NaT,224
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,49,NaT,101
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,50,NaT,83
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,50,NaT,125
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,50,NaT,172
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,50,NaT,198
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,50,NaT,83
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,51,NaT,64
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,51,NaT,100
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,51,NaT,137
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,51,NaT,157
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,51,NaT,65
+synth,tr05,tr05_ls_GA,ls,0.8,GA,84,Texas,US,52,NaT,48
+synth,tr05,tr05_ls_GA,ls,0.8,GA,10,California,US,52,NaT,79
+synth,tr05,tr05_ls_GA,ls,0.8,GA,66,Ontario,CA,52,NaT,107
+synth,tr05,tr05_ls_GA,ls,0.8,GA,22,Estado de Mexico,MX,52,NaT,127
+synth,tr05,tr05_ls_GA,ls,0.8,GA,55,New York,US,52,NaT,49
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,1,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,1,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,1,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,1,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,1,NaT,35
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,2,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,2,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,2,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,2,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,2,NaT,49
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,3,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,3,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,3,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,3,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,3,NaT,78
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,4,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,4,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,4,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,4,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,4,NaT,132
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,5,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,5,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,5,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,5,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,5,NaT,208
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,6,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,6,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,6,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,6,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,6,NaT,333
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,7,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,7,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,7,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,7,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,7,NaT,514
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,8,NaT,3
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,8,NaT,4
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,8,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,8,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,8,NaT,768
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,9,NaT,6
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,9,NaT,7
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,9,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,9,NaT,4
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,9,NaT,1097
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,10,NaT,11
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,10,NaT,12
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,10,NaT,3
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,10,NaT,7
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,10,NaT,1463
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,11,NaT,21
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,11,NaT,23
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,11,NaT,6
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,11,NaT,12
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,11,NaT,1835
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,12,NaT,36
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,12,NaT,41
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,12,NaT,10
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,12,NaT,21
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,12,NaT,1805
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,13,NaT,62
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,13,NaT,73
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,13,NaT,18
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,13,NaT,36
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,13,NaT,1761
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,14,NaT,104
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,14,NaT,127
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,14,NaT,32
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,14,NaT,66
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,14,NaT,1613
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,15,NaT,164
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,15,NaT,204
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,15,NaT,56
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,15,NaT,109
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,15,NaT,1224
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,16,NaT,279
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,16,NaT,326
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,16,NaT,108
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,16,NaT,180
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,16,NaT,857
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,17,NaT,466
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,17,NaT,509
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,17,NaT,177
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,17,NaT,306
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,17,NaT,613
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,18,NaT,711
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,18,NaT,813
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,18,NaT,312
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,18,NaT,509
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,18,NaT,449
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,19,NaT,1016
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,19,NaT,1182
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,19,NaT,488
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,19,NaT,792
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,19,NaT,292
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,20,NaT,1426
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,20,NaT,1515
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,20,NaT,742
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,20,NaT,1117
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,20,NaT,198
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,21,NaT,1733
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,21,NaT,1842
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,21,NaT,1131
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,21,NaT,1559
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,21,NaT,135
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,22,NaT,1897
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,22,NaT,1988
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,22,NaT,1409
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,22,NaT,1872
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,22,NaT,97
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,23,NaT,1924
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,23,NaT,1636
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,23,NaT,1865
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,23,NaT,1944
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,23,NaT,71
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,24,NaT,1534
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,24,NaT,1428
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,24,NaT,1934
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,24,NaT,1770
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,24,NaT,50
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,25,NaT,1130
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,25,NaT,985
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,25,NaT,1855
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,25,NaT,1475
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,25,NaT,36
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,26,NaT,836
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,26,NaT,772
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,26,NaT,1502
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,26,NaT,1106
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,26,NaT,27
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,27,NaT,598
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,27,NaT,494
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,27,NaT,1050
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,27,NaT,805
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,27,NaT,21
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,28,NaT,358
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,28,NaT,305
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,28,NaT,749
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,28,NaT,537
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,28,NaT,15
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,29,NaT,235
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,29,NaT,191
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,29,NaT,481
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,29,NaT,372
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,29,NaT,10
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,30,NaT,152
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,30,NaT,121
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,30,NaT,311
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,30,NaT,211
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,30,NaT,7
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,31,NaT,85
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,31,NaT,74
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,31,NaT,199
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,31,NaT,133
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,31,NaT,6
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,32,NaT,52
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,32,NaT,49
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,32,NaT,113
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,32,NaT,92
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,32,NaT,4
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,33,NaT,36
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,33,NaT,28
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,33,NaT,71
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,33,NaT,54
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,33,NaT,3
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,34,NaT,21
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,34,NaT,16
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,34,NaT,40
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,34,NaT,34
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,34,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,35,NaT,13
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,35,NaT,10
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,35,NaT,27
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,35,NaT,20
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,35,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,36,NaT,9
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,36,NaT,7
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,36,NaT,15
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,36,NaT,15
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,36,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,37,NaT,6
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,37,NaT,4
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,37,NaT,9
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,37,NaT,9
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,37,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,38,NaT,3
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,38,NaT,3
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,38,NaT,6
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,38,NaT,6
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,38,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,39,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,39,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,39,NaT,3
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,39,NaT,4
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,39,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,40,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,40,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,40,NaT,3
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,40,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,40,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,41,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,41,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,41,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,41,NaT,2
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,41,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,42,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,42,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,42,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,42,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,42,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,43,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,43,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,43,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,43,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,43,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,44,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,44,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,44,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,44,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,44,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,45,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,45,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,45,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,45,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,45,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,46,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,46,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,46,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,46,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,46,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,47,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,47,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,47,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,47,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,47,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,48,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,48,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,48,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,48,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,48,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,49,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,49,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,49,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,49,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,49,NaT,1
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,50,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,50,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,50,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,50,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,50,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,51,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,51,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,51,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,51,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,51,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,84,Texas,US,52,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,10,California,US,52,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,66,Ontario,CA,52,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,22,Estado de Mexico,MX,52,NaT,0
+synth,tr08,tr08_lo_NY,lo,1,NY,55,New York,US,52,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,1,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,1,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,1,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,1,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,1,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,2,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,2,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,2,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,2,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,2,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,3,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,3,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,3,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,3,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,3,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,4,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,4,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,4,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,4,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,4,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,5,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,5,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,5,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,5,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,5,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,6,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,6,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,6,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,6,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,6,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,7,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,7,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,7,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,7,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,7,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,8,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,8,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,8,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,8,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,8,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,9,NaT,5
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,9,NaT,4
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,9,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,9,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,9,NaT,6
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,10,NaT,10
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,10,NaT,7
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,10,NaT,5
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,10,NaT,4
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,10,NaT,10
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,11,NaT,19
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,11,NaT,12
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,11,NaT,8
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,11,NaT,7
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,11,NaT,18
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,12,NaT,34
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,12,NaT,20
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,12,NaT,14
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,12,NaT,13
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,12,NaT,32
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,13,NaT,58
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,13,NaT,36
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,13,NaT,24
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,13,NaT,21
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,13,NaT,53
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,14,NaT,101
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,14,NaT,59
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,14,NaT,42
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,14,NaT,41
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,14,NaT,91
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,15,NaT,164
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,15,NaT,103
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,15,NaT,69
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,15,NaT,67
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,15,NaT,144
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,16,NaT,268
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,16,NaT,172
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,16,NaT,117
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,16,NaT,119
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,16,NaT,238
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,17,NaT,424
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,17,NaT,274
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,17,NaT,185
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,17,NaT,190
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,17,NaT,403
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,18,NaT,658
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,18,NaT,436
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,18,NaT,316
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,18,NaT,341
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,18,NaT,615
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,19,NaT,996
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,19,NaT,716
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,19,NaT,473
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,19,NaT,498
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,19,NaT,927
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,20,NaT,1397
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,20,NaT,1013
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,20,NaT,739
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,20,NaT,775
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,20,NaT,1260
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,21,NaT,1745
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,21,NaT,1408
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,21,NaT,1144
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,21,NaT,1219
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,21,NaT,1656
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,22,NaT,2010
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,22,NaT,1671
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,22,NaT,1434
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,22,NaT,1499
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,22,NaT,1802
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,23,NaT,1821
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,23,NaT,1854
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,23,NaT,1793
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,23,NaT,1910
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,23,NaT,1854
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,24,NaT,1598
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,24,NaT,1824
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,24,NaT,1855
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,24,NaT,1917
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,24,NaT,1539
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,25,NaT,1229
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,25,NaT,1466
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,25,NaT,1774
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,25,NaT,1679
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,25,NaT,1271
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,26,NaT,866
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,26,NaT,1139
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,26,NaT,1553
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,26,NaT,1435
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,26,NaT,939
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,27,NaT,603
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,27,NaT,883
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,27,NaT,1153
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,27,NaT,1074
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,27,NaT,630
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,28,NaT,391
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,28,NaT,534
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,28,NaT,820
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,28,NaT,731
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,28,NaT,401
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,29,NaT,238
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,29,NaT,368
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,29,NaT,532
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,29,NaT,510
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,29,NaT,249
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,30,NaT,143
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,30,NaT,238
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,30,NaT,366
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,30,NaT,310
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,30,NaT,148
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,31,NaT,96
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,31,NaT,129
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,31,NaT,211
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,31,NaT,197
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,31,NaT,98
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,32,NaT,56
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,32,NaT,81
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,32,NaT,144
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,32,NaT,128
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,32,NaT,57
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,33,NaT,36
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,33,NaT,53
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,33,NaT,90
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,33,NaT,73
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,33,NaT,34
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,34,NaT,22
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,34,NaT,31
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,34,NaT,51
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,34,NaT,46
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,34,NaT,22
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,35,NaT,13
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,35,NaT,18
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,35,NaT,31
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,35,NaT,30
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,35,NaT,14
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,36,NaT,8
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,36,NaT,12
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,36,NaT,22
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,36,NaT,18
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,36,NaT,8
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,37,NaT,5
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,37,NaT,8
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,37,NaT,13
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,37,NaT,12
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,37,NaT,5
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,38,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,38,NaT,5
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,38,NaT,8
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,38,NaT,8
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,38,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,39,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,39,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,39,NaT,5
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,39,NaT,5
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,39,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,40,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,40,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,40,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,40,NaT,3
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,40,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,41,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,41,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,41,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,41,NaT,2
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,41,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,42,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,42,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,42,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,42,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,42,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,43,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,43,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,43,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,43,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,43,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,44,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,44,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,44,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,44,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,44,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,45,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,45,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,45,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,45,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,45,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,46,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,46,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,46,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,46,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,46,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,47,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,47,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,47,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,47,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,47,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,48,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,48,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,48,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,48,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,48,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,49,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,49,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,49,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,49,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,49,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,50,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,50,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,50,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,50,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,50,NaT,1
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,51,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,51,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,51,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,51,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,51,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,84,Texas,US,52,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,10,California,US,52,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,66,Ontario,CA,52,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,22,Estado de Mexico,MX,52,NaT,0
+synth,tr12,tr12_lo_GA,lo,1,GA,55,New York,US,52,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,1,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,1,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,1,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,1,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,1,NaT,51
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,2,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,2,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,2,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,2,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,2,NaT,136
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,3,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,3,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,3,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,3,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,3,NaT,432
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,4,NaT,2
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,4,NaT,3
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,4,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,4,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,4,NaT,1275
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,5,NaT,9
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,5,NaT,11
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,5,NaT,4
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,5,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,5,NaT,2951
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,6,NaT,30
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,6,NaT,41
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,6,NaT,13
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,6,NaT,6
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,6,NaT,4472
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,7,NaT,103
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,7,NaT,136
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,7,NaT,45
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,7,NaT,23
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,7,NaT,4264
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,8,NaT,331
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,8,NaT,437
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,8,NaT,143
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,8,NaT,89
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,8,NaT,2520
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,9,NaT,1017
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,9,NaT,1280
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,9,NaT,488
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,9,NaT,321
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,9,NaT,1008
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,10,NaT,2625
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,10,NaT,3079
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,10,NaT,1389
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,10,NaT,1019
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,10,NaT,412
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,11,NaT,4467
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,11,NaT,4953
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,11,NaT,3390
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,11,NaT,2669
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,11,NaT,170
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,12,NaT,4336
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,12,NaT,4134
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,12,NaT,4781
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,12,NaT,4514
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,12,NaT,65
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,13,NaT,2441
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,13,NaT,2158
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,13,NaT,3904
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,13,NaT,4204
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,13,NaT,35
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,14,NaT,1025
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,14,NaT,808
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,14,NaT,1825
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,14,NaT,2517
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,14,NaT,15
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,15,NaT,369
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,15,NaT,253
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,15,NaT,732
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,15,NaT,942
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,15,NaT,7
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,16,NaT,129
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,16,NaT,94
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,16,NaT,232
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,16,NaT,323
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,16,NaT,3
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,17,NaT,40
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,17,NaT,34
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,17,NaT,86
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,17,NaT,109
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,17,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,18,NaT,16
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,18,NaT,12
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,18,NaT,28
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,18,NaT,44
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,18,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,19,NaT,5
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,19,NaT,4
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,19,NaT,10
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,19,NaT,14
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,19,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,20,NaT,2
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,20,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,20,NaT,4
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,20,NaT,6
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,20,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,21,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,21,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,21,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,21,NaT,2
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,21,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,22,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,22,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,22,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,22,NaT,1
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,22,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,23,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,23,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,23,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,23,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,23,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,24,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,24,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,24,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,24,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,24,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,25,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,25,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,25,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,25,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,25,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,26,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,26,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,26,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,26,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,26,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,27,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,27,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,27,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,27,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,27,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,28,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,28,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,28,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,28,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,28,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,29,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,29,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,29,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,29,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,29,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,30,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,30,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,30,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,30,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,30,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,31,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,31,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,31,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,31,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,31,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,32,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,32,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,32,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,32,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,32,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,33,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,33,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,33,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,33,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,33,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,34,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,34,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,34,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,34,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,34,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,35,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,35,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,35,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,35,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,35,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,36,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,36,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,36,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,36,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,36,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,37,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,37,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,37,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,37,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,37,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,38,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,38,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,38,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,38,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,38,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,39,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,39,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,39,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,39,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,39,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,40,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,40,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,40,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,40,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,40,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,41,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,41,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,41,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,41,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,41,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,42,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,42,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,42,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,42,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,42,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,43,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,43,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,43,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,43,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,43,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,44,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,44,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,44,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,44,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,44,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,45,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,45,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,45,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,45,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,45,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,46,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,46,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,46,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,46,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,46,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,47,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,47,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,47,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,47,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,47,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,48,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,48,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,48,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,48,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,48,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,49,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,49,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,49,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,49,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,49,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,50,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,50,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,50,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,50,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,50,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,51,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,51,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,51,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,51,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,51,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,84,Texas,US,52,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,10,California,US,52,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,66,Ontario,CA,52,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,22,Estado de Mexico,MX,52,NaT,0
+synth,tr15,tr15_me_NY,me,2,NY,55,New York,US,52,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,1,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,1,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,1,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,1,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,1,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,2,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,2,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,2,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,2,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,2,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,3,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,3,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,3,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,3,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,3,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,4,NaT,2
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,4,NaT,2
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,4,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,4,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,4,NaT,3
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,5,NaT,7
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,5,NaT,6
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,5,NaT,3
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,5,NaT,3
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,5,NaT,11
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,6,NaT,27
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,6,NaT,20
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,6,NaT,10
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,6,NaT,11
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,6,NaT,36
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,7,NaT,91
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,7,NaT,69
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,7,NaT,33
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,7,NaT,41
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,7,NaT,124
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,8,NaT,306
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,8,NaT,224
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,8,NaT,113
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,8,NaT,148
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,8,NaT,359
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,9,NaT,917
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,9,NaT,717
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,9,NaT,358
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,9,NaT,506
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,9,NaT,1109
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,10,NaT,2445
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,10,NaT,1922
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,10,NaT,1059
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,10,NaT,1503
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,10,NaT,2690
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,11,NaT,4421
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,11,NaT,4030
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,11,NaT,2572
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,11,NaT,3633
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,11,NaT,4660
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,12,NaT,4199
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,12,NaT,4929
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,12,NaT,4506
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,12,NaT,4630
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,12,NaT,4518
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,13,NaT,2501
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,13,NaT,3170
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,13,NaT,4270
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,13,NaT,3348
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,13,NaT,2324
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,14,NaT,1065
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,14,NaT,1386
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,14,NaT,2442
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,14,NaT,1654
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,14,NaT,941
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,15,NaT,373
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,15,NaT,512
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,15,NaT,1046
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,15,NaT,653
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,15,NaT,360
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,16,NaT,123
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,16,NaT,167
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,16,NaT,376
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,16,NaT,217
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,16,NaT,115
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,17,NaT,49
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,17,NaT,64
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,17,NaT,113
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,17,NaT,85
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,17,NaT,39
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,18,NaT,16
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,18,NaT,21
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,18,NaT,41
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,18,NaT,32
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,18,NaT,12
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,19,NaT,6
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,19,NaT,6
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,19,NaT,14
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,19,NaT,10
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,19,NaT,5
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,20,NaT,2
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,20,NaT,2
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,20,NaT,5
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,20,NaT,4
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,20,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,21,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,21,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,21,NaT,2
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,21,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,21,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,22,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,22,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,22,NaT,1
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,22,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,22,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,23,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,23,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,23,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,23,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,23,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,24,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,24,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,24,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,24,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,24,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,25,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,25,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,25,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,25,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,25,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,26,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,26,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,26,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,26,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,26,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,27,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,27,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,27,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,27,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,27,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,28,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,28,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,28,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,28,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,28,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,29,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,29,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,29,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,29,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,29,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,30,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,30,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,30,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,30,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,30,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,31,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,31,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,31,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,31,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,31,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,32,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,32,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,32,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,32,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,32,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,33,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,33,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,33,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,33,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,33,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,34,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,34,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,34,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,34,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,34,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,35,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,35,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,35,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,35,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,35,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,36,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,36,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,36,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,36,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,36,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,37,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,37,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,37,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,37,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,37,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,38,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,38,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,38,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,38,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,38,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,39,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,39,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,39,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,39,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,39,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,40,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,40,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,40,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,40,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,40,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,41,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,41,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,41,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,41,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,41,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,42,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,42,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,42,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,42,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,42,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,43,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,43,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,43,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,43,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,43,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,44,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,44,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,44,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,44,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,44,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,45,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,45,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,45,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,45,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,45,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,46,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,46,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,46,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,46,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,46,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,47,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,47,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,47,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,47,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,47,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,48,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,48,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,48,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,48,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,48,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,49,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,49,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,49,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,49,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,49,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,50,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,50,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,50,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,50,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,50,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,51,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,51,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,51,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,51,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,51,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,84,Texas,US,52,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,10,California,US,52,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,66,Ontario,CA,52,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,22,Estado de Mexico,MX,52,NaT,0
+synth,tr19,tr19_me_GA,me,2,GA,55,New York,US,52,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,1,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,1,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,1,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,1,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,1,NaT,48
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,2,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,2,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,2,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,2,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,2,NaT,144
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,3,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,3,NaT,1
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,3,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,3,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,3,NaT,405
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,4,NaT,2
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,4,NaT,4
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,4,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,4,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,4,NaT,1127
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,5,NaT,8
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,5,NaT,14
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,5,NaT,1
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,5,NaT,1
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,5,NaT,2395
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,6,NaT,28
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,6,NaT,48
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,6,NaT,6
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,6,NaT,5
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,6,NaT,3125
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,7,NaT,93
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,7,NaT,159
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,7,NaT,21
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,7,NaT,23
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,7,NaT,2246
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,8,NaT,311
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,8,NaT,493
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,8,NaT,79
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,8,NaT,85
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,8,NaT,1090
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,9,NaT,888
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,9,NaT,1370
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,9,NaT,257
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,9,NaT,306
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,9,NaT,460
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,10,NaT,2161
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,10,NaT,2779
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,10,NaT,809
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,10,NaT,948
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,10,NaT,182
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,11,NaT,3201
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,11,NaT,3149
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,11,NaT,1977
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,11,NaT,2206
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,11,NaT,79
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,12,NaT,2623
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,12,NaT,2125
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,12,NaT,3036
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,12,NaT,3290
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,12,NaT,35
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,13,NaT,1319
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,13,NaT,910
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,13,NaT,2652
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,13,NaT,2450
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,13,NaT,18
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,14,NaT,504
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,14,NaT,359
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,14,NaT,1402
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,14,NaT,1301
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,14,NaT,8
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,15,NaT,187
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,15,NaT,94
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,15,NaT,524
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,15,NaT,453
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,15,NaT,4
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,16,NaT,62
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,16,NaT,40
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,16,NaT,177
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,16,NaT,160
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,16,NaT,2
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,17,NaT,20
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,17,NaT,13
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,17,NaT,67
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,17,NaT,54
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,17,NaT,1
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,18,NaT,7
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,18,NaT,5
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,18,NaT,22
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,18,NaT,21
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,18,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,19,NaT,3
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,19,NaT,2
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,19,NaT,7
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,19,NaT,8
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,19,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,20,NaT,1
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,20,NaT,1
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,20,NaT,2
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,20,NaT,3
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,20,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,21,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,21,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,21,NaT,1
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,21,NaT,1
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,21,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,22,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,22,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,22,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,22,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,22,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,23,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,23,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,23,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,23,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,23,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,24,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,24,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,24,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,24,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,24,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,25,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,25,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,25,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,25,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,25,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,26,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,26,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,26,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,26,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,26,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,27,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,27,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,27,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,27,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,27,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,28,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,28,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,28,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,28,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,28,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,29,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,29,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,29,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,29,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,29,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,30,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,30,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,30,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,30,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,30,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,31,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,31,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,31,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,31,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,31,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,32,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,32,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,32,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,32,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,32,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,33,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,33,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,33,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,33,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,33,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,34,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,34,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,34,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,34,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,34,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,35,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,35,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,35,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,35,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,35,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,36,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,36,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,36,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,36,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,36,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,37,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,37,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,37,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,37,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,37,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,38,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,38,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,38,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,38,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,38,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,39,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,39,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,39,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,39,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,39,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,40,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,40,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,40,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,40,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,40,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,41,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,41,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,41,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,41,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,41,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,42,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,42,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,42,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,42,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,42,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,43,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,43,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,43,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,43,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,43,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,44,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,44,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,44,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,44,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,44,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,45,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,45,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,45,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,45,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,45,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,46,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,46,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,46,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,46,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,46,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,47,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,47,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,47,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,47,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,47,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,48,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,48,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,48,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,48,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,48,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,49,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,49,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,49,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,49,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,49,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,50,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,50,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,50,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,50,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,50,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,51,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,51,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,51,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,51,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,51,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,84,Texas,US,52,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,10,California,US,52,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,66,Ontario,CA,52,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,22,Estado de Mexico,MX,52,NaT,0
+synth,tr22,tr22_hi_NY,hi,3,NY,55,New York,US,52,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,1,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,1,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,1,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,1,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,1,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,2,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,2,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,2,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,2,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,2,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,3,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,3,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,3,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,3,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,3,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,4,NaT,2
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,4,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,4,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,4,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,4,NaT,2
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,5,NaT,8
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,5,NaT,5
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,5,NaT,3
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,5,NaT,2
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,5,NaT,7
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,6,NaT,30
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,6,NaT,18
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,6,NaT,11
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,6,NaT,10
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,6,NaT,26
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,7,NaT,103
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,7,NaT,62
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,7,NaT,39
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,7,NaT,36
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,7,NaT,89
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,8,NaT,324
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,8,NaT,198
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,8,NaT,125
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,8,NaT,125
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,8,NaT,272
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,9,NaT,909
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,9,NaT,627
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,9,NaT,385
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,9,NaT,423
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,9,NaT,828
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,10,NaT,2173
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,10,NaT,1619
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,10,NaT,1089
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,10,NaT,1222
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,10,NaT,1964
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,11,NaT,3316
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,11,NaT,2872
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,11,NaT,2270
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,11,NaT,2576
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,11,NaT,3156
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,12,NaT,2492
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,12,NaT,3116
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,12,NaT,3291
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,12,NaT,3295
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,12,NaT,2922
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,13,NaT,1249
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,13,NaT,1843
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,13,NaT,2413
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,13,NaT,2184
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,13,NaT,1327
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,14,NaT,482
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,14,NaT,781
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,14,NaT,1166
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,14,NaT,1009
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,14,NaT,560
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,15,NaT,177
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,15,NaT,271
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,15,NaT,461
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,15,NaT,334
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,15,NaT,200
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,16,NaT,64
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,16,NaT,89
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,16,NaT,152
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,16,NaT,120
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,16,NaT,67
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,17,NaT,20
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,17,NaT,30
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,17,NaT,54
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,17,NaT,46
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,17,NaT,21
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,18,NaT,7
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,18,NaT,10
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,18,NaT,20
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,18,NaT,16
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,18,NaT,7
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,19,NaT,2
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,19,NaT,4
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,19,NaT,7
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,19,NaT,6
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,19,NaT,3
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,20,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,20,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,20,NaT,2
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,20,NaT,2
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,20,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,21,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,21,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,21,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,21,NaT,1
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,21,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,22,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,22,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,22,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,22,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,22,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,23,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,23,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,23,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,23,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,23,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,24,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,24,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,24,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,24,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,24,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,25,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,25,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,25,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,25,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,25,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,26,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,26,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,26,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,26,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,26,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,27,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,27,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,27,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,27,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,27,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,28,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,28,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,28,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,28,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,28,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,29,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,29,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,29,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,29,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,29,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,30,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,30,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,30,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,30,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,30,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,31,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,31,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,31,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,31,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,31,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,32,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,32,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,32,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,32,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,32,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,33,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,33,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,33,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,33,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,33,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,34,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,34,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,34,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,34,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,34,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,35,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,35,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,35,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,35,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,35,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,36,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,36,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,36,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,36,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,36,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,37,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,37,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,37,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,37,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,37,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,38,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,38,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,38,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,38,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,38,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,39,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,39,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,39,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,39,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,39,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,40,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,40,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,40,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,40,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,40,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,41,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,41,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,41,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,41,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,41,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,42,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,42,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,42,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,42,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,42,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,43,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,43,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,43,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,43,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,43,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,44,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,44,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,44,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,44,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,44,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,45,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,45,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,45,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,45,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,45,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,46,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,46,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,46,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,46,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,46,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,47,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,47,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,47,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,47,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,47,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,48,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,48,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,48,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,48,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,48,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,49,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,49,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,49,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,49,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,49,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,50,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,50,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,50,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,50,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,50,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,51,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,51,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,51,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,51,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,51,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,84,Texas,US,52,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,10,California,US,52,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,66,Ontario,CA,52,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,22,Estado de Mexico,MX,52,NaT,0
+synth,tr26,tr26_hi_GA,hi,3,GA,55,New York,US,52,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,1,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,1,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,1,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,1,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,1,NaT,64
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,2,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,2,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,2,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,2,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,2,NaT,284
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,3,NaT,1
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,3,NaT,2
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,3,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,3,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,3,NaT,1183
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,4,NaT,9
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,4,NaT,12
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,4,NaT,2
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,4,NaT,1
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,4,NaT,3498
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,5,NaT,54
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,5,NaT,69
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,5,NaT,11
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,5,NaT,9
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,5,NaT,4574
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,6,NaT,288
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,6,NaT,370
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,6,NaT,65
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,6,NaT,57
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,6,NaT,1911
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,7,NaT,1237
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,7,NaT,1544
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,7,NaT,346
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,7,NaT,323
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,7,NaT,569
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,8,NaT,3513
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,8,NaT,4216
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,8,NaT,1492
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,8,NaT,1628
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,8,NaT,173
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,9,NaT,4428
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,9,NaT,4075
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,9,NaT,4001
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,9,NaT,4211
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,9,NaT,55
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,10,NaT,1822
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,10,NaT,1543
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,10,NaT,4036
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,10,NaT,3866
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,10,NaT,17
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,11,NaT,508
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,11,NaT,359
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,11,NaT,1418
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,11,NaT,1418
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,11,NaT,6
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,12,NaT,114
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,12,NaT,88
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,12,NaT,433
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,12,NaT,347
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,12,NaT,2
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,13,NaT,29
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,13,NaT,21
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,13,NaT,87
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,13,NaT,89
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,13,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,14,NaT,7
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,14,NaT,5
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,14,NaT,21
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,14,NaT,20
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,14,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,15,NaT,2
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,15,NaT,1
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,15,NaT,5
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,15,NaT,5
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,15,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,16,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,16,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,16,NaT,1
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,16,NaT,1
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,16,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,17,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,17,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,17,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,17,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,17,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,18,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,18,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,18,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,18,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,18,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,19,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,19,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,19,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,19,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,19,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,20,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,20,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,20,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,20,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,20,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,21,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,21,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,21,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,21,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,21,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,22,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,22,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,22,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,22,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,22,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,23,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,23,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,23,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,23,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,23,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,24,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,24,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,24,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,24,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,24,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,25,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,25,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,25,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,25,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,25,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,26,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,26,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,26,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,26,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,26,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,27,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,27,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,27,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,27,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,27,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,28,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,28,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,28,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,28,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,28,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,29,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,29,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,29,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,29,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,29,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,30,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,30,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,30,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,30,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,30,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,31,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,31,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,31,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,31,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,31,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,32,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,32,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,32,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,32,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,32,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,33,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,33,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,33,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,33,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,33,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,34,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,34,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,34,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,34,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,34,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,35,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,35,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,35,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,35,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,35,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,36,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,36,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,36,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,36,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,36,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,37,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,37,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,37,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,37,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,37,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,38,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,38,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,38,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,38,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,38,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,39,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,39,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,39,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,39,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,39,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,40,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,40,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,40,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,40,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,40,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,41,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,41,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,41,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,41,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,41,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,42,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,42,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,42,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,42,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,42,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,43,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,43,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,43,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,43,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,43,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,44,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,44,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,44,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,44,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,44,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,45,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,45,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,45,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,45,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,45,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,46,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,46,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,46,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,46,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,46,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,47,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,47,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,47,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,47,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,47,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,48,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,48,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,48,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,48,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,48,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,49,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,49,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,49,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,49,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,49,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,50,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,50,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,50,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,50,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,50,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,51,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,51,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,51,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,51,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,51,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,84,Texas,US,52,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,10,California,US,52,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,66,Ontario,CA,52,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,22,Estado de Mexico,MX,52,NaT,0
+synth,tr29,tr29_hs_NY,hs,4,NY,55,New York,US,52,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,1,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,1,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,1,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,1,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,1,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,2,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,2,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,2,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,2,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,2,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,3,NaT,1
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,3,NaT,1
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,3,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,3,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,3,NaT,1
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,4,NaT,9
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,4,NaT,5
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,4,NaT,3
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,4,NaT,1
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,4,NaT,9
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,5,NaT,50
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,5,NaT,29
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,5,NaT,16
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,5,NaT,5
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,5,NaT,52
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,6,NaT,264
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,6,NaT,157
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,6,NaT,88
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,6,NaT,34
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,6,NaT,259
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,7,NaT,1211
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,7,NaT,751
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,7,NaT,450
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,7,NaT,204
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,7,NaT,1186
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,8,NaT,3554
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,8,NaT,2725
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,8,NaT,1772
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,8,NaT,1033
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,8,NaT,3546
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,9,NaT,4684
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,9,NaT,4852
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,9,NaT,4367
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,9,NaT,3556
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,9,NaT,4181
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,10,NaT,1817
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,10,NaT,2687
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,10,NaT,3707
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,10,NaT,4372
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,10,NaT,2095
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,11,NaT,539
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,11,NaT,744
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,11,NaT,1258
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,11,NaT,2023
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,11,NaT,494
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,12,NaT,121
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,12,NaT,225
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,12,NaT,365
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,12,NaT,466
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,12,NaT,132
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,13,NaT,30
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,13,NaT,48
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,13,NaT,86
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,13,NaT,132
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,13,NaT,25
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,14,NaT,6
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,14,NaT,11
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,14,NaT,22
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,14,NaT,34
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,14,NaT,8
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,15,NaT,2
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,15,NaT,2
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,15,NaT,5
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,15,NaT,7
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,15,NaT,2
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,16,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,16,NaT,1
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,16,NaT,1
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,16,NaT,2
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,16,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,17,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,17,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,17,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,17,NaT,1
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,17,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,18,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,18,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,18,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,18,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,18,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,19,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,19,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,19,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,19,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,19,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,20,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,20,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,20,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,20,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,20,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,21,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,21,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,21,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,21,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,21,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,22,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,22,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,22,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,22,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,22,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,23,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,23,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,23,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,23,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,23,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,24,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,24,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,24,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,24,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,24,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,25,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,25,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,25,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,25,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,25,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,26,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,26,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,26,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,26,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,26,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,27,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,27,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,27,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,27,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,27,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,28,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,28,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,28,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,28,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,28,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,29,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,29,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,29,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,29,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,29,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,30,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,30,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,30,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,30,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,30,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,31,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,31,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,31,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,31,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,31,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,32,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,32,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,32,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,32,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,32,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,33,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,33,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,33,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,33,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,33,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,34,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,34,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,34,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,34,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,34,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,35,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,35,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,35,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,35,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,35,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,36,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,36,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,36,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,36,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,36,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,37,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,37,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,37,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,37,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,37,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,38,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,38,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,38,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,38,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,38,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,39,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,39,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,39,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,39,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,39,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,40,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,40,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,40,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,40,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,40,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,41,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,41,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,41,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,41,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,41,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,42,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,42,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,42,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,42,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,42,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,43,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,43,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,43,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,43,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,43,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,44,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,44,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,44,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,44,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,44,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,45,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,45,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,45,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,45,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,45,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,46,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,46,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,46,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,46,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,46,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,47,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,47,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,47,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,47,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,47,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,48,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,48,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,48,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,48,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,48,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,49,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,49,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,49,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,49,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,49,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,50,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,50,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,50,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,50,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,50,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,51,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,51,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,51,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,51,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,51,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,84,Texas,US,52,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,10,California,US,52,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,66,Ontario,CA,52,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,22,Estado de Mexico,MX,52,NaT,0
+synth,tr33,tr33_hs_GA,hs,4,GA,55,New York,US,52,NaT,0

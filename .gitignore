@@ -11,6 +11,10 @@ results/model_runs/*.mat
 results/forecasts/*.mat
 results/forecast_groups/*.mat
 
+# fan-plot ensembles (tens of MB, regenerate with src/plotting/export_fan_data.m).
+# The much smaller fan_truth_*.csv are kept.
+results/csv/fan_forecast_*.csv
+
 # bundled truths (regenerate with make_truth_grouped_files)
 data/truths/all_truths_struct.mat
 
